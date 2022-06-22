@@ -1,0 +1,10 @@
+SELECT DISTINCT ?item ?itemLabel ?itemDescription ?sitelinks where {
+    ?item wdt:P31 wd:Q5 ;  # Any instance of a human.
+          wdt:P19/wdt:P131* wd:Q60 ;   #  Who was born in any location in NYC
+          wikibase:sitelinks ?sitelinks.
+    ?item rdfs:label ?itemLabel .
+    FILTER(lang(?itemLabel) = "en") .
+    ?item schema:description ?itemDescription .
+    FILTER(lang(?itemDescription) = "en") .
+}
+ORDER BY DESC(?sitelinks)

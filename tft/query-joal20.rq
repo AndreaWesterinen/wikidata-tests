@@ -1,0 +1,13 @@
+SELECT DISTINCT ?wd ?wdLabel ?ps_ ?ps_Label {
+  VALUES (?person) {(wd:Q2664524)}
+  ?person ?p ?statement .
+  ?statement ?ps ?ps_ .
+  ?wd wikibase:claim ?p.
+  ?wd wikibase:statementProperty ?ps.
+  ?wd rdfs:label ?wdLabel.
+  FILTER(lang(?wdLabel) = "" || lang(?wdLabel) = "en")
+  OPTIONAL {
+    ?ps_ rdfs:label ?ps_Label.
+    FILTER (lang(?ps_Label) = "" || lang(?ps_Label) = "en")
+  }
+} ORDER BY ?wd ?statement

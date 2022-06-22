@@ -1,0 +1,6 @@
+SELECT ?item ?property ?value WHERE {
+  ?item ?property ?value .
+  ?value pq:P2241 wd:Q1193907.
+  ?item wdt:P31 wd:Q5 .
+} 
+LIMIT 500

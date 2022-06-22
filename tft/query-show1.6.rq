@@ -1,0 +1,9 @@
+SELECT DISTINCT ?s
+WHERE
+{
+   ?s wdt:P106/wdt:P279* wd:Q33999 ;   # actor
+      wdt:P21 wd:Q6581072 .            # gender: female 
+   MINUS {
+      ?s wdt:P18 []     # Exclude if there is an image
+   }
+} LIMIT 50

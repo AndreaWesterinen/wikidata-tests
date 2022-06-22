@@ -1,0 +1,7 @@
+SELECT DISTINCT ?parent ?prop ?obj
+WHERE {
+    # VALUES ?obj { wd:Q72903266 wd:Q9312 wd:Q46139 wd:Q797892 wd:Q17280087 }
+    ?parent wdt:P31|wdt:P279 wd:Q451553  .
+    ?parent ?prop ?obj .
+    [] wikibase:directClaim ?prop .
+}

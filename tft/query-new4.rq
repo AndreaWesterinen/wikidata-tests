@@ -1,0 +1,13 @@
+SELECT DISTINCT ?person ?personName ?born ?died ?stateDied 
+{
+    VALUES ?state { wd:Q1400 wd:Q1370 wd:Q1454 wd:Q1456 wd:Q1603 }
+    ?person wdt:P31 wd:Q5 ;         # Human   
+            wdt:P569 ?born ;        # Birth date
+            wdt:P570 ?died ;        # Date of death
+            wdt:P20/wdt:P131* ?state .
+    FILTER ( year(?died)>=1860 && year(?died)<=1865 )  # Died during Civil War
+    ?person rdfs:label ?personName .
+    FILTER ( lang(?personName) = "en" ) .
+    ?state rdfs:label ?stateDied .
+    FILTER ( lang(?stateDied) = "en" ) .
+} ORDER BY ?died

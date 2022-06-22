@@ -1,0 +1,30 @@
+SELECT ?person ?personLabel ?givenNameLabel ?familyNameLabel ?countryLabel ?personDesc ?article
+WHERE
+{
+    VALUES ?person { wd:Q1291170 wd:Q1291179 wd:Q1291185 wd:Q1291204 wd:Q1291224 wd:Q1291583 wd:Q1292140 wd:Q1293389 
+                     wd:Q1294306 wd:Q1300083 wd:Q1301016 wd:Q1304154 wd:Q1898836 wd:Q1898893 wd:Q516722 wd:Q516909 
+                     wd:Q3293896 wd:Q3294127 wd:Q3295144 wd:Q2628217  }
+    ?person wdt:P27 ?country;
+         rdfs:label ?personLabel;
+         schema:description ?personDesc.
+    OPTIONAL {
+        ?person wdt:P734 ?familyName.
+        ?familyName rdfs:label ?familyNameLabel .
+        FILTER(LANG(?familyNameLabel) = "pt").  
+    }
+    OPTIONAL {
+        ?person wdt:P735 ?givenName.
+        ?givenName rdfs:label ?givenNameLabel .
+        FILTER(LANG(?givenNameLabel) = "pt").  
+    }    
+    
+    ?country rdfs:label ?countryLabel.
+    
+    ?article schema:about ?person;
+             schema:inLanguage "pt";
+             schema:isPartOf <https://pt.wikipedia.org/> .
+  
+    FILTER(LANG(?personLabel) = "pt").
+    FILTER(LANG(?countryLabel) = "pt").
+    FILTER(LANG(?personDesc) = "pt").
+}

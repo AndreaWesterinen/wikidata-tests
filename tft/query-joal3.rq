@@ -1,0 +1,7 @@
+SELECT DISTINCT ?q
+{
+    VALUES ?q { wd:Q125364 wd:Q95665608 wd:Q11739988 }
+    ?q wdt:P569 ?born ; wdt:P570 ?died.
+    FILTER ( year(?born)=1860 ).
+    FILTER ( year(?died)=1884 )
+}

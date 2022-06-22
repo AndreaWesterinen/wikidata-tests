@@ -1,0 +1,8 @@
+SELECT ?property ?count
+WHERE {
+  SELECT ?property (COUNT(?item) AS ?count)
+  WHERE {
+    ?item ?statement wd:Q3324507 .                # items pointing to Q3324507 through a statement
+    ?property wikibase:statementProperty ?statement .  # property used for that statement
+  } GROUP BY ?property                            # count usage for each property
+} ORDER BY DESC(?count)                           # show in descending order of uses

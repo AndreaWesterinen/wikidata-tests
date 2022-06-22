@@ -1,0 +1,4 @@
+SELECT DISTINCT ?subject ?taxonID
+WHERE {
+    ?subject wdt:P846 ?taxonID .
+} LIMIT 50

@@ -1,0 +1,52 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/resource/>
+SELECT DISTINCT ?musicianLabel
+WHERE {
+  {
+    # *** dbpedia ***
+    SERVICE <http://dbpedia.org/sparql> {
+      ?musician a dbo:Person .
+      {
+        # person, who has musical genre xy
+        ?musician dbo:genre ?genre .
+      } UNION {
+        # the member (person) of a band, which has musical genre xy
+        ?musician dbo:member|wdt:associatedBand ?band .
+        ?band dbo:genre ?genre .
+      }
+      OPTIONAL {
+        ?musician <http://www.w3.org/2000/01/rdf-schema#label> ?musicianLabel .
+        FILTER ( LANGMATCHES ( LANG ( ?musicianLabel ), 'en' ) )
+      }
+      FILTER ( ?genre IN (
+        dbp:Psychedelic_pop,
+        dbp:Psychedelic_rock,
+        dbp:Acid_rock,
+        dbp:Psychedelic_folk,
+        dbp:Neo-psychedelia,
+        dbp:Space_rock,
+        dbp:Dream_pop
+      ) )
+    }
+  } UNION {
+    # *** wikidata ***
+    ?musician wdt:P31 wd:Q5 ; rdfs:label ?musicianLabel .
+    FILTER ( LANGMATCHES ( LANG ( ?musicianLabel ), 'en' ) )
+    {
+      { ?musician wdt:P136 ?genre . }
+      UNION
+      { ?musician wdt:P361|wdt:P463 ?band .
+        ?band wdt:P136 ?genre . }
+    }
+    FILTER ( ?genre IN (
+      wd:Q383982,
+      wd:Q206159,
+      wd:Q236932,
+      wd:Q1500364,
+      wd:Q703778,
+      wd:Q236913,
+      wd:Q592330
+    ) )
+  }
+}
+ORDER BY ASC(?musicianLabel)

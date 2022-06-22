@@ -1,0 +1,5 @@
+SELECT ?q ?x
+{
+    wd:Q37938621 wdt:P131* ?q .
+    ?q wdt:P300 ?x
+}

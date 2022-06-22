@@ -1,0 +1,27 @@
+SELECT
+    (STRAFTER(STR(?property), 'entity/') as ?id)
+    ?property
+    ?propertyType
+    ?propertyLabel
+    ?propertyDescription
+    ?propertyAltLabel
+    (STRAFTER(STR(?propertyType), '#') as ?value_type)
+    ?formatter_url
+WHERE {
+    VALUES (?property) { (wd:Q7314) (wd:P7180) (wd:P7181) (wd:P7182) }
+    ?property wikibase:propertyType ?propertyType .
+    OPTIONAL { 
+        ?property wdt:P1630 ?formatter_url.
+    }
+    ?property rdfs:label ?propertyLabel .
+    FILTER (lang(?propertyLabel) = "en")
+    OPTIONAL {
+        ?property skos:altLabel ?propertyAltLabel .
+        FILTER (lang(?propertyAltLabel) = "en")
+    }
+    OPTIONAL {
+        ?property schema:description ?propertyDescription .
+        FILTER (lang(?propertyDescription) = "en")
+    }
+}
+ORDER BY ASC(xsd:integer(STRAFTER(STR(?property), 'P')))

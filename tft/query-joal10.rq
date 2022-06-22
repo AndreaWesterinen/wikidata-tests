@@ -1,0 +1,6 @@
+SELECT ?sitelink
+WHERE {
+    BIND(wd:Q7430400 AS ?wikipedia)
+    ?sitelink schema:about ?wikipedia .
+    FILTER REGEX(STR(?sitelink), '.wikipedia.org/wiki/') .
+}

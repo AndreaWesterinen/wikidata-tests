@@ -1,0 +1,13 @@
+prefix uom: <http://www.opengis.net/def/uom/OGC/1.0/>
+prefix geo: <http://www.opengis.net/ont/geosparql#>
+SELECT ?place ?location ?dist WHERE {
+  {  # Create a geometric object representing the area surrounding Berlin
+     SELECT ?berlinLoc ?aroundBerlinLoc WHERE {
+        wd:Q64 geo:hasDefaultGeometry [ geo:asWKT ?berlinLoc ] .       # Berlin location
+        BIND (geof:buffer(?berlinLoc, 100000, uom:meter) as ?aroundBerlinLoc) }   
+  }                
+  ?place wdt:P31/wdt:P279* wd:Q1248784 ;                        # Get airports
+         geo:sfWithin ?aroundBerlinLoc ;                        # Limited to the area around Berlin 
+         geo:hasDefaultGeometry [ geo:asWKT ?placeLoc ] .       # And get airport location
+  BIND (geof:distance(?berlinLoc, ?placeLoc, uom:meter) as ?dist) .    # Get the distance
+} ORDER BY ASC(?dist)

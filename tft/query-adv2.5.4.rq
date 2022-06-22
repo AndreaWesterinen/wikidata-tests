@@ -1,0 +1,13 @@
+SELECT ?year ?genre ?genreLabel (COUNT(?item) AS ?count)
+WHERE {
+  ?item wdt:P31 wd:Q571;
+        wdt:P577 ?publication_date;
+        wdt:P136 ?genre.
+  BIND(str(YEAR(?publication_date)) AS ?year) .
+  FILTER (?publication_date >= "2000-00-00T00:00:00Z"^^xsd:dateTime)
+  OPTIONAL { ?genre rdfs:label ?genreLabel .
+             FILTER(lang(?genreLabel) = "en") }
+}
+GROUP BY ?year ?genre ?genreLabel
+HAVING (?count > 5)
+ORDER BY ?year ?genreLabel

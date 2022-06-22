@@ -1,0 +1,6 @@
+SELECT (AVG(?cnt) as ?avg) WHERE {
+  { SELECT ?paper (COUNT(?author) as ?cnt) WHERE {
+      { SELECT DISTINCT ?paper WHERE {
+            ?paper wdt:P31 wd:Q13442814 } LIMIT 300 }
+      ?paper wdt:P50 ?author } GROUP BY ?paper }
+}

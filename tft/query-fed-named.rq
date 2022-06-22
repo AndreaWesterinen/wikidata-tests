@@ -1,0 +1,7 @@
+SELECT DISTINCT ?g {
+  SERVICE <http://sparql.europeana.eu> {
+    GRAPH ?g {
+      [] ?p [] .
+    }
+  }
+}

@@ -1,0 +1,32 @@
+SELECT 
+  ?item
+  (SAMPLE(?iLabel) AS ?itemLabel) 
+  (SAMPLE(?iDescription) AS ?itemDescription) 
+  (SAMPLE(?pic) AS ?pic) 
+  (SAMPLE(?date_of_birth) AS ?date_of_birth) 
+  (SAMPLE(?date_of_death) AS ?date_of_death) 
+  (GROUP_CONCAT(DISTINCT ?citizenshipLabel; SEPARATOR=", ") AS ?citizenshipLabels)
+  (GROUP_CONCAT(DISTINCT ?occupation; SEPARATOR=", ") AS ?occupations)
+  (GROUP_CONCAT(DISTINCT ?occupationLabel; SEPARATOR=", ") AS ?occupationLabels)
+
+WHERE {
+  VALUES ?item {
+    wd:Q269809 wd:Q274590 wd:Q24576851 wd:Q4858963  # Barabara Harris
+    wd:Q807461   # disambiguation pag
+    wd:Q27954833 wd:Q4859015   # Barbara Harrisson or Barbara Harrison
+    # wd:Q826930  symbol for a heart
+  }
+  OPTIONAL { ?item wdt:P18 ?pic. }
+  OPTIONAL { ?item wdt:P27/rdfs:label ?citizenshipLabel .   # Not optional; Assume countries have labels
+             FILTER (lang(?citizenshipLabel) = "en") }
+  OPTIONAL { ?item wdt:P106 ?occupation. 
+             OPTIONAL { ?occupation rdfs:label ?occupationLabel .
+                        FILTER (lang(?occupationLabel) = "en") } }
+  OPTIONAL { ?item wdt:P569 ?date_of_birth. }
+  OPTIONAL { ?item wdt:P570 ?date_of_death. }
+  ?item rdfs:label ?iLabel .
+  FILTER ( lang(?iLabel) = "en" ) .
+  OPTIONAL { ?item schema:description ?iDescription .
+             FILTER ( lang(?iDescription) = "en" ) }
+}
+GROUP BY ?item

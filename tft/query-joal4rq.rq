@@ -1,0 +1,108 @@
+SELECT
+  ?company
+  ?companyLabel ?countryLabel ?ownerOf ?industryLabel ?hqLabel
+  ?hqPostalCode ?hqStreet ?hqStreetDep ?hqlon ?hqlat ?extckr
+  ?legalFormLabel ?parent ?ownedBy
+  ?ISIN ?legalEntityIdentifier ?openCorporatesID ?OKPO_ID ?hungarianCompanyID 
+  ?companiesHouseID ?germanTaxAuthorityID ?EUTransparencyRegisterID ?DUNSnumber ?danishP_number ?GS1code ?dataGouvFrOrganizationID 
+  ?permID ?bloombergCompanyID ?australianBusinessNumber ?australianCompanyNumber ?australianRegisteredBodyNumber 
+  ?czechRegistrationID ?austrianFirmenbuchnummer ?expediaHotelID ?centralIndexKey
+  ?companySize ?UNSPSCCode ?inception
+  ?legalName ?streetAddress ?website ?subsidiary
+WHERE
+{
+    VALUES (?company) {
+        (wd:Q911347) (wd:Q1472987) (wd:Q1486934) (wd:Q1550912) (wd:Q1632461) (wd:Q1770909)
+        (wd:Q1771942) (wd:Q2132023) (wd:Q2300932) (wd:Q3519156) (wd:Q5337066) (wd:Q6537850)
+        (wd:Q17073302) (wd:Q22101796) (wd:Q22799638) (wd:Q23134166) (wd:Q28971310) (wd:Q28971308)
+        (wd:Q28971309) (wd:Q28974630) (wd:Q28974631) (wd:Q28974632) (wd:Q29790564) (wd:Q41598511)
+        (wd:Q45208078) (wd:Q97927899) (wd:Q98456097) (wd:Q7529) (wd:Q26989) (wd:Q43449)
+        (wd:Q53222) (wd:Q89070794) (wd:Q89070792) (wd:Q89070798) (wd:Q89070800) (wd:Q89070805)
+        (wd:Q89070808) (wd:Q89070812) (wd:Q89071138) (wd:Q89071143) (wd:Q89071140) (wd:Q89071147)
+        (wd:Q89071149) (wd:Q89071153) (wd:Q89071158) (wd:Q89071163) (wd:Q89071170) (wd:Q89071178)
+        (wd:Q89071176) (wd:Q89071182) (wd:Q89071185) (wd:Q89071189) (wd:Q89071193) (wd:Q89071198)
+        (wd:Q89071196) (wd:Q89071200) (wd:Q89071228) (wd:Q89071229) (wd:Q89071234) (wd:Q89071239)
+        (wd:Q89071247) (wd:Q89071244) (wd:Q89071250) (wd:Q89071253) (wd:Q89071259) (wd:Q89071256)
+        (wd:Q89071263) (wd:Q89071266) (wd:Q89071268) (wd:Q89071272) (wd:Q89071276) (wd:Q89071280)
+        (wd:Q89071286) (wd:Q89071284) (wd:Q89071290) (wd:Q89071293) (wd:Q89071296) (wd:Q89071303)
+        (wd:Q89071300) (wd:Q89071306) (wd:Q89071315) (wd:Q89071312) (wd:Q89071318) (wd:Q89071319)
+        (wd:Q89071321) (wd:Q89071326) (wd:Q89071331) (wd:Q89071336) (wd:Q89071340) (wd:Q89071347)
+        (wd:Q89071344) (wd:Q89071351) (wd:Q89071354) (wd:Q89071359) (wd:Q89071362) (wd:Q89071367)
+        (wd:Q89071365) (wd:Q89071369) (wd:Q89071372) (wd:Q89071376)
+    }   
+    OPTIONAL { ?company rdfs:label ?companyLabel .
+               FILTER (lang(?companyLabel) = "en") }
+    {         
+        OPTIONAL {
+            ?company p:P159 ?hqLS.
+            OPTIONAL { ?hqLS pq:P281 ?hqPostalCode. }
+            OPTIONAL { ?hqLS pq:P6375 ?hqStreet. }
+            OPTIONAL { ?hqLS pq:P969 ?hqStreetDep. }
+            OPTIONAL { ?hqLS ps:P159 ?hq.  
+                       OPTIONAL { ?hq rdfs:label ?hqLabel .
+                                  FILTER (lang(?hqLabel) = "en") }
+                     }
+            OPTIONAL {
+                ?hqLS pqv:P625 ?c.
+                ?c wikibase:geoLongitude ?hqlon.
+                ?c wikibase:geoLatitude ?hqlat. }
+        }
+        OPTIONAL { ?company wdt:P946 ?ISIN. }
+        OPTIONAL { ?company wdt:P1278 ?legalEntityIdentifier. }
+        OPTIONAL { ?company wdt:P1320 ?openCorporatesID. }
+        OPTIONAL { ?company wdt:P2391 ?OKPO_ID. }
+        OPTIONAL { ?company wdt:P2619 ?hungarianCompanyID. }
+        OPTIONAL { ?company wdt:P2622 ?companiesHouseID. }
+        OPTIONAL { ?company wdt:P2628 ?germanTaxAuthorityID. }
+        OPTIONAL { ?company wdt:P2657 ?EUTransparencyRegisterID. }
+        OPTIONAL { ?company wdt:P2771 ?DUNSnumber. }
+        OPTIONAL { ?company wdt:P2814 ?danishP_number. }
+        OPTIONAL { ?company wdt:P3193 ?GS1code. }
+        OPTIONAL { ?company wdt:P3206 ?dataGouvFrOrganizationID. }
+        OPTIONAL { ?company wdt:P3347 ?permID. }
+        OPTIONAL { ?company wdt:P3377 ?bloombergCompanyID. }
+        OPTIONAL { ?company wdt:P3548 ?australianBusinessNumber. }
+        OPTIONAL { ?company wdt:P3549 ?australianCompanyNumber. }
+        OPTIONAL { ?company wdt:P3551 ?australianRegisteredBodyNumber. }
+        OPTIONAL { ?company wdt:P4156 ?czechRegistrationID. }
+        OPTIONAL { ?company wdt:P5285 ?austrianFirmenbuchnummer. }
+        OPTIONAL { ?company wdt:P5651 ?expediaHotelID. }
+        OPTIONAL { ?company wdt:P1128 ?companySize. }
+        OPTIONAL { ?company wdt:P1454 ?legalForm. 
+                   OPTIONAL { ?legalForm rdfs:label ?legalFormLabel .
+                              FILTER (lang(?langFormLabel) = "en") }
+                 }
+        OPTIONAL { ?company wdt:P2167 ?UNSPSCCode. }
+        OPTIONAL { ?company wdt:P749 ?parent. }
+        OPTIONAL { ?company wdt:P571 ?inception. }
+        OPTIONAL { ?company wdt:P127 ?ownedBy. }
+        OPTIONAL { ?company wdt:P1448 ?legalName. }
+        OPTIONAL { ?company wdt:P6375 ?streetAddress. }
+        OPTIONAL { ?company wdt:P5531 ?centralIndexKey. }
+    }
+    UNION {
+        ?company p:P414 ?exchangeStm. 
+        OPTIONAL { ?exchangeStm pq:P249 ?t. }
+        ?exchangeStm ps:P414 ?e.
+        ?e rdfs:label ?l .
+        FILTER (LANG(?l) = "en")
+        BIND(IF (BOUND(?t), CONCAT(?l, ":", ?t), ?l) as ?extckr).
+    }
+    UNION
+    { ?company wdt:P1830 ?ownerOf. }
+    UNION 
+    { ?company wdt:P452 ?industry. 
+      OPTIONAL { ?industry rdfs:label ?industryLabel .
+                 FILTER (lang(?industryLabel) = "en") }
+    }
+    UNION 
+    { ?company wdt:P856 ?website. }
+    UNION 
+    { ?company wdt:P17 ?country. 
+      ?country rdfs:label ?countryLabel .
+      FILTER (lang(?countryLabel) = "en")
+    }
+    UNION 
+    { ?company wdt:P355 ?subsidiary. }
+
+} ORDER BY ?company

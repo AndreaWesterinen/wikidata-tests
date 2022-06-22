@@ -1,0 +1,21 @@
+SELECT ?pname ?o ?olabel WHERE 
+{
+    {
+        wd:Q4379890 ?directClaimP ?o .          # Get the truthy triples.
+        ?p wikibase:directClaim ?directClaimP . # Find the Wikibase properties linked
+        ?p rdfs:label ?pname .                  # to the truthy triples' predicates
+        FILTER ( lang(?pname) = "en" )          # and their labels, in English.
+        OPTIONAL {
+            ?o rdfs:label ?olabel  
+            FILTER ( lang(?olabel) = "en" )
+        }
+    } UNION {
+        wd:Q4379890 schema:description ?olabel
+        FILTER ( lang(?olabel) = "en" )
+        BIND('_description' AS ?pname)
+    } UNION {
+        wd:Q4379890 rdfs:label ?olabel
+        FILTER ( lang(?olabel) = "en" )
+        BIND('_name' AS ?pname)
+    }
+}

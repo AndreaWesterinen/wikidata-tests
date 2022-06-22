@@ -1,0 +1,11 @@
+# Query to find, for a given starting class (in this case Q875538),
+# what properties are registered as normally applying to it or a super-class
+
+SELECT ?class ?classname ?property ?propertyname WHERE {
+  wd:Q875538 wdt:P279* ?class .
+  ?class wdt:P1963 ?property .
+  ?class rdfs:label ?classname .
+  FILTER (lang(?classname) = "en") .
+  ?property rdfs:label ?propertyname .
+  FILTER (lang(?propertyname) = "en") .
+}

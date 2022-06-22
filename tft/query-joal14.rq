@@ -1,0 +1,12 @@
+SELECT ?p ?o ?oLabel
+WHERE {
+    wd:Q241961 ?p  ?o.
+    FILTER (?p IN (wdt:P31, wdt:P279, wdt:P361, wdt:P527, wdt:P138, wdt:P21,
+                   wdt:P569, wdt:P3150, wdt:P1477, wdt:P570, wdt:P276, wdt:P664,
+                   wdt:P710, wdt:P832, wdt:P1110, wdt:P144, wdt:P136, wdt:P135,
+                   wdt:P179, wdt:P840))
+    OPTIONAL {
+      ?o rdfs:label ?oLabel .
+      FILTER (lang(?oLabel) = "en")
+    }
+}

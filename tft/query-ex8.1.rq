@@ -1,0 +1,9 @@
+SELECT ?item ?itemLabel WHERE {
+   ?item p:P166 ?award_statement .
+   ?award_statement ps:P166 wd:Q10855212 .  # Commander of the Legion of Honour
+   FILTER NOT EXISTS {
+        ?award_statement prov:wasDerivedFrom ?ref
+   }
+   ?item rdfs:label ?itemLabel .
+   FILTER (lang(?itemLabel) = "en")
+}

@@ -1,0 +1,21 @@
+prefix uom: <http://www.opengis.net/def/uom/OGC/1.0/>
+prefix geo: <http://www.opengis.net/ont/geosparql#>
+SELECT ?place ?location WHERE {
+  { 
+     SELECT ?boundingBox WHERE {
+        wd:Q16553 p:P625/psv:P625 ?sjLoc .         # San Jose location
+        wd:Q18013 p:P625/psv:P625 ?sacLoc .        # Sacramento location
+        BIND (wikibase:geoLatitude(?sacLoc) as ?sacLat) .
+        BIND (wikibase:goeLongitude(?sacLoc) as ?sacLong).
+        BIND (wikibase:geoLatitude(?sjLoc) as ?sjLat) .
+        BIND (wikibase:geoLongitude(?sjLoc) as ?sjLong) .
+        # Note that a POLYGON must be closed (e.g., begin and end at the same POINT)
+        BIND (CONCAT("POLYGON(", STR(?sacLong), " ", STR(?sacLat), ", ", STR(?sjLong), " ", STR(?sacLat), ", ",
+                     STR(?sjLong), " ", STR(?sjLat), ", ", STR(?sacLong), " ", STR(?sjLat), ", ",
+                     STR(?sacLong), " ", STR(?sacLat), ")") as ?polygonString ) .   
+        BIND (STRDT(?polygonString, geo:wktLiteral) as ?boundingBox) .
+  }
+  ?place wdt:P31/wdt:P279* wd:Q3914 ;                                  # Schools
+         p:P625/psv:P625 ?placeLoc .                                   # School locations
+  ?placeLoc geo:sfWithin ?boundingBox .                                # Get locations within the box
+}
