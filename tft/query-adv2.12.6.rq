@@ -6,7 +6,7 @@ SELECT ?place ?location WHERE {
         wd:Q16553 p:P625/psv:P625 ?sjLoc .         # San Jose location
         wd:Q18013 p:P625/psv:P625 ?sacLoc .        # Sacramento location
         BIND (wikibase:geoLatitude(?sacLoc) as ?sacLat) .
-        BIND (wikibase:goeLongitude(?sacLoc) as ?sacLong).
+        BIND (wikibase:geoLongitude(?sacLoc) as ?sacLong).
         BIND (wikibase:geoLatitude(?sjLoc) as ?sjLat) .
         BIND (wikibase:geoLongitude(?sjLoc) as ?sjLong) .
         # Note that a POLYGON must be closed (e.g., begin and end at the same POINT)
