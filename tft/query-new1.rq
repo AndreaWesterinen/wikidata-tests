@@ -1,0 +1,7 @@
+SELECT ?property ?propertyLabel ?value WHERE {    
+  ?property wikibase:propertyType wikibase:ExternalId .    
+  ?property wikibase:directClaim ?propertyclaim . 
+  wd:Q42 ?propertyclaim ?value .   
+  ?property rdfs:label ?propertyLabel .
+  FILTER (lang(?propertyLabel)= "en") . 
+}

@@ -1,0 +1,8 @@
+SELECT DISTINCT ?l ?word ?lemma WHERE {
+  VALUES ?word {'bought'@en} 
+  ?l a ontolex:LexicalEntry ; 
+       dct:language wd:Q1860 ; 
+       wikibase:lemma ?lemma ; 
+       ontolex:lexicalForm ?form .
+  ?form ontolex:representation ?word .
+}

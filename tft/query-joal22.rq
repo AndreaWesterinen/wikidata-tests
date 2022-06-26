@@ -1,0 +1,18 @@
+SELECT ?label_sv ?label_en ?art_sv ?art_en {
+    VALUES (?person) {(wd:Q954668)}
+
+    OPTIONAL {
+        ?person rdfs:label ?label_en.
+        FILTER(LANG(?label_en) = ""||LANGMATCHES(LANG(?label_en), "en")).
+    }
+    OPTIONAL {
+        FILTER(LANG(?label_sv) = ""||LANGMATCHES(LANG(?label_sv), "sv")).
+        ?person rdfs:label ?label_sv.
+    }
+    OPTIONAL {
+        ?art_sv schema:about ?person ; schema:isPartOf <https://sv.wikipedia.org/> .
+    }
+    OPTIONAL {
+        ?art_en schema:about ?person ; schema:isPartOf <https://en.wikipedia.org/> .
+    }
+}

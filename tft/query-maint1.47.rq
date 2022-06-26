@@ -1,0 +1,10 @@
+SELECT ?item ?itemLabel ?linkCount where {
+  # hint:Query hint:optimizer "None" .
+  { select ?item where {
+    ?item wdt:P31 wd:Q13442814.
+    } limit 100
+  } 
+  ?item rdfs:label ?itemLabel .
+  FILTER (lang(?itemLabel) = "en") .
+  ?item wikibase:sitelinks ?linkCount.
+} ORDER BY DESC(?linkCount)

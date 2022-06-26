@@ -1,0 +1,5 @@
+SELECT ?item ?reference
+WHERE {
+  ?item wdt:P1343 wd:Q51955019 .
+  ?item p:P1343 [ prov:wasDerivedFrom [ pr:P958 ?reference ] ] .
+}

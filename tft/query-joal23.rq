@@ -1,0 +1,4 @@
+prefix schema: <http://schema.org/>
+SELECT * WHERE {
+    <https://en.wikipedia.org/wiki/Saint_Cera> schema:about ?item .
+}

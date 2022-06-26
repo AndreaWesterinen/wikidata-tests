@@ -1,0 +1,9 @@
+SELECT ?l ?lemma ?languageLabel  WHERE {
+  ?l a ontolex:LexicalEntry; 
+       dct:language ?language; 
+       wikibase:lemma ?lemma .
+  ?l wdt:P31 wd:Q376431.   # color term
+  ?language rdfs:label ?languageLabel .
+  FILTER (lang(?languageLabel) = "en") .
+}
+ORDER BY ?languageLabel

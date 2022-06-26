@@ -1,0 +1,10 @@
+SELECT DISTINCT ?work ?workLabel ?languageLabel
+WHERE
+{
+  ?work wdt:P37|wdt:P103|wdt:P364|wdt:P407|wdt:P1412 ?language ;
+        rdfs:label ?workLabel .
+  FILTER (lang(?workLabel) = "en" ) .
+  ?language wdt:P31/wdt:P279* wd:Q7275 ; rdfs:label ?languageLabel .
+  FILTER (lang(?languageLabel) = "en" )
+}
+ORDER BY ?languageLabel

@@ -1,0 +1,4 @@
+SELECT DISTINCT ?subProperty ?subPropertyLabel WHERE {
+  ?subProperty wdt:P1647* wd:P276 ; rdfs:label ?subPropertyLabel .
+  FILTER (lang(?subPropertyLabel) = "en" )
+}
