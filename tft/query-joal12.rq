@@ -1,5 +1,5 @@
 SELECT *
 WHERE {
     wd:Q57612 wdt:P166 ?x. 
-    ?x wdt:P31*/wdt:P279* wd:Q684511
+    ?x wdt:P31*/wdt:P279* wd:Q43229
 }

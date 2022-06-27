@@ -1,0 +1,9 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q5686631>	<http://www.wikidata.org/prop/P836>	<http://www.wikidata.org/entity/statement/Q5686631-e56f3d99-44a0-a3fa-ca3d-15f7602e6a66>	
+<http://www.wikidata.org/entity/statement/Q5686631-e56f3d99-44a0-a3fa-ca3d-15f7602e6a66>	<http://www.wikidata.org/prop/statement/P836>	"E09000006"	
+<http://www.wikidata.org/entity/Q6729201>	<http://www.wikidata.org/prop/P836>	<http://www.wikidata.org/entity/statement/Q6729201-65a22151-478b-5e24-9cde-a1fd21278ce1>	
+<http://www.wikidata.org/entity/statement/Q6729201-65a22151-478b-5e24-9cde-a1fd21278ce1>	<http://www.wikidata.org/prop/statement/P836>	"W04000234"	
+<http://www.wikidata.org/entity/Q319516>	<http://www.wikidata.org/prop/P836>	<http://www.wikidata.org/entity/statement/Q319516-CB88689B-2502-4E3C-9FC6-68D460205A8D>	
+<http://www.wikidata.org/entity/statement/Q319516-CB88689B-2502-4E3C-9FC6-68D460205A8D>	<http://www.wikidata.org/prop/statement/P836>	"S16000077"	
+<http://www.wikidata.org/entity/Q23105>	<http://www.wikidata.org/prop/P836>	<http://www.wikidata.org/entity/statement/Q23105-30ce4f00-4555-1df2-2899-1380ddedbafa>	
+<http://www.wikidata.org/entity/statement/Q23105-30ce4f00-4555-1df2-2899-1380ddedbafa>	<http://www.wikidata.org/prop/statement/P836>	"E10000028"	

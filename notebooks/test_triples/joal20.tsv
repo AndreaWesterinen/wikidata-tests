@@ -1,0 +1,132 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P31>	<http://www.wikidata.org/entity/statement/Q2664524-61AC2EEC-A6AF-4FDB-B3C9-0FC28386F19C>	
+<http://www.wikidata.org/entity/statement/Q2664524-61AC2EEC-A6AF-4FDB-B3C9-0FC28386F19C>	<http://www.wikidata.org/prop/statement/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/P31>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P31>	
+<http://www.wikidata.org/entity/P31>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P31>	
+<http://www.wikidata.org/entity/P31>	<http://www.w3.org/2000/01/rdf-schema#label>	"instance of"@en	
+<http://www.wikidata.org/entity/Q5>	<http://www.w3.org/2000/01/rdf-schema#label>	"human"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P27>	<http://www.wikidata.org/entity/statement/Q2664524-B49ABD7A-AD9B-4FC2-B1D6-CBB68F0B29C4>	
+<http://www.wikidata.org/entity/statement/Q2664524-B49ABD7A-AD9B-4FC2-B1D6-CBB68F0B29C4>	<http://www.wikidata.org/prop/statement/P27>	<http://www.wikidata.org/entity/Q34>	
+<http://www.wikidata.org/entity/P27>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P27>	
+<http://www.wikidata.org/entity/P27>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P27>	
+<http://www.wikidata.org/entity/P27>	<http://www.w3.org/2000/01/rdf-schema#label>	"country of citizenship"@en	
+<http://www.wikidata.org/entity/Q34>	<http://www.w3.org/2000/01/rdf-schema#label>	"Sweden"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P20>	<http://www.wikidata.org/entity/statement/Q2664524-CB550C47-8DAB-41F5-8E61-977C3E830DAA>	
+<http://www.wikidata.org/entity/statement/Q2664524-CB550C47-8DAB-41F5-8E61-977C3E830DAA>	<http://www.wikidata.org/prop/statement/P20>	<http://www.wikidata.org/entity/Q1754>	
+<http://www.wikidata.org/entity/P20>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P20>	
+<http://www.wikidata.org/entity/P20>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P20>	
+<http://www.wikidata.org/entity/P20>	<http://www.w3.org/2000/01/rdf-schema#label>	"place of death"@en	
+<http://www.wikidata.org/entity/Q1754>	<http://www.w3.org/2000/01/rdf-schema#label>	"Stockholm"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P1344>	<http://www.wikidata.org/entity/statement/Q2664524-447D316F-AB53-4E67-A680-B7FC4805D9D7>	
+<http://www.wikidata.org/entity/statement/Q2664524-447D316F-AB53-4E67-A680-B7FC4805D9D7>	<http://www.wikidata.org/prop/statement/P1344>	<http://www.wikidata.org/entity/Q9591>	
+<http://www.wikidata.org/entity/P1344>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P1344>	
+<http://www.wikidata.org/entity/P1344>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P1344>	
+<http://www.wikidata.org/entity/P1344>	<http://www.w3.org/2000/01/rdf-schema#label>	"participant in"@en	
+<http://www.wikidata.org/entity/Q9591>	<http://www.w3.org/2000/01/rdf-schema#label>	"1928 Winter Olympics"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P1344>	<http://www.wikidata.org/entity/statement/Q2664524-302FDBA5-3FCD-42E3-85A0-DFC81288BC1D>	
+<http://www.wikidata.org/entity/statement/Q2664524-302FDBA5-3FCD-42E3-85A0-DFC81288BC1D>	<http://www.wikidata.org/prop/statement/P1344>	<http://www.wikidata.org/entity/Q9596>	
+<http://www.wikidata.org/entity/Q9596>	<http://www.w3.org/2000/01/rdf-schema#label>	"1932 Winter Olympics"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P1344>	<http://www.wikidata.org/entity/statement/Q2664524-1746A5CC-0B3D-4B24-84A2-46680176533F>	
+<http://www.wikidata.org/entity/statement/Q2664524-1746A5CC-0B3D-4B24-84A2-46680176533F>	<http://www.wikidata.org/prop/statement/P1344>	<http://www.wikidata.org/entity/Q530101>	
+<http://www.wikidata.org/entity/Q530101>	<http://www.w3.org/2000/01/rdf-schema#label>	"cross-country skiing at the 1928 Winter Olympics – men's 50 km"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P641>	<http://www.wikidata.org/entity/statement/Q2664524-05417583-9370-45A8-AF9C-613F0F5CE40D>	
+<http://www.wikidata.org/entity/statement/Q2664524-05417583-9370-45A8-AF9C-613F0F5CE40D>	<http://www.wikidata.org/prop/statement/P641>	<http://www.wikidata.org/entity/Q179687>	
+<http://www.wikidata.org/entity/P641>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P641>	
+<http://www.wikidata.org/entity/P641>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P641>	
+<http://www.wikidata.org/entity/P641>	<http://www.w3.org/2000/01/rdf-schema#label>	"sport"@en	
+<http://www.wikidata.org/entity/Q179687>	<http://www.w3.org/2000/01/rdf-schema#label>	"cross-country skiing"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P19>	<http://www.wikidata.org/entity/statement/Q2664524-1EA08384-1045-4B5A-8C6E-66AEE2E84E00>	
+<http://www.wikidata.org/entity/statement/Q2664524-1EA08384-1045-4B5A-8C6E-66AEE2E84E00>	<http://www.wikidata.org/prop/statement/P19>	<http://www.wikidata.org/entity/Q983893>	
+<http://www.wikidata.org/entity/P19>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P19>	
+<http://www.wikidata.org/entity/P19>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P19>	
+<http://www.wikidata.org/entity/P19>	<http://www.w3.org/2000/01/rdf-schema#label>	"place of birth"@en	
+<http://www.wikidata.org/entity/Q983893>	<http://www.w3.org/2000/01/rdf-schema#label>	"Lycksele"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P21>	<http://www.wikidata.org/entity/statement/q2664524-337141D9-1EF6-4237-BD09-229280AFF438>	
+<http://www.wikidata.org/entity/statement/q2664524-337141D9-1EF6-4237-BD09-229280AFF438>	<http://www.wikidata.org/prop/statement/P21>	<http://www.wikidata.org/entity/Q6581097>	
+<http://www.wikidata.org/entity/P21>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P21>	
+<http://www.wikidata.org/entity/P21>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P21>	
+<http://www.wikidata.org/entity/P21>	<http://www.w3.org/2000/01/rdf-schema#label>	"sex or gender"@en	
+<http://www.wikidata.org/entity/Q6581097>	<http://www.w3.org/2000/01/rdf-schema#label>	"male"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P106>	<http://www.wikidata.org/entity/statement/Q2664524-B2AA8E66-1DF5-4F56-9E58-07A1FCA07CB3>	
+<http://www.wikidata.org/entity/statement/Q2664524-B2AA8E66-1DF5-4F56-9E58-07A1FCA07CB3>	<http://www.wikidata.org/prop/statement/P106>	<http://www.wikidata.org/entity/Q13382608>	
+<http://www.wikidata.org/entity/P106>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P106>	
+<http://www.wikidata.org/entity/P106>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P106>	
+<http://www.wikidata.org/entity/P106>	<http://www.w3.org/2000/01/rdf-schema#label>	"occupation"@en	
+<http://www.wikidata.org/entity/Q13382608>	<http://www.w3.org/2000/01/rdf-schema#label>	"cross-country skier"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P734>	<http://www.wikidata.org/entity/statement/Q2664524-E4F51008-4C72-4AB4-AF2B-EE777072F86C>	
+<http://www.wikidata.org/entity/statement/Q2664524-E4F51008-4C72-4AB4-AF2B-EE777072F86C>	<http://www.wikidata.org/prop/statement/P734>	<http://www.wikidata.org/entity/Q21509276>	
+<http://www.wikidata.org/entity/P734>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P734>	
+<http://www.wikidata.org/entity/P734>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P734>	
+<http://www.wikidata.org/entity/P734>	<http://www.w3.org/2000/01/rdf-schema#label>	"family name"@en	
+<http://www.wikidata.org/entity/Q21509276>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jonsson"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P735>	<http://www.wikidata.org/entity/statement/Q2664524-4890415F-3316-4B6A-A4DE-8DC798E2CB2B>	
+<http://www.wikidata.org/entity/statement/Q2664524-4890415F-3316-4B6A-A4DE-8DC798E2CB2B>	<http://www.wikidata.org/prop/statement/P735>	<http://www.wikidata.org/entity/Q15646212>	
+<http://www.wikidata.org/entity/P735>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P735>	
+<http://www.wikidata.org/entity/P735>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P735>	
+<http://www.wikidata.org/entity/P735>	<http://www.w3.org/2000/01/rdf-schema#label>	"given name"@en	
+<http://www.wikidata.org/entity/Q15646212>	<http://www.w3.org/2000/01/rdf-schema#label>	"Gustaf"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P3171>	<http://www.wikidata.org/entity/statement/Q2664524-925db6f3-481f-85cf-0dc1-23f817027e43>	
+<http://www.wikidata.org/entity/statement/Q2664524-925db6f3-481f-85cf-0dc1-23f817027e43>	<http://www.wikidata.org/prop/statement/P3171>	"gustav-jonsson"	
+<http://www.wikidata.org/entity/P3171>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P3171>	
+<http://www.wikidata.org/entity/P3171>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P3171>	
+<http://www.wikidata.org/entity/P3171>	<http://www.w3.org/2000/01/rdf-schema#label>	"Olympic.org athlete ID (archived)"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P5815>	<http://www.wikidata.org/entity/statement/Q2664524-AD468A06-317B-4248-BF09-102AEC499C8A>	
+<http://www.wikidata.org/entity/statement/Q2664524-AD468A06-317B-4248-BF09-102AEC499C8A>	<http://www.wikidata.org/prop/statement/P5815>	"gustav-jonsson"	
+<http://www.wikidata.org/entity/P5815>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P5815>	
+<http://www.wikidata.org/entity/P5815>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P5815>	
+<http://www.wikidata.org/entity/P5815>	<http://www.w3.org/2000/01/rdf-schema#label>	"Olympics.com athlete ID / archived OlympicChannel ID"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P570>	<http://www.wikidata.org/entity/statement/Q2664524-5E15523C-BBF1-4042-A7F3-9A137AF3C8C8>	
+<http://www.wikidata.org/entity/statement/Q2664524-5E15523C-BBF1-4042-A7F3-9A137AF3C8C8>	<http://www.wikidata.org/prop/statement/P570>	"1990-07-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/P570>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P570>	
+<http://www.wikidata.org/entity/P570>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P570>	
+<http://www.wikidata.org/entity/P570>	<http://www.w3.org/2000/01/rdf-schema#label>	"date of death"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P3520>	<http://www.wikidata.org/entity/statement/Q2664524-20E2C067-ECE8-4430-8B79-E5560B2FC7BA>	
+<http://www.wikidata.org/entity/statement/Q2664524-20E2C067-ECE8-4430-8B79-E5560B2FC7BA>	<http://www.wikidata.org/prop/statement/P3520>	"JONSSGUS01"	
+<http://www.wikidata.org/entity/P3520>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P3520>	
+<http://www.wikidata.org/entity/P3520>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P3520>	
+<http://www.wikidata.org/entity/P3520>	<http://www.w3.org/2000/01/rdf-schema#label>	"databaseOlympics.com athlete ID (archived)"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P569>	<http://www.wikidata.org/entity/statement/Q2664524-A6132DA7-492C-4502-8CD4-E08964DB237A>	
+<http://www.wikidata.org/entity/statement/Q2664524-A6132DA7-492C-4502-8CD4-E08964DB237A>	<http://www.wikidata.org/prop/statement/P569>	"1903-07-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/P569>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P569>	
+<http://www.wikidata.org/entity/P569>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P569>	
+<http://www.wikidata.org/entity/P569>	<http://www.w3.org/2000/01/rdf-schema#label>	"date of birth"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P1447>	<http://www.wikidata.org/entity/statement/Q2664524-C2AF279A-31D5-40A9-AD0B-53A7B5CD59BC>	
+<http://www.wikidata.org/entity/statement/Q2664524-C2AF279A-31D5-40A9-AD0B-53A7B5CD59BC>	<http://www.wikidata.org/prop/statement/P1447>	"jo/gustaf-jonsson-1"	
+<http://www.wikidata.org/entity/P1447>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P1447>	
+<http://www.wikidata.org/entity/P1447>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P1447>	
+<http://www.wikidata.org/entity/P1447>	<http://www.w3.org/2000/01/rdf-schema#label>	"Sports-Reference.com Olympic athlete ID (archived)"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P646>	<http://www.wikidata.org/entity/statement/Q2664524-D2DED7C8-3CC4-4534-BD4B-FE2C4BB9A597>	
+<http://www.wikidata.org/entity/statement/Q2664524-D2DED7C8-3CC4-4534-BD4B-FE2C4BB9A597>	<http://www.wikidata.org/prop/statement/P646>	"/m/0fcw_5"	
+<http://www.wikidata.org/entity/P646>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P646>	
+<http://www.wikidata.org/entity/P646>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P646>	
+<http://www.wikidata.org/entity/P646>	<http://www.w3.org/2000/01/rdf-schema#label>	"Freebase ID"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P8286>	<http://www.wikidata.org/entity/statement/Q2664524-25005EA8-18F3-42AE-AB97-2650BB9FDC66>	
+<http://www.wikidata.org/entity/statement/Q2664524-25005EA8-18F3-42AE-AB97-2650BB9FDC66>	<http://www.wikidata.org/prop/statement/P8286>	"87633"	
+<http://www.wikidata.org/entity/P8286>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P8286>	
+<http://www.wikidata.org/entity/P8286>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P8286>	
+<http://www.wikidata.org/entity/P8286>	<http://www.w3.org/2000/01/rdf-schema#label>	"Olympedia people ID"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P3368>	<http://www.wikidata.org/entity/statement/Q2664524-7CFD5C66-C71B-4795-8184-BD2B1A1FC9B9>	
+<http://www.wikidata.org/entity/statement/Q2664524-7CFD5C66-C71B-4795-8184-BD2B1A1FC9B9>	<http://www.wikidata.org/prop/statement/P3368>	"2122957"	
+<http://www.wikidata.org/entity/P3368>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P3368>	
+<http://www.wikidata.org/entity/P3368>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P3368>	
+<http://www.wikidata.org/entity/P3368>	<http://www.w3.org/2000/01/rdf-schema#label>	"Prabook ID"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P2773>	<http://www.wikidata.org/entity/statement/Q2664524-80136D75-9AE1-49FE-86B0-8D80782C4466>	
+<http://www.wikidata.org/entity/statement/Q2664524-80136D75-9AE1-49FE-86B0-8D80782C4466>	<http://www.wikidata.org/prop/statement/P2773>	"28485"	
+<http://www.wikidata.org/entity/P2773>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P2773>	
+<http://www.wikidata.org/entity/P2773>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P2773>	
+<http://www.wikidata.org/entity/P2773>	<http://www.w3.org/2000/01/rdf-schema#label>	"FIS cross-country skier ID"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P2323>	<http://www.wikidata.org/entity/statement/Q2664524-8c0ce7f3-4fa2-0195-270e-ab96f77e2ba1>	
+<http://www.wikidata.org/entity/statement/Q2664524-8c0ce7f3-4fa2-0195-270e-ab96f77e2ba1>	<http://www.wikidata.org/prop/statement/P2323>	"g/gustaf-jonsson"	
+<http://www.wikidata.org/entity/P2323>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P2323>	
+<http://www.wikidata.org/entity/P2323>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P2323>	
+<http://www.wikidata.org/entity/P2323>	<http://www.w3.org/2000/01/rdf-schema#label>	"Swedish Olympic Committee athlete ID"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P18>	<http://www.wikidata.org/entity/statement/Q2664524-C9C10CA8-8968-45C7-A984-51E2E326A416>	
+<http://www.wikidata.org/entity/statement/Q2664524-C9C10CA8-8968-45C7-A984-51E2E326A416>	<http://www.wikidata.org/prop/statement/P18>	<http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Jonsson%201928.jpg>	
+<http://www.wikidata.org/entity/P18>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P18>	
+<http://www.wikidata.org/entity/P18>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P18>	
+<http://www.wikidata.org/entity/P18>	<http://www.w3.org/2000/01/rdf-schema#label>	"image"@en	
+<http://www.wikidata.org/entity/Q2664524>	<http://www.wikidata.org/prop/P2048>	<http://www.wikidata.org/entity/statement/Q2664524-0B08BF97-CCA9-4A80-8A86-1F0CA3E042CC>	
+<http://www.wikidata.org/entity/statement/Q2664524-0B08BF97-CCA9-4A80-8A86-1F0CA3E042CC>	<http://www.wikidata.org/prop/statement/P2048>	165	
+<http://www.wikidata.org/entity/P2048>	<http://wikiba.se/ontology#claim>	<http://www.wikidata.org/prop/P2048>	
+<http://www.wikidata.org/entity/P2048>	<http://wikiba.se/ontology#statementProperty>	<http://www.wikidata.org/prop/statement/P2048>	
+<http://www.wikidata.org/entity/P2048>	<http://www.w3.org/2000/01/rdf-schema#label>	"height"@en	

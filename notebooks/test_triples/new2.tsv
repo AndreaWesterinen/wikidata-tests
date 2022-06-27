@@ -1,0 +1,708 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q5545756>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5545756>	<http://www.wikidata.org/prop/direct/P569>	"1808-11-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5545756>	<http://www.wikidata.org/prop/direct/P570>	"1862-08-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5545756>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q88>	
+<http://www.wikidata.org/entity/Q88>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q5545756>	<http://www.w3.org/2000/01/rdf-schema#label>	"George W. Taylor"@en	
+<http://www.wikidata.org/entity/Q1370>	<http://www.w3.org/2000/01/rdf-schema#label>	"Virginia"@en	
+<http://www.wikidata.org/entity/Q5545756>	<http://www.wikidata.org/prop/direct/P570>	"1862-09-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5366528>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5366528>	<http://www.wikidata.org/prop/direct/P569>	"1837-04-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5366528>	<http://www.wikidata.org/prop/direct/P570>	"1861-05-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5366528>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q88>	
+<http://www.wikidata.org/entity/Q5366528>	<http://www.w3.org/2000/01/rdf-schema#label>	"Elmer E. Ellsworth"@en	
+<http://www.wikidata.org/entity/Q2426966>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2426966>	<http://www.wikidata.org/prop/direct/P569>	"1820-09-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2426966>	<http://www.wikidata.org/prop/direct/P570>	"1863-10-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2426966>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q88>	
+<http://www.wikidata.org/entity/Q2426966>	<http://www.w3.org/2000/01/rdf-schema#label>	"Thomas Hart Ruffin"@en	
+<http://www.wikidata.org/entity/Q5132289>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5132289>	<http://www.wikidata.org/prop/direct/P569>	"1836-05-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5132289>	<http://www.wikidata.org/prop/direct/P570>	"1864-07-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5132289>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q88>	
+<http://www.wikidata.org/entity/Q5132289>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cleveland Winslow"@en	
+<http://www.wikidata.org/entity/Q456208>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q456208>	<http://www.wikidata.org/prop/direct/P569>	"1803-12-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q456208>	<http://www.wikidata.org/prop/direct/P570>	"1862-01-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q456208>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q43421>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q456208>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Hemphill"@en	
+<http://www.wikidata.org/entity/Q456208>	<http://www.wikidata.org/prop/direct/P570>	"1862-01-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q11881>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q11881>	<http://www.wikidata.org/prop/direct/P569>	"1790-03-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q11881>	<http://www.wikidata.org/prop/direct/P570>	"1862-01-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q11881>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q11881>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Tyler"@en	
+<http://www.wikidata.org/entity/Q313583>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q313583>	<http://www.wikidata.org/prop/direct/P569>	"1833-02-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q313583>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q313583>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q313583>	<http://www.w3.org/2000/01/rdf-schema#label>	"J. E. B. Stuart"@en	
+<http://www.wikidata.org/entity/Q129442>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q129442>	<http://www.wikidata.org/prop/direct/P569>	"1789-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q129442>	<http://www.wikidata.org/prop/direct/P570>	"1863-12-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q129442>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q129442>	<http://www.w3.org/2000/01/rdf-schema#label>	"William M. McCarty"@en	
+<http://www.wikidata.org/entity/Q6249034>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6249034>	<http://www.wikidata.org/prop/direct/P569>	"1844-06-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6249034>	<http://www.wikidata.org/prop/direct/P570>	"1865-04-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6249034>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q495310>	
+<http://www.wikidata.org/entity/Q495310>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q6249034>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Mobberly"@en	
+<http://www.wikidata.org/entity/Q8012020>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q8012020>	<http://www.wikidata.org/prop/direct/P569>	"1828-02-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8012020>	<http://www.wikidata.org/prop/direct/P570>	"1865-03-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8012020>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q501779>	
+<http://www.wikidata.org/entity/Q501779>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q8012020>	<http://www.w3.org/2000/01/rdf-schema#label>	"William Henry Harman"@en	
+<http://www.wikidata.org/entity/Q6253701>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6253701>	<http://www.wikidata.org/prop/direct/P569>	"1825-05-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6253701>	<http://www.wikidata.org/prop/direct/P570>	"1861-06-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6253701>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q501785>	
+<http://www.wikidata.org/entity/Q501785>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q6253701>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Quincy Marr"@en	
+<http://www.wikidata.org/entity/Q5044166>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5044166>	<http://www.wikidata.org/prop/direct/P569>	"1818-08-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5044166>	<http://www.wikidata.org/prop/direct/P570>	"1863-11-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5044166>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q123766>	
+<http://www.wikidata.org/entity/Q123766>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q5044166>	<http://www.w3.org/2000/01/rdf-schema#label>	"Carnot Posey"@en	
+<http://www.wikidata.org/entity/Q2579923>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2579923>	<http://www.wikidata.org/prop/direct/P569>	"1768-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2579923>	<http://www.wikidata.org/prop/direct/P570>	"1864-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2579923>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q123766>	
+<http://www.wikidata.org/entity/Q2579923>	<http://www.w3.org/2000/01/rdf-schema#label>	"William McCoy"@en	
+<http://www.wikidata.org/entity/Q735654>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q735654>	<http://www.wikidata.org/prop/direct/P569>	"1817-05-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q735654>	<http://www.wikidata.org/prop/direct/P570>	"1862-05-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q735654>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q735654>	<http://www.w3.org/2000/01/rdf-schema#label>	"Sydenham Moore"@en	
+<http://www.wikidata.org/entity/Q735654>	<http://www.wikidata.org/prop/direct/P570>	"1862-08-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q919669>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q919669>	<http://www.wikidata.org/prop/direct/P569>	"1822-11-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q919669>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q919669>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q919669>	<http://www.w3.org/2000/01/rdf-schema#label>	"James B. Gordon"@en	
+<http://www.wikidata.org/entity/Q1175470>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1175470>	<http://www.wikidata.org/prop/direct/P569>	"1817-11-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1175470>	<http://www.wikidata.org/prop/direct/P570>	"1864-03-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1175470>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q1175470>	<http://www.w3.org/2000/01/rdf-schema#label>	"David Maney Currin"@en	
+<http://www.wikidata.org/entity/Q4160418>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4160418>	<http://www.wikidata.org/prop/direct/P569>	"1825-04-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4160418>	<http://www.wikidata.org/prop/direct/P570>	"1863-01-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4160418>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q4160418>	<http://www.w3.org/2000/01/rdf-schema#label>	"David Rumph Jones"@en	
+<http://www.wikidata.org/entity/Q4888971>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4888971>	<http://www.wikidata.org/prop/direct/P569>	"1824-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4888971>	<http://www.wikidata.org/prop/direct/P570>	"1864-08-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4888971>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q4888971>	<http://www.w3.org/2000/01/rdf-schema#label>	"Benjamin Lewis Hodge"@en	
+<http://www.wikidata.org/entity/Q4889272>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4889272>	<http://www.wikidata.org/prop/direct/P569>	"1831-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4889272>	<http://www.wikidata.org/prop/direct/P570>	"1864-06-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4889272>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q4889272>	<http://www.w3.org/2000/01/rdf-schema#label>	"Benjamin T. Brockman"@en	
+<http://www.wikidata.org/entity/Q1360749>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1360749>	<http://www.wikidata.org/prop/direct/P569>	"1817-12-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1360749>	<http://www.wikidata.org/prop/direct/P570>	"1864-10-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1360749>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q1360749>	<http://www.w3.org/2000/01/rdf-schema#label>	"James J. Archer"@en	
+<http://www.wikidata.org/entity/Q1304972>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1304972>	<http://www.wikidata.org/prop/direct/P569>	"1819-04-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1304972>	<http://www.wikidata.org/prop/direct/P570>	"1864-02-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1304972>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q1304972>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Allen Wilcox"@en	
+<http://www.wikidata.org/entity/Q2157422>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2157422>	<http://www.wikidata.org/prop/direct/P569>	"1826-11-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2157422>	<http://www.wikidata.org/prop/direct/P570>	"1862-05-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2157422>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q2157422>	<http://www.w3.org/2000/01/rdf-schema#label>	"Robert H. Hatton"@en	
+<http://www.wikidata.org/entity/Q1670251>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1670251>	<http://www.wikidata.org/prop/direct/P569>	"1816-01-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1670251>	<http://www.wikidata.org/prop/direct/P570>	"1862-07-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1670251>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q1670251>	<http://www.w3.org/2000/01/rdf-schema#label>	"Stephen F. Hale"@en	
+<http://www.wikidata.org/entity/Q8017905>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q8017905>	<http://www.wikidata.org/prop/direct/P569>	"1831-04-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8017905>	<http://www.wikidata.org/prop/direct/P570>	"1862-08-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8017905>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q183263>	
+<http://www.wikidata.org/entity/Q183263>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q8017905>	<http://www.w3.org/2000/01/rdf-schema#label>	"William S. Baylor"@en	
+<http://www.wikidata.org/entity/Q6281252>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6281252>	<http://www.wikidata.org/prop/direct/P569>	"1826-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6281252>	<http://www.wikidata.org/prop/direct/P570>	"1862-03-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6281252>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q335017>	
+<http://www.wikidata.org/entity/Q335017>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q6281252>	<http://www.w3.org/2000/01/rdf-schema#label>	"Joseph B. Smith"@en	
+<http://www.wikidata.org/entity/Q932012>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q932012>	<http://www.wikidata.org/prop/direct/P569>	"1812-08-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q932012>	<http://www.wikidata.org/prop/direct/P570>	"1862-08-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q932012>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q183263>	
+<http://www.wikidata.org/entity/Q932012>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Hugh Means"@en	
+<http://www.wikidata.org/entity/Q1250401>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1250401>	<http://www.wikidata.org/prop/direct/P569>	"1833-01-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1250401>	<http://www.wikidata.org/prop/direct/P570>	"1864-08-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1250401>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q1250401>	<http://www.w3.org/2000/01/rdf-schema#label>	"John R. Chambliss"@en	
+<http://www.wikidata.org/entity/Q1238208>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1238208>	<http://www.wikidata.org/prop/direct/P569>	"1784-04-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1238208>	<http://www.wikidata.org/prop/direct/P570>	"1860-05-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1238208>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q1238208>	<http://www.w3.org/2000/01/rdf-schema#label>	"Peter Vivian Daniel"@en	
+<http://www.wikidata.org/entity/Q1233399>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1233399>	<http://www.wikidata.org/prop/direct/P569>	"1824-10-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1233399>	<http://www.wikidata.org/prop/direct/P570>	"1864-06-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1233399>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q1233399>	<http://www.w3.org/2000/01/rdf-schema#label>	"Laurence M. Keitt"@en	
+<http://www.wikidata.org/entity/Q6528899>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6528899>	<http://www.wikidata.org/prop/direct/P569>	"1822-04-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6528899>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6528899>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q6528899>	<http://www.w3.org/2000/01/rdf-schema#label>	"Leroy Augustus Stafford"@en	
+<http://www.wikidata.org/entity/Q5666159>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5666159>	<http://www.wikidata.org/prop/direct/P569>	"1827-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5666159>	<http://www.wikidata.org/prop/direct/P570>	"1863-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5666159>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q5666159>	<http://www.w3.org/2000/01/rdf-schema#label>	"Alexander Galt"@en	
+<http://www.wikidata.org/entity/Q5709686>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5709686>	<http://www.wikidata.org/prop/direct/P569>	"1790-01-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5709686>	<http://www.wikidata.org/prop/direct/P570>	"1863-03-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5709686>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q5709686>	<http://www.w3.org/2000/01/rdf-schema#label>	"Powhatan Ellis"@en	
+<http://www.wikidata.org/entity/Q5769082>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5769082>	<http://www.wikidata.org/prop/direct/P569>	"1814-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5769082>	<http://www.wikidata.org/prop/direct/P570>	"1864-09-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5769082>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q5769082>	<http://www.w3.org/2000/01/rdf-schema#label>	"Hiram Burnham"@en	
+<http://www.wikidata.org/entity/Q6829464>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6829464>	<http://www.wikidata.org/prop/direct/P569>	"1827-09-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6829464>	<http://www.wikidata.org/prop/direct/P570>	"1863-12-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6829464>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q501785>	
+<http://www.wikidata.org/entity/Q6829464>	<http://www.w3.org/2000/01/rdf-schema#label>	"Michael Corcoran"@en	
+<http://www.wikidata.org/entity/Q330341>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q330341>	<http://www.wikidata.org/prop/direct/P569>	"1830-05-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q330341>	<http://www.wikidata.org/prop/direct/P570>	"1864-06-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q330341>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q341679>	
+<http://www.wikidata.org/entity/Q341679>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q330341>	<http://www.w3.org/2000/01/rdf-schema#label>	"George P. Doles"@en	
+<http://www.wikidata.org/entity/Q225991>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q225991>	<http://www.wikidata.org/prop/direct/P569>	"1791-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q225991>	<http://www.wikidata.org/prop/direct/P570>	"1863-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q225991>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q341708>	
+<http://www.wikidata.org/entity/Q341708>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q225991>	<http://www.w3.org/2000/01/rdf-schema#label>	"William P. Taylor"@en	
+<http://www.wikidata.org/entity/Q5346426>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5346426>	<http://www.wikidata.org/prop/direct/P569>	"1844-12-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5346426>	<http://www.wikidata.org/prop/direct/P570>	"1862-07-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5346426>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q341639>	
+<http://www.wikidata.org/entity/Q341639>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q5346426>	<http://www.w3.org/2000/01/rdf-schema#label>	"Edwin Francis Jemison"@en	
+<http://www.wikidata.org/entity/Q3288>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3288>	<http://www.wikidata.org/prop/direct/P569>	"1828-09-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3288>	<http://www.wikidata.org/prop/direct/P570>	"1864-10-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3288>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q341639>	
+<http://www.wikidata.org/entity/Q3288>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Gregg"@en	
+<http://www.wikidata.org/entity/Q1593098>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1593098>	<http://www.wikidata.org/prop/direct/P569>	"1803-07-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1593098>	<http://www.wikidata.org/prop/direct/P570>	"1862-04-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1593098>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q511964>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q1593098>	<http://www.w3.org/2000/01/rdf-schema#label>	"Richard Kidder Meade"@en	
+<http://www.wikidata.org/entity/Q358391>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q358391>	<http://www.wikidata.org/prop/direct/P569>	"1825-11-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q358391>	<http://www.wikidata.org/prop/direct/P570>	"1865-04-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q358391>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q358391>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ambrose Powell Hill"@en	
+<http://www.wikidata.org/entity/Q168044>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q168044>	<http://www.wikidata.org/prop/direct/P569>	"1792-01-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q168044>	<http://www.wikidata.org/prop/direct/P570>	"1861-12-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q168044>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q168044>	<http://www.w3.org/2000/01/rdf-schema#label>	"Francis E. Rives"@en	
+<http://www.wikidata.org/entity/Q2086458>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2086458>	<http://www.wikidata.org/prop/direct/P569>	"1809-04-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2086458>	<http://www.wikidata.org/prop/direct/P570>	"1861-12-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2086458>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q513792>	
+<http://www.wikidata.org/entity/Q513792>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q2086458>	<http://www.w3.org/2000/01/rdf-schema#label>	"Philip St. George Cocke"@en	
+<http://www.wikidata.org/entity/Q4821566>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4821566>	<http://www.wikidata.org/prop/direct/P569>	"1827-02-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4821566>	<http://www.wikidata.org/prop/direct/P570>	"1865-03-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4821566>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q4821566>	<http://www.w3.org/2000/01/rdf-schema#label>	"Augustus Wade Dwight"@en	
+<http://www.wikidata.org/entity/Q5622306>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5622306>	<http://www.wikidata.org/prop/direct/P569>	"1831-03-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5622306>	<http://www.wikidata.org/prop/direct/P570>	"1864-06-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5622306>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q5622306>	<http://www.w3.org/2000/01/rdf-schema#label>	"Guy H. Watkins"@en	
+<http://www.wikidata.org/entity/Q4821566>	<http://www.wikidata.org/prop/direct/P570>	"1865-03-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2580057>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2580057>	<http://www.wikidata.org/prop/direct/P569>	"1823-12-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2580057>	<http://www.wikidata.org/prop/direct/P570>	"1863-04-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2580057>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q2580057>	<http://www.w3.org/2000/01/rdf-schema#label>	"William Mordecai Cooke, Sr."@en	
+<http://www.wikidata.org/entity/Q4786336>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4786336>	<http://www.wikidata.org/prop/direct/P569>	"1832-12-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4786336>	<http://www.wikidata.org/prop/direct/P570>	"1864-12-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4786336>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q4786336>	<http://www.w3.org/2000/01/rdf-schema#label>	"Archibald Gracie III"@en	
+<http://www.wikidata.org/entity/Q21498010>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q21498010>	<http://www.wikidata.org/prop/direct/P569>	"1815-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q21498010>	<http://www.wikidata.org/prop/direct/P570>	"1860-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q21498010>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q123766>	
+<http://www.wikidata.org/entity/Q21498010>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Toole"@en	
+<http://www.wikidata.org/entity/Q6129191>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6129191>	<http://www.wikidata.org/prop/direct/P569>	"1838-02-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6129191>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6129191>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q341679>	
+<http://www.wikidata.org/entity/Q6129191>	<http://www.w3.org/2000/01/rdf-schema#label>	"James B. Terrill"@en	
+<http://www.wikidata.org/entity/Q5628091>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5628091>	<http://www.wikidata.org/prop/direct/P569>	"1835-09-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5628091>	<http://www.wikidata.org/prop/direct/P570>	"1864-06-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5628091>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q341679>	
+<http://www.wikidata.org/entity/Q5628091>	<http://www.w3.org/2000/01/rdf-schema#label>	"H. Boyd McKeen"@en	
+<http://www.wikidata.org/entity/Q17182833>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q17182833>	<http://www.wikidata.org/prop/direct/P569>	"1842-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q17182833>	<http://www.wikidata.org/prop/direct/P570>	"1864-09-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q17182833>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q341639>	
+<http://www.wikidata.org/entity/Q17182833>	<http://www.w3.org/2000/01/rdf-schema#label>	"Richard Gasson"@en	
+<http://www.wikidata.org/entity/Q6252430>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6252430>	<http://www.wikidata.org/prop/direct/P569>	"1832-01-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6252430>	<http://www.wikidata.org/prop/direct/P570>	"1865-02-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6252430>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q340606>	
+<http://www.wikidata.org/entity/Q340606>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q6252430>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Pegram"@en	
+<http://www.wikidata.org/entity/Q6186363>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6186363>	<http://www.wikidata.org/prop/direct/P569>	"1824-12-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6186363>	<http://www.wikidata.org/prop/direct/P570>	"1862-06-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6186363>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q341679>	
+<http://www.wikidata.org/entity/Q6186363>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jesse Gove"@en	
+<http://www.wikidata.org/entity/Q8016731>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q8016731>	<http://www.wikidata.org/prop/direct/P569>	"1841-06-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8016731>	<http://www.wikidata.org/prop/direct/P570>	"1865-04-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8016731>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q340606>	
+<http://www.wikidata.org/entity/Q8016731>	<http://www.w3.org/2000/01/rdf-schema#label>	"William Pegram"@en	
+<http://www.wikidata.org/entity/Q5484873>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5484873>	<http://www.wikidata.org/prop/direct/P569>	"1828-07-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5484873>	<http://www.wikidata.org/prop/direct/P570>	"1864-06-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5484873>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q341679>	
+<http://www.wikidata.org/entity/Q5484873>	<http://www.w3.org/2000/01/rdf-schema#label>	"Frank A. Haskell"@en	
+<http://www.wikidata.org/entity/Q6224318>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6224318>	<http://www.wikidata.org/prop/direct/P569>	"1840-04-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6224318>	<http://www.wikidata.org/prop/direct/P570>	"1864-08-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6224318>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q6224318>	<http://www.w3.org/2000/01/rdf-schema#label>	"John C. C. Sanders"@en	
+<http://www.wikidata.org/entity/Q7029247>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q7029247>	<http://www.wikidata.org/prop/direct/P569>	"1837-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7029247>	<http://www.wikidata.org/prop/direct/P570>	"1862-06-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7029247>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q513919>	
+<http://www.wikidata.org/entity/Q513919>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q7029247>	<http://www.w3.org/2000/01/rdf-schema#label>	"Nicolae Dunca"@en	
+<http://www.wikidata.org/entity/Q16975436>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q16975436>	<http://www.wikidata.org/prop/direct/P569>	"1843-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q16975436>	<http://www.wikidata.org/prop/direct/P570>	"1865-08-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q16975436>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q16975436>	<http://www.w3.org/2000/01/rdf-schema#label>	"Henry M. Hardenbergh"@en	
+<http://www.wikidata.org/entity/Q96384155>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q96384155>	<http://www.wikidata.org/prop/direct/P569>	"1845-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q96384155>	<http://www.wikidata.org/prop/direct/P570>	"1865-04-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q96384155>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511922>	
+<http://www.wikidata.org/entity/Q511922>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q96384155>	<http://www.w3.org/2000/01/rdf-schema#label>	"James Samuel Hill"@en	
+<http://www.wikidata.org/entity/Q6289630>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6289630>	<http://www.wikidata.org/prop/direct/P569>	"1806-09-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6289630>	<http://www.wikidata.org/prop/direct/P570>	"1864-09-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6289630>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q6289630>	<http://www.w3.org/2000/01/rdf-schema#label>	"Joshua B. Howell"@en	
+<http://www.wikidata.org/entity/Q14623606>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q14623606>	<http://www.wikidata.org/prop/direct/P569>	"1815-11-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q14623606>	<http://www.wikidata.org/prop/direct/P570>	"1864-06-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q14623606>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q14623606>	<http://www.w3.org/2000/01/rdf-schema#label>	"William E. Blaisdell"@en	
+<http://www.wikidata.org/entity/Q6143466>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6143466>	<http://www.wikidata.org/prop/direct/P569>	"1829-09-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6143466>	<http://www.wikidata.org/prop/direct/P570>	"1864-06-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6143466>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q6143466>	<http://www.w3.org/2000/01/rdf-schema#label>	"James St. Clair Morton"@en	
+<http://www.wikidata.org/entity/Q16065921>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q16065921>	<http://www.wikidata.org/prop/direct/P569>	"1842-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q16065921>	<http://www.wikidata.org/prop/direct/P570>	"1864-06-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q16065921>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q511964>	
+<http://www.wikidata.org/entity/Q16065921>	<http://www.w3.org/2000/01/rdf-schema#label>	"Morris Brown, Jr."@en	
+<http://www.wikidata.org/entity/Q5345442>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5345442>	<http://www.wikidata.org/prop/direct/P569>	"1815-11-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5345442>	<http://www.wikidata.org/prop/direct/P570>	"1865-04-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5345442>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q844012>	
+<http://www.wikidata.org/entity/Q844012>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q5345442>	<http://www.w3.org/2000/01/rdf-schema#label>	"Edward Steptoe"@en	
+<http://www.wikidata.org/entity/Q1416629>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1416629>	<http://www.wikidata.org/prop/direct/P569>	"1840-04-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1416629>	<http://www.wikidata.org/prop/direct/P570>	"1865-04-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1416629>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q844012>	
+<http://www.wikidata.org/entity/Q1416629>	<http://www.w3.org/2000/01/rdf-schema#label>	"James Dearing"@en	
+<http://www.wikidata.org/entity/Q64015047>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q64015047>	<http://www.wikidata.org/prop/direct/P569>	"1801-08-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q64015047>	<http://www.wikidata.org/prop/direct/P570>	"1864-04-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q64015047>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q844012>	
+<http://www.wikidata.org/entity/Q64015047>	<http://www.w3.org/2000/01/rdf-schema#label>	"William M. Blackford"@en	
+<http://www.wikidata.org/entity/Q21524757>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q21524757>	<http://www.wikidata.org/prop/direct/P569>	"1807-06-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q21524757>	<http://www.wikidata.org/prop/direct/P570>	"1862-04-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q21524757>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q515150>	
+<http://www.wikidata.org/entity/Q515150>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q21524757>	<http://www.w3.org/2000/01/rdf-schema#label>	"Gessner Harrison"@en	
+<http://www.wikidata.org/entity/Q3132646>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3132646>	<http://www.wikidata.org/prop/direct/P569>	"1810-10-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3132646>	<http://www.wikidata.org/prop/direct/P570>	"1862-08-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3132646>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q1333499>	
+<http://www.wikidata.org/entity/Q1333499>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q3132646>	<http://www.w3.org/2000/01/rdf-schema#label>	"Henry Bohlen"@en	
+<http://www.wikidata.org/entity/Q60733529>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q60733529>	<http://www.wikidata.org/prop/direct/P569>	"1819-04-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q60733529>	<http://www.wikidata.org/prop/direct/P570>	"1860-05-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q60733529>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q494164>	
+<http://www.wikidata.org/entity/Q494164>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1400>	
+<http://www.wikidata.org/entity/Q60733529>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jurij Gostenčnik"@en	
+<http://www.wikidata.org/entity/Q1400>	<http://www.w3.org/2000/01/rdf-schema#label>	"Pennsylvania"@en	
+<http://www.wikidata.org/entity/Q6136585>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6136585>	<http://www.wikidata.org/prop/direct/P569>	"1800-02-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6136585>	<http://www.wikidata.org/prop/direct/P570>	"1862-11-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6136585>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q494207>	
+<http://www.wikidata.org/entity/Q494207>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1400>	
+<http://www.wikidata.org/entity/Q6136585>	<http://www.w3.org/2000/01/rdf-schema#label>	"James Irvin"@en	
+<http://www.wikidata.org/entity/Q7326088>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q7326088>	<http://www.wikidata.org/prop/direct/P569>	"1814-01-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7326088>	<http://www.wikidata.org/prop/direct/P570>	"1862-06-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7326088>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q7326088>	<http://www.w3.org/2000/01/rdf-schema#label>	"Richard Griffith"@en	
+<http://www.wikidata.org/entity/Q16066051>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q16066051>	<http://www.wikidata.org/prop/direct/P569>	"1794-08-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q16066051>	<http://www.wikidata.org/prop/direct/P570>	"1862-10-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q16066051>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q16066051>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Baker White"@en	
+<http://www.wikidata.org/entity/Q7807603>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q7807603>	<http://www.wikidata.org/prop/direct/P569>	"1822-03-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7807603>	<http://www.wikidata.org/prop/direct/P570>	"1862-04-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7807603>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q7807603>	<http://www.w3.org/2000/01/rdf-schema#label>	"Timothy Webster"@en	
+<http://www.wikidata.org/entity/Q8013463>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q8013463>	<http://www.wikidata.org/prop/direct/P569>	"1807-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8013463>	<http://www.wikidata.org/prop/direct/P570>	"1862-02-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8013463>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q8013463>	<http://www.w3.org/2000/01/rdf-schema#label>	"William James Hubard"@en	
+<http://www.wikidata.org/entity/Q8015522>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q8015522>	<http://www.wikidata.org/prop/direct/P569>	"1789-11-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8015522>	<http://www.wikidata.org/prop/direct/P570>	"1862-03-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8015522>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q8015522>	<http://www.w3.org/2000/01/rdf-schema#label>	"William Meade"@en	
+<http://www.wikidata.org/entity/Q16065936>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q16065936>	<http://www.wikidata.org/prop/direct/P569>	"1799-02-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q16065936>	<http://www.wikidata.org/prop/direct/P570>	"1864-12-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q16065936>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q16065936>	<http://www.w3.org/2000/01/rdf-schema#label>	"Angus William McDonald"@en	
+<http://www.wikidata.org/entity/Q16065936>	<http://www.wikidata.org/prop/direct/P570>	"1865-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7600487>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q7600487>	<http://www.wikidata.org/prop/direct/P569>	"1835-06-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7600487>	<http://www.wikidata.org/prop/direct/P570>	"1865-04-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7600487>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q461562>	
+<http://www.wikidata.org/entity/Q461562>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q7600487>	<http://www.w3.org/2000/01/rdf-schema#label>	"Stapleton Crutchfield"@en	
+<http://www.wikidata.org/entity/Q3048129>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3048129>	<http://www.wikidata.org/prop/direct/P569>	"1794-01-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3048129>	<http://www.wikidata.org/prop/direct/P570>	"1865-06-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3048129>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q461562>	
+<http://www.wikidata.org/entity/Q3048129>	<http://www.w3.org/2000/01/rdf-schema#label>	"Edmund Ruffin"@en	
+<http://www.wikidata.org/entity/Q1508382>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1508382>	<http://www.wikidata.org/prop/direct/P569>	"1775-08-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1508382>	<http://www.wikidata.org/prop/direct/P570>	"1861-04-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1508382>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q488653>	
+<http://www.wikidata.org/entity/Q488653>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q1508382>	<http://www.w3.org/2000/01/rdf-schema#label>	"George Tucker"@en	
+<http://www.wikidata.org/entity/Q6230494>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6230494>	<http://www.wikidata.org/prop/direct/P569>	"1825-03-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6230494>	<http://www.wikidata.org/prop/direct/P570>	"1864-10-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6230494>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q422487>	
+<http://www.wikidata.org/entity/Q422487>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q6230494>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Dunovant"@en	
+<http://www.wikidata.org/entity/Q3048129>	<http://www.wikidata.org/prop/direct/P570>	"1865-06-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1293051>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1293051>	<http://www.wikidata.org/prop/direct/P569>	"1823-09-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1293051>	<http://www.wikidata.org/prop/direct/P570>	"1862-10-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1293051>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q486920>	
+<http://www.wikidata.org/entity/Q486920>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1603>	
+<http://www.wikidata.org/entity/Q1293051>	<http://www.w3.org/2000/01/rdf-schema#label>	"James S. Jackson"@en	
+<http://www.wikidata.org/entity/Q1603>	<http://www.w3.org/2000/01/rdf-schema#label>	"Kentucky"@en	
+<http://www.wikidata.org/entity/Q718228>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q718228>	<http://www.wikidata.org/prop/direct/P569>	"1814-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q718228>	<http://www.wikidata.org/prop/direct/P570>	"1864-10-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q718228>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q1034421>	
+<http://www.wikidata.org/entity/Q1034421>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1454>	
+<http://www.wikidata.org/entity/Q718228>	<http://www.w3.org/2000/01/rdf-schema#label>	"Rose O'Neal Greenhow"@en	
+<http://www.wikidata.org/entity/Q1454>	<http://www.w3.org/2000/01/rdf-schema#label>	"North Carolina"@en	
+<http://www.wikidata.org/entity/Q3568918>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3568918>	<http://www.wikidata.org/prop/direct/P569>	"1834-04-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3568918>	<http://www.wikidata.org/prop/direct/P570>	"1862-10-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3568918>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q486920>	
+<http://www.wikidata.org/entity/Q3568918>	<http://www.w3.org/2000/01/rdf-schema#label>	"William R. Terrill"@en	
+<http://www.wikidata.org/entity/Q718228>	<http://www.wikidata.org/prop/direct/P570>	"1864-09-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q112664095>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q112664095>	<http://www.wikidata.org/prop/direct/P569>	"1829-11-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q112664095>	<http://www.wikidata.org/prop/direct/P570>	"1860-04-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q112664095>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q507770>	
+<http://www.wikidata.org/entity/Q507770>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1454>	
+<http://www.wikidata.org/entity/Q112664095>	<http://www.w3.org/2000/01/rdf-schema#label>	"James McCullough Walker"@en	
+<http://www.wikidata.org/entity/Q6243797>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6243797>	<http://www.wikidata.org/prop/direct/P569>	"1824-08-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6243797>	<http://www.wikidata.org/prop/direct/P570>	"1862-05-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6243797>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q5429872>	
+<http://www.wikidata.org/entity/Q5429872>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q6243797>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Lafayette Riker"@en	
+<http://www.wikidata.org/entity/Q1036850>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1036850>	<http://www.wikidata.org/prop/direct/P569>	"1824-03-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1036850>	<http://www.wikidata.org/prop/direct/P570>	"1863-02-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1036850>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q342428>	
+<http://www.wikidata.org/entity/Q342428>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q1036850>	<http://www.w3.org/2000/01/rdf-schema#label>	"Carl August Knoderer"@en	
+<http://www.wikidata.org/entity/Q5216324>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5216324>	<http://www.wikidata.org/prop/direct/P569>	"1846-05-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5216324>	<http://www.wikidata.org/prop/direct/P570>	"1864-06-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5216324>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q342043>	
+<http://www.wikidata.org/entity/Q342043>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q5216324>	<http://www.w3.org/2000/01/rdf-schema#label>	"Daniel A. Bean"@en	
+<http://www.wikidata.org/entity/Q5331679>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5331679>	<http://www.wikidata.org/prop/direct/P569>	"1799-05-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5331679>	<http://www.wikidata.org/prop/direct/P570>	"1863-10-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5331679>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q504329>	
+<http://www.wikidata.org/entity/Q504329>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1454>	
+<http://www.wikidata.org/entity/Q5331679>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ebenezer Emmons"@en	
+<http://www.wikidata.org/entity/Q5231886>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5231886>	<http://www.wikidata.org/prop/direct/P569>	"1814-09-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5231886>	<http://www.wikidata.org/prop/direct/P570>	"1864-10-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5231886>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q947304>	
+<http://www.wikidata.org/entity/Q947304>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1456>	
+<http://www.wikidata.org/entity/Q5231886>	<http://www.w3.org/2000/01/rdf-schema#label>	"David Bullock Harris"@en	
+<http://www.wikidata.org/entity/Q1456>	<http://www.w3.org/2000/01/rdf-schema#label>	"South Carolina"@en	
+<http://www.wikidata.org/entity/Q2687711>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2687711>	<http://www.wikidata.org/prop/direct/P569>	"1770-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2687711>	<http://www.wikidata.org/prop/direct/P570>	"1864-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2687711>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q504403>	
+<http://www.wikidata.org/entity/Q504403>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1454>	
+<http://www.wikidata.org/entity/Q2687711>	<http://www.w3.org/2000/01/rdf-schema#label>	"Omar Ibn Said"@en	
+<http://www.wikidata.org/entity/Q879415>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q879415>	<http://www.wikidata.org/prop/direct/P569>	"1782-11-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q879415>	<http://www.wikidata.org/prop/direct/P570>	"1863-01-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q879415>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q509910>	
+<http://www.wikidata.org/entity/Q509910>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1454>	
+<http://www.wikidata.org/entity/Q879415>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Branch"@en	
+<http://www.wikidata.org/entity/Q731148>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q731148>	<http://www.wikidata.org/prop/direct/P569>	"1807-11-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q731148>	<http://www.wikidata.org/prop/direct/P570>	"1864-11-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q731148>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q3474268>	
+<http://www.wikidata.org/entity/Q3474268>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1456>	
+<http://www.wikidata.org/entity/Q731148>	<http://www.w3.org/2000/01/rdf-schema#label>	"James Henry Hammond"@en	
+<http://www.wikidata.org/entity/Q7791255>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q7791255>	<http://www.wikidata.org/prop/direct/P569>	"1802-02-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7791255>	<http://www.wikidata.org/prop/direct/P570>	"1863-12-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7791255>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q507853>	
+<http://www.wikidata.org/entity/Q507853>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1454>	
+<http://www.wikidata.org/entity/Q7791255>	<http://www.w3.org/2000/01/rdf-schema#label>	"Thomas Jefferson Green"@en	
+<http://www.wikidata.org/entity/Q4148378>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4148378>	<http://www.wikidata.org/prop/direct/P569>	"1814-08-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4148378>	<http://www.wikidata.org/prop/direct/P570>	"1862-12-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4148378>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q492342>	
+<http://www.wikidata.org/entity/Q492342>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q4148378>	<http://www.w3.org/2000/01/rdf-schema#label>	"Maxcy Gregg"@en	
+<http://www.wikidata.org/entity/Q5538389>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5538389>	<http://www.wikidata.org/prop/direct/P569>	"1835-12-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5538389>	<http://www.wikidata.org/prop/direct/P570>	"1862-12-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5538389>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q492342>	
+<http://www.wikidata.org/entity/Q5538389>	<http://www.w3.org/2000/01/rdf-schema#label>	"George Dashiell Bayard"@en	
+<http://www.wikidata.org/entity/Q1508328>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1508328>	<http://www.wikidata.org/prop/direct/P569>	"1810-01-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1508328>	<http://www.wikidata.org/prop/direct/P570>	"1862-05-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1508328>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q492346>	
+<http://www.wikidata.org/entity/Q492346>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q1508328>	<http://www.w3.org/2000/01/rdf-schema#label>	"George Taliaferro Ward"@en	
+<http://www.wikidata.org/entity/Q1126777>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1126777>	<http://www.wikidata.org/prop/direct/P569>	"1813-09-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1126777>	<http://www.wikidata.org/prop/direct/P570>	"1862-12-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1126777>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q492342>	
+<http://www.wikidata.org/entity/Q1126777>	<http://www.w3.org/2000/01/rdf-schema#label>	"Conrad Feger Jackson"@en	
+<http://www.wikidata.org/entity/Q609022>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q609022>	<http://www.wikidata.org/prop/direct/P569>	"1823-04-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q609022>	<http://www.wikidata.org/prop/direct/P570>	"1862-12-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q609022>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q492342>	
+<http://www.wikidata.org/entity/Q609022>	<http://www.w3.org/2000/01/rdf-schema#label>	"Thomas Reade Rootes Cobb"@en	
+<http://www.wikidata.org/entity/Q4734543>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4734543>	<http://www.wikidata.org/prop/direct/P569>	"1841-01-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4734543>	<http://www.wikidata.org/prop/direct/P570>	"1863-07-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4734543>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q4994034>	
+<http://www.wikidata.org/entity/Q4994034>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1400>	
+<http://www.wikidata.org/entity/Q4734543>	<http://www.w3.org/2000/01/rdf-schema#label>	"Alonzo Cushing"@en	
+<http://www.wikidata.org/entity/Q16066072>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q16066072>	<http://www.wikidata.org/prop/direct/P569>	"1834-01-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q16066072>	<http://www.wikidata.org/prop/direct/P570>	"1861-06-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q16066072>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q4897915>	
+<http://www.wikidata.org/entity/Q4897915>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q16066072>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Trout Greble"@en	
+<http://www.wikidata.org/entity/Q1720552>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1720552>	<http://www.wikidata.org/prop/direct/P569>	"1792-05-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1720552>	<http://www.wikidata.org/prop/direct/P570>	"1861-09-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1720552>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q428298>	
+<http://www.wikidata.org/entity/Q428298>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1454>	
+<http://www.wikidata.org/entity/Q1720552>	<http://www.w3.org/2000/01/rdf-schema#label>	"Willie Person Mangum"@en	
+<http://www.wikidata.org/entity/Q28137099>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q28137099>	<http://www.wikidata.org/prop/direct/P569>	"1800-12-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q28137099>	<http://www.wikidata.org/prop/direct/P570>	"1865-01-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q28137099>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q494180>	
+<http://www.wikidata.org/entity/Q494180>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q28137099>	<http://www.w3.org/2000/01/rdf-schema#label>	"John E. Shell"@en	
+<http://www.wikidata.org/entity/Q110628145>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q110628145>	<http://www.wikidata.org/prop/direct/P569>	"1820-03-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q110628145>	<http://www.wikidata.org/prop/direct/P570>	"1860-08-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q110628145>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q488675>	
+<http://www.wikidata.org/entity/Q488675>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q110628145>	<http://www.w3.org/2000/01/rdf-schema#label>	"Thomas Reynolds"@en	
+<http://www.wikidata.org/entity/Q5082507>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5082507>	<http://www.wikidata.org/prop/direct/P569>	"1829-10-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5082507>	<http://www.wikidata.org/prop/direct/P570>	"1862-08-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5082507>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q495154>	
+<http://www.wikidata.org/entity/Q495154>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q5082507>	<http://www.w3.org/2000/01/rdf-schema#label>	"Charles Sidney Winder"@en	
+<http://www.wikidata.org/entity/Q2157142>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2157142>	<http://www.wikidata.org/prop/direct/P569>	"1801-04-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2157142>	<http://www.wikidata.org/prop/direct/P570>	"1864-04-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2157142>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q505980>	
+<http://www.wikidata.org/entity/Q505980>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1456>	
+<http://www.wikidata.org/entity/Q2157142>	<http://www.w3.org/2000/01/rdf-schema#label>	"Robert Francis Withers Allston"@en	
+<http://www.wikidata.org/entity/Q2425081>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2425081>	<http://www.wikidata.org/prop/direct/P569>	"1804-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2425081>	<http://www.wikidata.org/prop/direct/P570>	"1865-11-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2425081>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q506162>	
+<http://www.wikidata.org/entity/Q506162>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1456>	
+<http://www.wikidata.org/entity/Q2425081>	<http://www.w3.org/2000/01/rdf-schema#label>	"Thomas Jefferson Withers"@en	
+<http://www.wikidata.org/entity/Q98636674>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q98636674>	<http://www.wikidata.org/prop/direct/P569>	"1841-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q98636674>	<http://www.wikidata.org/prop/direct/P570>	"1862-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q98636674>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q98636674>	<http://www.w3.org/2000/01/rdf-schema#label>	"William A. Collins"@en	
+<http://www.wikidata.org/entity/Q682902>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q682902>	<http://www.wikidata.org/prop/direct/P569>	"1774-12-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q682902>	<http://www.wikidata.org/prop/direct/P570>	"1860-05-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q682902>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q49231>	
+<http://www.wikidata.org/entity/Q49231>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q682902>	<http://www.w3.org/2000/01/rdf-schema#label>	"Littleton Waller Tazewell"@en	
+<http://www.wikidata.org/entity/Q1441648>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1441648>	<http://www.wikidata.org/prop/direct/P569>	"1807-12-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1441648>	<http://www.wikidata.org/prop/direct/P570>	"1860-03-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1441648>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q49231>	
+<http://www.wikidata.org/entity/Q1441648>	<http://www.w3.org/2000/01/rdf-schema#label>	"Francis Mallory"@en	
+<http://www.wikidata.org/entity/Q101210054>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q101210054>	<http://www.wikidata.org/prop/direct/P569>	"1831-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q101210054>	<http://www.wikidata.org/prop/direct/P570>	"1862-08-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q101210054>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q101210054>	<http://www.w3.org/2000/01/rdf-schema#label>	"Woodard Johnson"@en	
+<http://www.wikidata.org/entity/Q93437957>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q93437957>	<http://www.wikidata.org/prop/direct/P569>	"1843-07-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q93437957>	<http://www.wikidata.org/prop/direct/P570>	"1862-04-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q93437957>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q43421>	
+<http://www.wikidata.org/entity/Q93437957>	<http://www.w3.org/2000/01/rdf-schema#label>	"Urban Rumble (b. 1843)"@en	
+<http://www.wikidata.org/entity/Q7791750>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q7791750>	<http://www.wikidata.org/prop/direct/P569>	"1789-08-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7791750>	<http://www.wikidata.org/prop/direct/P570>	"1861-05-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7791750>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q49231>	
+<http://www.wikidata.org/entity/Q7791750>	<http://www.w3.org/2000/01/rdf-schema#label>	"Thomas Lawson"@en	
+<http://www.wikidata.org/entity/Q5345628>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5345628>	<http://www.wikidata.org/prop/direct/P569>	"1829-06-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5345628>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5345628>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q6666107>	
+<http://www.wikidata.org/entity/Q6666107>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q5345628>	<http://www.w3.org/2000/01/rdf-schema#label>	"Edward Tiffin Harrison Warren"@en	
+<http://www.wikidata.org/entity/Q4351723>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4351723>	<http://www.wikidata.org/prop/direct/P569>	"1827-02-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4351723>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4351723>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q506202>	
+<http://www.wikidata.org/entity/Q506202>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q4351723>	<http://www.w3.org/2000/01/rdf-schema#label>	"Abner Monroe Perrin"@en	
+<http://www.wikidata.org/entity/Q327752>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q327752>	<http://www.wikidata.org/prop/direct/P569>	"1828-06-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q327752>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q327752>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q506202>	
+<http://www.wikidata.org/entity/Q327752>	<http://www.w3.org/2000/01/rdf-schema#label>	"Junius Daniel"@en	
+<http://www.wikidata.org/entity/Q4160417>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4160417>	<http://www.wikidata.org/prop/direct/P569>	"1820-07-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4160417>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4160417>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q506202>	
+<http://www.wikidata.org/entity/Q4160417>	<http://www.w3.org/2000/01/rdf-schema#label>	"John M. Jones"@en	
+<http://www.wikidata.org/entity/Q2339186>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2339186>	<http://www.wikidata.org/prop/direct/P569>	"1807-10-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2339186>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2339186>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q506202>	
+<http://www.wikidata.org/entity/Q2339186>	<http://www.w3.org/2000/01/rdf-schema#label>	"James S. Wadsworth"@en	
+<http://www.wikidata.org/entity/Q921857>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q921857>	<http://www.wikidata.org/prop/direct/P569>	"1813-09-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q921857>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q921857>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q506202>	
+<http://www.wikidata.org/entity/Q921857>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Sedgwick"@en	
+<http://www.wikidata.org/entity/Q95627531>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q95627531>	<http://www.wikidata.org/prop/direct/P569>	"1835-02-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q95627531>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q95627531>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q506225>	
+<http://www.wikidata.org/entity/Q506225>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q95627531>	<http://www.w3.org/2000/01/rdf-schema#label>	"William Pinkney Cline"@en	
+<http://www.wikidata.org/entity/Q4719110>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4719110>	<http://www.wikidata.org/prop/direct/P569>	"1819-07-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4719110>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4719110>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q506202>	
+<http://www.wikidata.org/entity/Q4719110>	<http://www.w3.org/2000/01/rdf-schema#label>	"Alexander Hays"@en	
+<http://www.wikidata.org/entity/Q6287393>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6287393>	<http://www.wikidata.org/prop/direct/P569>	"1825-04-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6287393>	<http://www.wikidata.org/prop/direct/P570>	"1864-10-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6287393>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q502021>	
+<http://www.wikidata.org/entity/Q502021>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1370>	
+<http://www.wikidata.org/entity/Q6287393>	<http://www.w3.org/2000/01/rdf-schema#label>	"Joseph Thoburn"@en	
+<http://www.wikidata.org/entity/Q7789882>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q7789882>	<http://www.wikidata.org/prop/direct/P569>	"1836-02-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7789882>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7789882>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q506202>	
+<http://www.wikidata.org/entity/Q7789882>	<http://www.w3.org/2000/01/rdf-schema#label>	"Thomas G. Stevenson"@en	
+<http://www.wikidata.org/entity/Q6107264>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q6107264>	<http://www.wikidata.org/prop/direct/P569>	"1835-02-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6107264>	<http://www.wikidata.org/prop/direct/P570>	"1864-05-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6107264>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q506202>	
+<http://www.wikidata.org/entity/Q6107264>	<http://www.w3.org/2000/01/rdf-schema#label>	"J. Thompson Brown"@en	
+<http://www.wikidata.org/entity/Q7106115>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q7106115>	<http://www.wikidata.org/prop/direct/P569>	"1800-01-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7106115>	<http://www.wikidata.org/prop/direct/P570>	"1861-05-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7106115>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q506202>	
+<http://www.wikidata.org/entity/Q7106115>	<http://www.w3.org/2000/01/rdf-schema#label>	"Oscar M. Crutchfield"@en	
+<http://www.wikidata.org/entity/Q109361934>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q109361934>	<http://www.wikidata.org/prop/direct/P569>	"1831-01-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q109361934>	<http://www.wikidata.org/prop/direct/P570>	"1863-07-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q109361934>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q5554755>	
+<http://www.wikidata.org/entity/Q5554755>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1400>	
+<http://www.wikidata.org/entity/Q109361934>	<http://www.w3.org/2000/01/rdf-schema#label>	"Benjamin Watkins Leigh"@en	
+<http://www.wikidata.org/entity/Q109348060>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q109348060>	<http://www.wikidata.org/prop/direct/P569>	"1838-09-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q109348060>	<http://www.wikidata.org/prop/direct/P570>	"1863-07-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q109348060>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q5554755>	
+<http://www.wikidata.org/entity/Q109348060>	<http://www.w3.org/2000/01/rdf-schema#label>	"Thomas Ware"@en	
+<http://www.wikidata.org/entity/Q4888670>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4888670>	<http://www.wikidata.org/prop/direct/P569>	"1821-02-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4888670>	<http://www.wikidata.org/prop/direct/P570>	"1861-12-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4888670>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q21197750>	
+<http://www.wikidata.org/entity/Q21197750>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1603>	
+<http://www.wikidata.org/entity/Q4888670>	<http://www.w3.org/2000/01/rdf-schema#label>	"Benjamin Franklin Terry"@en	
+<http://www.wikidata.org/entity/Q8007776>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q8007776>	<http://www.wikidata.org/prop/direct/P569>	"1843-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8007776>	<http://www.wikidata.org/prop/direct/P570>	"1865-06-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8007776>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q7182753>	
+<http://www.wikidata.org/entity/Q7182753>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1400>	
+<http://www.wikidata.org/entity/Q8007776>	<http://www.w3.org/2000/01/rdf-schema#label>	"William Densmore"@en	
+<http://www.wikidata.org/entity/Q7410712>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q7410712>	<http://www.wikidata.org/prop/direct/P569>	"1795-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7410712>	<http://www.wikidata.org/prop/direct/P570>	"1861-05-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7410712>	<http://www.wikidata.org/prop/direct/P20>	<http://www.wikidata.org/entity/Q7208121>	
+<http://www.wikidata.org/entity/Q7208121>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q1400>	
+<http://www.wikidata.org/entity/Q7410712>	<http://www.w3.org/2000/01/rdf-schema#label>	"Samuel A. Smith"@en	

@@ -1,4 +1,4 @@
-SELECT ?item ?oneLabel ?gss ?os_toid WHERE {
+SELECT ?item ?itemLabel ?gss ?os_toid WHERE {
     ?item p:P836 ?gss_stmt .
     ?gss_stmt ps:P836 ?gss .
     FILTER NOT EXISTS { ?item wdt:P3120 [] } .
@@ -9,6 +9,5 @@ SELECT ?item ?oneLabel ?gss ?os_toid WHERE {
     }
   
     ?item rdfs:label ?itemLabel . 
-    FILTER (langmatches(lang(?itemLabel), "en")) .
-    BIND(SAMPLE(?itemLabel) as ?oneLabel) .
+    FILTER (lang(?itemLabel), "en") .
 }

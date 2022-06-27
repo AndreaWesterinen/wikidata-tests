@@ -12,13 +12,13 @@ SELECT
 WHERE {
   VALUES ?item {
     wd:Q269809 wd:Q274590 wd:Q24576851 wd:Q4858963  # Barabara Harris
-    wd:Q807461   # disambiguation pag
+    wd:Q807461   # disambiguation page
     wd:Q27954833 wd:Q4859015   # Barbara Harrisson or Barbara Harrison
     # wd:Q826930  symbol for a heart
   }
   OPTIONAL { ?item wdt:P18 ?pic. }
-  OPTIONAL { ?item wdt:P27/rdfs:label ?citizenshipLabel .   # Not optional; Assume countries have labels
-             FILTER (lang(?citizenshipLabel) = "en") }
+  OPTIONAL { ?item wdt:P27/rdfs:label ?citizenshipLabel . 
+             FILTER (lang(?citizenshipLabel) = "en") }.  # Not optional; Assume countries have labels
   OPTIONAL { ?item wdt:P106 ?occupation. 
              OPTIONAL { ?occupation rdfs:label ?occupationLabel .
                         FILTER (lang(?occupationLabel) = "en") } }

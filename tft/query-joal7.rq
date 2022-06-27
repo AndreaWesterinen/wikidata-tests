@@ -10,12 +10,12 @@ WHERE
     OPTIONAL {
         ?person wdt:P734 ?familyName.
         ?familyName rdfs:label ?familyNameLabel .
-        FILTER(LANG(?familyNameLabel) = "pt").  
+        FILTER(LANG(?familyNameLabel) = "en").  
     }
     OPTIONAL {
         ?person wdt:P735 ?givenName.
         ?givenName rdfs:label ?givenNameLabel .
-        FILTER(LANG(?givenNameLabel) = "pt").  
+        FILTER(LANG(?givenNameLabel) = "en").  
     }    
     
     ?country rdfs:label ?countryLabel.
@@ -24,7 +24,7 @@ WHERE
              schema:inLanguage "pt";
              schema:isPartOf <https://pt.wikipedia.org/> .
   
-    FILTER(LANG(?personLabel) = "pt").
-    FILTER(LANG(?countryLabel) = "pt").
-    FILTER(LANG(?personDesc) = "pt").
+    FILTER(LANG(?personLabel) = "en").
+    FILTER(LANG(?countryLabel) = "en").
+    FILTER(LANG(?personDesc) = "en").
 }

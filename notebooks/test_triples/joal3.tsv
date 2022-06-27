@@ -1,0 +1,5 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q11739988>	<http://www.wikidata.org/prop/direct/P569>	"1860-11-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q11739988>	<http://www.wikidata.org/prop/direct/P570>	"1884-05-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q125364>	<http://www.wikidata.org/prop/direct/P569>	"1860-02-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q125364>	<http://www.wikidata.org/prop/direct/P570>	"1884-01-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	

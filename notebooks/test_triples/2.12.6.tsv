@@ -1,0 +1,1126 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q16553>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.872777777 37.304166666)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q18013>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.486111111 38.575277777)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5108965>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q9842>	
+<http://www.wikidata.org/entity/Q9842>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q5108965>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.078 37.9474)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7626621>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q9842>	
+<http://www.wikidata.org/entity/Q7626621>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.434 37.7947)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7587030>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q9842>	
+<http://www.wikidata.org/entity/Q7587030>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.704 33.491)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7008494>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5020211>	
+<http://www.wikidata.org/entity/Q5020211>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q7008494>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.02 37.5998)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6427111>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q9842>	
+<http://www.wikidata.org/entity/Q6427111>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.312 38.3203)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q3428253>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4273133>	
+<http://www.wikidata.org/entity/Q4273133>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q3428253>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.9 34.9171)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7587456>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q9842>	
+<http://www.wikidata.org/entity/Q7587456>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.135 38.0148)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q16891616>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q9842>	
+<http://www.wikidata.org/entity/Q16891616>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.463 37.724)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q60750842>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q12241709>	
+<http://www.wikidata.org/entity/Q12241709>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q60750842>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.264008 37.532624)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5303397>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q12241709>	
+<http://www.wikidata.org/entity/Q5303397>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.8730587 37.3162078)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5183812>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q12241709>	
+<http://www.wikidata.org/entity/Q5183812>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.68 38.3239)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14684024>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q20820271>	
+<http://www.wikidata.org/entity/Q20820271>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q14684024>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.17 37.43)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8032868>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q149566>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q8032868>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.130458 33.148511)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8003460>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q8003460>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.259 37.8596)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6776080>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q6776080>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.277 37.8812)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7154818>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q7154818>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.487 35.0497)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6902229>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q6902229>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.944 37.3081)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5764168>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q5764168>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.195 37.4394)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5722494>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q5722494>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.532 37.9385)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5580532>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q5580532>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.835 34.4506)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7191526>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q7191526>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.234 37.8227)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6514550>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q6514550>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.784 38.6747)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6878602>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q6878602>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.036 36.9742)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7793692>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q7793692>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.901 37.4545)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5214792>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q5214792>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.24 32.7328)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5304172>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q5304172>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.244 38.1142)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6391834>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q6391834>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.547777777 37.953333333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6176525>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q6176525>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.356 34.0842)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5127601>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q5127601>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.529 38.4172)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5594099>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q5594099>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.003 33.9239)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4942077>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q4942077>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.006 32.6483)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5506479>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q5506479>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.109 35.3781)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7306519>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q7306519>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.015 37.2655)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7170172>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q7170172>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.021 32.8019)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7330341>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q7330341>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.368 33.8108)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6728631>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q6728631>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.009 34.0619)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6773708>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q6773708>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.118 33.8183)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6521313>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q6521313>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.029 32.7389)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5150159>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q5150159>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.82 33.7506)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7650917>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q149566>	
+<http://www.wikidata.org/entity/Q7650917>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.849 34.0249)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4962005>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q159334>	
+<http://www.wikidata.org/entity/Q159334>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q4962005>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.958 33.6553)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7414261>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q159334>	
+<http://www.wikidata.org/entity/Q7414261>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.237 34.1278)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7087928>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q159334>	
+<http://www.wikidata.org/entity/Q7087928>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.736 38.5566)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q18159052>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q159334>	
+<http://www.wikidata.org/entity/Q18159052>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.962 38.2825)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q60750842>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q159334>	
+<http://www.wikidata.org/entity/Q109904275>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q159334>	
+<http://www.wikidata.org/entity/Q109904275>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.061 32.97445)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7930878>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q269770>	
+<http://www.wikidata.org/entity/Q269770>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q7930878>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.264 34.4297)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7115144>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q269770>	
+<http://www.wikidata.org/entity/Q7115144>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.279 38.3006)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7981756>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q269770>	
+<http://www.wikidata.org/entity/Q7981756>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.476 36.5694)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5459602>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q269770>	
+<http://www.wikidata.org/entity/Q5459602>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.186 34.1803)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6307705>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q269770>	
+<http://www.wikidata.org/entity/Q6307705>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.597 33.0406)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7714366>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q383092>	
+<http://www.wikidata.org/entity/Q383092>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q7714366>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.155 32.778)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5154865>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q383092>	
+<http://www.wikidata.org/entity/Q5154865>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.111 37.408)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5021094>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q383092>	
+<http://www.wikidata.org/entity/Q5021094>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.567 34.3931)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5193720>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q383092>	
+<http://www.wikidata.org/entity/Q5193720>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.401 34.0066)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7714360>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q383092>	
+<http://www.wikidata.org/entity/Q7714360>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.299 34.0614)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7714369>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q383092>	
+<http://www.wikidata.org/entity/Q7714369>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.999 37.373)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7714367>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q383092>	
+<http://www.wikidata.org/entity/Q7714367>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.415 37.7793)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7714365>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q383092>	
+<http://www.wikidata.org/entity/Q7714365>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.519 38.621)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q84344354>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q269770>	
+<http://www.wikidata.org/entity/Q84344354>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.118722222 34.173111111)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5046435>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q423208>	
+<http://www.wikidata.org/entity/Q423208>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q5046435>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.412956 38.551622)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7901312>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q423208>	
+<http://www.wikidata.org/entity/Q7901312>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.742 38.4942)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7562167>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q423208>	
+<http://www.wikidata.org/entity/Q7562167>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.689 38.4183)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4651640>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q423208>	
+<http://www.wikidata.org/entity/Q4651640>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.565 34.1948)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q84344354>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q423208>	
+<http://www.wikidata.org/entity/Q6413992>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q897403>	
+<http://www.wikidata.org/entity/Q897403>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q6413992>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.428 37.7856)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5154865>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1021290>	
+<http://www.wikidata.org/entity/Q1021290>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q6411325>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q1080794>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q6411325>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.13371 36.20907)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6655350>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6655350>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.635 37.1477)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5898799>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5898799>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.098 32.7561)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6463037>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6463037>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.956 33.9372)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5890521>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5890521>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.049 37.3361)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6262450>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6262450>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.346 33.9819)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6659649>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6659649>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.723 37.3756)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6016070>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6016070>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.111 35.2828)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6483184>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6483184>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.19 34.695)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5685607>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5685607>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.363 33.9173)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6382227>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6382227>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.162 32.7998)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6413146>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6413146>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.54666667 36.51877778)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6492419>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6492419>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.53683 39.48005)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5736488>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5736488>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.25134 37.99901)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6752299>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6752299>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.29217 34.0083)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6682487>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6682487>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.841859 37.0513345)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5738873>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5738873>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.138 33.7408)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5599703>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5599703>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.092 33.4528)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6682090>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6682090>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.17 34.0642)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6175496>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6175496>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.25093 34.00958)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6461983>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6461983>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.227777777 33.073055555)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6464653>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6464653>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.956 34.025)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5769313>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5769313>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.425 38.5408)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6232369>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6232369>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.328 37.9247)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5516947>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5516947>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.097 33.8747)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6761080>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6761080>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.659 38.4806)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6217919>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6217919>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.89 33.9808)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5562584>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5562584>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.576 36.9961)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6300917>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6300917>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.218 33.7937)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5882770>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5882770>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.340068 34.099148)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6412882>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6412882>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.652 36.3103)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5734475>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5734475>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.772 36.8181)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6024882>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6024882>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.24 33.7131)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6763834>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6763834>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.801 36.6753)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6768362>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6768362>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.117 34.07)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6743399>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6743399>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.82696 34.02442)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5687364>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5687364>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.068 37.6722)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6249714>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6249714>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.159871 34.178513)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6541768>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6541768>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.694 37.9356)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5610600>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5610600>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.007 32.815)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6465247>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6465247>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.997 33.9558)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6254055>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6254055>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.54164 34.212933)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6479103>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6479103>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.381 33.6703)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6681227>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6681227>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.894561132 33.734731432)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6727149>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6727149>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.067 36.9393)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5522426>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5522426>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.297 33.8674)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6138766>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6138766>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.174 32.832)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6235513>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6235513>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.054 33.9086)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6232357>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6232357>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.488 34.275)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6552496>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6552496>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.5366 39.0836)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6550729>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6550729>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.093 32.7033)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5763796>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5763796>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.313 37.5324)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6681897>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6681897>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.109 37.3867)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6503695>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6503695>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.362 33.8964)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5519347>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5519347>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.299 38.2564)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6550733>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6550733>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.33746 38.01121)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5591277>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5591277>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.01 37.6813)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6520752>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6520752>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.844 37.2171)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6259809>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6259809>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.222 38.0528)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5522245>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5522245>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.937 33.7786)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6138180>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6138180>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.026 37.5897)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6224415>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6224415>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.268 33.9696)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6526121>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6526121>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.733 38.552)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6315441>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6315441>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.521 34.0019)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6534684>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6534684>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.347 33.9022)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6020485>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6020485>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.749 34.1503)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5764085>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5764085>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.058725 32.636899)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6232355>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6232355>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.037 33.8425)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6492289>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6492289>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.057 37.8911)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6658245>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6658245>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.762 37.6807)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5618905>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5618905>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.133 37.399)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5594095>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5594095>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.789 37.6749)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5903420>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5903420>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.875 37.6567)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5945439>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5945439>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.219 33.9866)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6083194>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6083194>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.286 37.7864)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6463886>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6463886>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.003 33.9081)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5645220>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5645220>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.018 39.7456)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6721911>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6721911>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.303 37.8931)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6074913>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6074913>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.967 37.5231)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6456914>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6456914>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.245721 34.05194)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6682770>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6682770>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.976 37.222)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6521445>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6521445>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.78 36.2978)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6224023>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6224023>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.327684 34.169944)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6541760>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6541760>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.131 35.3667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6017704>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6017704>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.517 38.6589)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6681997>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6681997>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.372 34.0436)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6186615>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6186615>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.2044 38.1205)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6246887>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6246887>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.2775 34.107778)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6653042>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6653042>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.938 34.5745)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5764164>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5764164>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.810029946 33.734923797)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6754448>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6754448>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.122 32.58)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5758813>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5758813>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.176 34.5924)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6236833>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6236833>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.416 34.1793)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6106728>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6106728>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.312 34.0355)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6175489>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6175489>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.466 37.6957)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5758804>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5758804>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.932 35.4011)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6472845>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6472845>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.429 38.4287)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6464732>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6464732>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.948 33.7365)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4883177>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4883177>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.19 33.9743)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5061182>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5061182>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.971 36.765)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5034213>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5034213>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.472 34.4296)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4757302>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4757302>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.83 37.2921)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q1337543>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q1337543>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.913 33.6228)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4985404>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4985404>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.978 33.8626)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5064832>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5064832>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.064 33.8647)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4887939>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4887939>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.175 38.0656)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4705874>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4705874>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.283936 37.771378)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4762947>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4762947>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.146 38.2)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4849300>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4849300>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.023 35.3692)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4795189>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4795189>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.782 33.7176)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4789664>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4789664>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.792222222 38.356388888)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q1139606>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q1139606>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.329 33.9969)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4743287>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4743287>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.239 38.1683)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4982578>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4982578>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.714 36.858)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5130170>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5130170>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.968 37.9497)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5130351>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5130351>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.968 37.9497)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4856980>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4856980>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.261295 33.793788)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4684208>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4684208>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.008 34.2178)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4958478>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4958478>	<http://www.wikidata.org/prop/direct/P625>	"Point(-115.534 32.9828)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5041435>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5041435>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.29 37.5063)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q286803>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q286803>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.777 33.5414)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4751084>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4751084>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.826 38.4072)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4771200>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4771200>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.129 34.7006)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4796239>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4796239>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.139253 37.680415)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5193722>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5193722>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.402 34.0075)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5043284>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5043284>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.91 36.5553)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4647562>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4647562>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.448 34.1294)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4840755>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4840755>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.436222 37.649999)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4693652>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4693652>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.749 34.1504)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5126310>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5126310>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.724 34.1128)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4750881>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4750881>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.925615 33.83446)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5116086>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5116086>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.078 32.6218)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5172130>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5172130>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.586 33.8728)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5194451>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5194451>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.009 37.321)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5047828>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5047828>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.599 38.2428)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4724438>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4724438>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.134 38.0025)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4924116>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4924116>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.146227 34.126413)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4681841>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4681841>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.28 38.7527)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5063161>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5063161>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.85 33.7296)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4876398>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4876398>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.35218 38.05108)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q3887784>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q3887784>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.214 34.2186)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5064196>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5064196>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.956 37.5958)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5125371>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5125371>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.203 32.8092)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4905058>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4905058>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.825 34.2542)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5200336>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5200336>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.029 33.8203)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4884367>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4884367>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.262 34.0617)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4736013>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4736013>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.067 37.3607)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5174845>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5174845>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.906 33.6721)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5061940>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5061940>	<http://www.wikidata.org/prop/direct/P625>	"Point(-115.564 32.79)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4739083>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4739083>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.8743 37.6689)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4796235>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4796235>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.58 35.116)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4917733>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4917733>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.4 37.3633)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5034242>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5034242>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.258 33.9625)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4865032>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4865032>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.028 34.8936)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4671543>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4671543>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.568 34.405)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5034210>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5034210>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.78849 33.848383)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4739075>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4739075>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.811 38.3981)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4785251>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4785251>	<http://www.wikidata.org/prop/direct/P625>	"Point(-124.089 40.8767)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5018626>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5018626>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.883 37.4375)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4985398>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4985398>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.217 34.2776)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4986287>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4986287>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.575 37.3484)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5161237>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5161237>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.028 37.6147)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5017992>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5017992>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.31 34.1773)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5034192>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5034192>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.189 32.9577)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4812854>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4812854>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.671 35.4836)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4671649>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4671649>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.098 37.9048)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4942076>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4942076>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.999 32.6465)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4796237>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4796237>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.021 34.0939)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4792208>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4792208>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.442222 34.250556)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4998156>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4998156>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.313 34.188)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4532059>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4532059>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.409 38.592)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q1810700>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q1810700>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.225 32.74)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4793441>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4793441>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.039 38.2488)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q3322717>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q3322717>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.684 38.44)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4996680>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4996680>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.81 36.8172)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4883983>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4883983>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.115 33.8929)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5059148>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5059148>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.097 35.3989)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5087816>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5087816>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.585 34.253)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5037120>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5037120>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.407 37.6096)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5101210>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5101210>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.686388888 33.96)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4818836>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4818836>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.616 37.3653)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5035417>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5035417>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.67 33.5414)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5182859>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5182859>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.076 32.7522)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5118647>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5118647>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.220916666 35.767444444)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q2894818>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q2894818>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.152 32.7206)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4771161>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4771161>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.356 38.7105)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4775019>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4775019>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.815 38.005)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5135994>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5135994>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.68 36.8175)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4928346>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4928346>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.414 34.0583)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4735984>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4735984>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.612 34.1236)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5052219>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5052219>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.45 33.8019)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q4781251>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q4781251>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.188 34.4664)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5101208>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5101208>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.685 34.0215)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5059155>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5059155>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.253 33.9156)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5042874>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5042874>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.329 33.1626)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5050213>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5050213>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.052 32.6071)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7912272>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7912272>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.194 33.9297)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7337917>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7337917>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.941 32.8533)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7675052>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7675052>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.46 35.1465)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7567483>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7567483>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.8826 34.0623)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7989754>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7989754>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.149 32.9671)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7700521>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7700521>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.067 37.6421)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7912091>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7912091>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.032 33.1503)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7338065>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7338065>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.921 37.7313)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7909164>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7909164>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.245 33.8378)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7567456>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7567456>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.015 35.3236)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7617964>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7617964>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.126 35.3261)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7306029>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7306029>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.193 34.0823)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7703103>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7703103>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.554 38.0004)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7911923>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7911923>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.244 38.1142)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7337929>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7337929>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.659 39.1386)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7413408>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7413408>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.40466 36.8408)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7878300>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7878300>	<http://www.wikidata.org/prop/direct/P625>	"Point(-123.224 39.1647)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7306187>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7306187>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.385 33.8458)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7562197>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7562197>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.458 38.2828)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7413779>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7413779>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.823 34.099)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7698058>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7698058>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.086 33.6042)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7568180>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7568180>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.154 34.1094)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7455177>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7455177>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.106 32.8258)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7338580>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7338580>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.369 33.9517)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7986764>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7986764>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.964 33.7508)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7984236>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7984236>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.29 34.0398)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7415398>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7415398>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.017 32.5654)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7419820>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7419820>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.07 34.3566)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7640698>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7640698>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.954 33.884)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7989249>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7989249>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.985 37.2714)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7985395>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7985395>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.014 32.8481)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7936480>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7936480>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.207 33.9006)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7414672>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7414672>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.143 37.718)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7567465>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7567465>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.364 33.813)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7419888>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7419888>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.718 38.4519)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7335671>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7335671>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.129 37.7414)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7932827>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7932827>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.306 38.3335)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7797060>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7797060>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.869 34.2111)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7413872>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7413872>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.443 34.272)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7332796>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7332796>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.058 35.2783)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7979331>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7979331>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.373 41.4278)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7996697>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7996697>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.054 33.8781)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7912300>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7912300>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.961095403 33.708178218)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7703129>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7703129>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.475 37.5942)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7376000>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7376000>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.731 33.9944)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7290929>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7290929>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.684 38.3405)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7562216>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7562216>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.926 33.9275)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7912097>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7912097>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.89 33.723)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7568368>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7568368>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.426 37.6478)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7833473>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7833473>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.25436111 36.64572222)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7557529>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7557529>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.326 36.4357)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7414809>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7414809>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.206 33.1306)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7306481>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7306481>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.092 37.7133)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7448721>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7448721>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.616 36.5808)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7675646>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7675646>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.019 33.768)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7698098>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7698098>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.348 33.7033)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7562184>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7562184>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.598 38.2422)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7692572>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7692572>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.674 38.3397)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7660594>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7660594>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.441 34.307)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7988976>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7988976>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.817 34.1592)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7936450>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7936450>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.238 33.224)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7989257>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7989257>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.482 37.6834)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7415082>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7415082>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.057 33.0764)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7855585>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7855585>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.832 37.4997)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7641277>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7641277>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.098825 37.672027777)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7898345>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7898345>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.659 34.1044)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7290939>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7290939>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.358756 33.758257)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7894742>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7894742>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.268056 37.8425)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7571353>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7571353>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.083 32.5669)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7290860>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7290860>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.247 33.1639)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7269385>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7269385>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.238 34.6581)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7419952>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7419952>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.83 37.2354)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7984894>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7984894>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.915 34.0635)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7419164>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7419164>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.872 33.7445)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7936455>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7936455>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.165 33.5964)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7460525>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7460525>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.27 33.7622)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7414915>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7414915>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.33 37.577222222)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7420041>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7420041>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.97 32.857)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7368230>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7368230>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.722 38.4308)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7306509>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7306509>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.3 36.3167)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7414827>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7414827>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.605 38.1201)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7571290>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7571290>	<http://www.wikidata.org/prop/direct/P625>	"Point(-115.582 32.776)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7414205>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7414205>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.11 34.0927)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7439198>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7439198>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.113 32.9082)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7789043>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7789043>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.975 37.6571)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7827097>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7827097>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.225 32.9578)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7846850>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7846850>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.893 33.8814)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7250750>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7250750>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.002 37.292)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7568610>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7568610>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.015 38.910277777)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7414698>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7414698>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.122 37.687)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7413772>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7413772>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.275 33.0374)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7322138>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7322138>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.356 34.0914)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7289918>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7289918>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.414 33.9411)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7376099>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7376099>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.426 33.9989)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7446233>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7446233>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.902 33.7012)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7516488>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7516488>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.888 34.9003)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7984648>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7984648>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.439 38.5309)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7818238>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7818238>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.895 38.2475)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7638575>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7638575>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.396 34.235)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7291372>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7291372>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.116 33.86)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5474777>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5474777>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.96217 33.70441)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5441770>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5441770>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.227 34.0484)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5270733>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5270733>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.839166666 33.9825)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5501585>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5501585>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.209 37.7735)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5252920>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5252920>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.9291 37.3046)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5326623>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5326623>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.928 33.6806)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5349925>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5349925>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.378 34.1236)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5338385>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5338385>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.9694 33.6521)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5400830>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5400830>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.175483 34.041817)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5448854>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5448854>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.915 34.4034)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5375450>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5375450>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.289 37.773)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5337896>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5337896>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.949 34.0613)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5351611>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5351611>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.812115 33.789634)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5301108>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5301108>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.903 37.7694)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5416969>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5416969>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.61593 36.71232)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5263953>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5263953>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.517 33.9636)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5330711>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5330711>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.968 32.6406)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5244223>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5244223>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.287 37.968)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5263973>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5263973>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.162 33.5719)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5351978>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5351978>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.087 33.9839)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5351186>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5351186>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.81221 38.73265)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5252952>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5252952>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.122 33.0144)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5508304>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5508304>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.921 33.875)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5411184>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5411184>	<http://www.wikidata.org/prop/direct/P625>	"Point(-124.158 40.7899)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5350929>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5350929>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.916 32.8678)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5241966>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5241966>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.751 38.5572)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5214743>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5214743>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.701 33.4778)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5470845>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5470845>	<http://www.wikidata.org/prop/direct/P625>	"Point(-123.788 39.4381)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5461838>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5461838>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.39126 38.46823)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5516029>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5516029>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.092 34.0823)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5350992>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5350992>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.295 37.9086)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5330463>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5330463>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.121 37.9611)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5252870>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5252870>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.312 38.6545)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5292161>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5292161>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.717 34.0092)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5350882>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5350882>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.691 38.3406)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5464860>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5464860>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.156 38.6491)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5503182>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5503182>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.80536 36.7672)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5330938>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5330938>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.07024 34.68107)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5491559>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5491559>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.1988 34.1157)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5506000>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5506000>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.147 35.4189)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5338384>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5338384>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.80563889 36.71988889)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5325245>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5325245>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.2053 34.132)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5351615>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5351615>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.889 38.4817)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5367568>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5367568>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.735 38.4056)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5491548>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5491548>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.43 38.3928)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5329591>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q5329591>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.37088 34.171)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q17026341>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q17026341>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.71687 36.73273)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q26258691>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q26258691>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.1149 37.6694)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q17021453>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q17021453>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.4734 37.3205)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q16991646>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q16991646>	<http://www.wikidata.org/prop/direct/P625>	"Point(-124.20924 41.76984)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q17021055>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q17021055>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.75622222 36.77458333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q16995454>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q16995454>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.68 34.0958)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q19878277>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q19878277>	<http://www.wikidata.org/prop/direct/P625>	"Point(-124.153 40.5952)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q17514966>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q17514966>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.163 37.7597)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q16247208>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q16247208>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.75469 37.92128)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q16957628>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q16957628>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.203491 34.058234)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q15710175>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q15710175>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.977374 34.051817)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q16992313>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q16992313>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.414 33.925)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q16842747>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q16842747>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.314021 34.095623)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q18345050>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q18345050>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.374 40.677)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q18159052>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q20714455>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q20714455>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.230113 35.674275)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q16996086>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q16996086>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.182222222 34.159722222)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q20714772>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q20714772>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.9135 34.1046)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6797122>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6797122>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.114 33.8641)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7122470>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7122470>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.92396 36.61034)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6872198>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6872198>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.38976 33.87368)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7148010>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7148010>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.522 34.0022)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7108478>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7108478>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.993 32.6208)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7199192>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7199192>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.884 38.0199)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6844500>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6844500>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.26 34.0581)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6820189>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6820189>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.451 37.7481)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7154818>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7146705>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7146705>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.051 32.798)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7099030>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7099030>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.077 32.615)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7122365>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7122365>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.804 33.72)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7060782>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7060782>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.09 33.9081)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6902213>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6902213>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.439 35.1314)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7128031>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7128031>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.358 33.7306)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7142257>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7142257>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.67 35.6168)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7094683>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7094683>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.666 34.0393)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7191516>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7191516>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.233016666 37.823430555)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6914158>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6914158>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.859 35.38185)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7131505>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7131505>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.449547 34.216602)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6878610>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6878610>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.142 33.145)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7099625>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7099625>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.042 33.129)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6920541>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6920541>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.091 37.625)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6841272>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6841272>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.307077 33.93059)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6878799>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6878799>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.67 33.5969)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7074057>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7074057>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.254 37.8322)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7008494>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7171664>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7171664>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.646 38.2269)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6800420>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6800420>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.279 37.818)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6897764>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6897764>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.053 36.0832)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7191519>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7191519>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.850159 37.402487)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7128507>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7128507>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.157 37.437)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7128171>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7128171>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.089166666 34.573888888)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7172067>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7172067>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.009 34.5637)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7074180>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7074180>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.261 38.728)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7050652>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7050652>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.267 34.4417)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6878661>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6878661>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.298 36.1969)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6903129>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6903129>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.057 37.3145)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6904947>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6904947>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.975 32.7362)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6922183>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6922183>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.015 32.7236)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7059639>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7059639>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.524155 34.245041)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7099647>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7099647>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.847241 33.796201)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6817135>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6817135>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.175 37.4611)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7073696>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7073696>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.07187 38.68037)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6773589>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6773589>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.1125 34.16316)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6889551>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6889551>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.542 41.4922)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7195547>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7195547>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.766 38.4619)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6859976>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6859976>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.39 37.5937)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6939589>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6939589>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.228 33.5636)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7128068>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7128068>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.521 33.8164)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6872221>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6872221>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.141 32.9108)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6986649>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6986649>	<http://www.wikidata.org/prop/direct/P625>	"Point(-114.616 34.8406)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7050486>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7050486>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.547 33.9119)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7227393>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7227393>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.741 34.085)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7162937>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7162937>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.428 37.6119)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7203815>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7203815>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.372 38.413)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6858862>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6858862>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.234 37.8229)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7128669>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7128669>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.374 33.778)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7089009>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7089009>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.974 32.6079)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7064492>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7064492>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.572777777 38.089722222)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6859624>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6859624>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.111 33.8078)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7056137>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7056137>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.7343 36.77812)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6930358>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6930358>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.2992 36.3229)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6776070>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6776070>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.333 33.8833)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6905732>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6905732>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.064 32.5849)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6872225>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6872225>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.131 35.3667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6964786>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6964786>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.297 38.3111)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6878526>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6878526>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.223 32.8)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6911400>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6911400>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.256 33.9253)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7073802>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7073802>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.855 37.7614)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7196401>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7196401>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.286 37.991)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7055600>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7055600>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.026 35.4289)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6798152>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6798152>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.189 33.9821)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6925364>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6925364>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.067 37.36)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q6781762>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q6781762>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.58708 39.15602)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7122486>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7122486>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.265 34.129)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7115228>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7115228>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.043 33.8237)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7128586>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7128586>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.19 33.6647)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14684256>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14684256>	<http://www.wikidata.org/prop/direct/P625>	"Point(-115.956 33.3011)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8012581>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q8012581>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.573 34.1689)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683220>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683220>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.005 37.3)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q9368394>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q9368394>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.443 33.9986)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q13645072>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q13645072>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.185 33.7872)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683471>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683471>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.052 39.2411)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8032839>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q8032839>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.785277777 38.685555555)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7996874>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q7996874>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.044 33.9805)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683347>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683347>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.889 33.7601)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14681607>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14681607>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.702541 39.415263)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683438>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683438>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.121 32.9667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683607>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683607>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.42 33.7806)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8022316>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q8022316>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.897 37.2899)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683237>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683237>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.066 36.9541)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683735>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683735>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.066 32.9953)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683701>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683701>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.025 32.9981)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8060168>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q8060168>	<http://www.wikidata.org/prop/direct/P625>	"Point(-116.425 34.1139)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683482>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683482>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.288 38.3047)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683949>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683949>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.269 35.5076)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8022161>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q8022161>	<http://www.wikidata.org/prop/direct/P625>	"Point(-123.354 39.4172)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683452>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683452>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.201 33.5643)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683616>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683616>	<http://www.wikidata.org/prop/direct/P625>	"Point(-119.536 36.6094)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683412>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683412>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.048 32.7)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8035023>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q8035023>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.937 34.0292)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14682467>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14682467>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.82166667 38.69388889)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8055270>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q8055270>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.779 33.9034)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8033335>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q8033335>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.232 37.4444)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8564400>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q8564400>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.798 33.7674)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14681558>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14681558>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.898333333 34.125833333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q8024617>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q8024617>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.818 38.5425)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q12060715>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q12060715>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.859 37.3724)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683578>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683578>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.197 39.7401)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683497>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683497>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.487 35.0497)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q13580395>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q13580395>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.001 37.5214)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683173>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683173>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.976 34.0077)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683278>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683278>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.179 32.7725)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14681767>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14681767>	<http://www.wikidata.org/prop/direct/P625>	"Point(-120.361817 36.143849)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14682072>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14682072>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.684306 39.367009)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14683439>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14683439>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.305 41.3217)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14684100>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14684100>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.066 34.1188)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14682978>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14682978>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.246 33.9244)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14682522>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1080794>	
+<http://www.wikidata.org/entity/Q14682522>	<http://www.wikidata.org/prop/direct/P625>	"Point(-121.98656667 37.52888611)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7562167>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1493752>	
+<http://www.wikidata.org/entity/Q1493752>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q7173902>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1143635>	
+<http://www.wikidata.org/entity/Q1143635>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3914>	
+<http://www.wikidata.org/entity/Q7173902>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.707 34.1017)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q14681526>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1143635>	
+<http://www.wikidata.org/entity/Q14681526>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.32583 33.969801)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5018193>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1143635>	
+<http://www.wikidata.org/entity/Q5018193>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.823 34.0586)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7122708>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1143635>	
+<http://www.wikidata.org/entity/Q7122708>	<http://www.wikidata.org/prop/direct/P625>	"Point(-118.309 34.045)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q1047226>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1143635>	
+<http://www.wikidata.org/entity/Q1047226>	<http://www.wikidata.org/prop/direct/P625>	"Point(-0.067443 51.514934)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q3360203>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1143635>	
+<http://www.wikidata.org/entity/Q3360203>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.441 38.5693)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7241530>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1143635>	
+<http://www.wikidata.org/entity/Q7241530>	<http://www.wikidata.org/prop/direct/P625>	"Point(-122.456 37.8013)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q5020644>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1143635>	
+<http://www.wikidata.org/entity/Q5020644>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.168 32.72)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q7281806>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q1143635>	
+<http://www.wikidata.org/entity/Q7281806>	<http://www.wikidata.org/prop/direct/P625>	"Point(-117.241 32.887)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	
+<http://www.wikidata.org/entity/Q1047226>	<http://www.wikidata.org/prop/direct/P625>	"Point(-71.070741943 42.369869378)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>	

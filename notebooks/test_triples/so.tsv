@@ -1,0 +1,121 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q1078217>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1078217>	<http://www.w3.org/2000/01/rdf-schema#label>	"Kazuhiko Katō"@en	
+<http://www.wikidata.org/entity/Q1078217>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q428223>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q428223>	<http://www.w3.org/2000/01/rdf-schema#label>	"Robert Plant"@en	
+<http://www.wikidata.org/entity/Q428223>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q428223>	<http://www.w3.org/2000/01/rdf-schema#label>	"Robert Plant"@en-ca	
+<http://www.wikidata.org/entity/Q428223>	<http://www.w3.org/2000/01/rdf-schema#label>	"Robert Plant"@en-gb	
+<http://www.wikidata.org/entity/Q2643>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2643>	<http://www.w3.org/2000/01/rdf-schema#label>	"George Harrison"@en-ca	
+<http://www.wikidata.org/entity/Q2643>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q2643>	<http://www.w3.org/2000/01/rdf-schema#label>	"George Harrison"@en-gb	
+<http://www.wikidata.org/entity/Q469929>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q469929>	<http://www.w3.org/2000/01/rdf-schema#label>	"Linda"@en-ca	
+<http://www.wikidata.org/entity/Q469929>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q469929>	<http://www.w3.org/2000/01/rdf-schema#label>	"Linda"@en-gb	
+<http://www.wikidata.org/entity/Q2643>	<http://www.w3.org/2000/01/rdf-schema#label>	"George Harrison"@en	
+<http://www.wikidata.org/entity/Q1699618>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1699618>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Cipollina"@en	
+<http://www.wikidata.org/entity/Q1699618>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q5928>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q5928>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jimi Hendrix"@en	
+<http://www.wikidata.org/entity/Q5928>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q5928>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jimi Hendrix"@en-ca	
+<http://www.wikidata.org/entity/Q5928>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jimi Hendrix"@en-gb	
+<http://www.wikidata.org/entity/Q1978163>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1978163>	<http://www.w3.org/2000/01/rdf-schema#label>	"Nikolai Noskov"@en	
+<http://www.wikidata.org/entity/Q1978163>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q713172>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q713172>	<http://www.w3.org/2000/01/rdf-schema#label>	"Keith Reid"@en	
+<http://www.wikidata.org/entity/Q713172>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q346794>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q346794>	<http://www.w3.org/2000/01/rdf-schema#label>	"Nick Simper"@en	
+<http://www.wikidata.org/entity/Q346794>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q1501471>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1501471>	<http://www.w3.org/2000/01/rdf-schema#label>	"Lee Dorman"@en	
+<http://www.wikidata.org/entity/Q1501471>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q1501471>	<http://www.w3.org/2000/01/rdf-schema#label>	"Lee Dorman"@en-ca	
+<http://www.wikidata.org/entity/Q1501471>	<http://www.w3.org/2000/01/rdf-schema#label>	"Lee Dorman"@en-gb	
+<http://www.wikidata.org/entity/Q713183>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q713183>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jorma Kaukonen"@en	
+<http://www.wikidata.org/entity/Q713183>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q744984>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q744984>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ron Bushy"@en	
+<http://www.wikidata.org/entity/Q744984>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q744984>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ron Bushy"@en-ca	
+<http://www.wikidata.org/entity/Q744984>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ron Bushy"@en-gb	
+<http://www.wikidata.org/entity/Q836637>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q836637>	<http://www.w3.org/2000/01/rdf-schema#label>	"Pavol Hammel"@en	
+<http://www.wikidata.org/entity/Q836637>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q317427>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q317427>	<http://www.w3.org/2000/01/rdf-schema#label>	"Donovan"@en	
+<http://www.wikidata.org/entity/Q317427>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q321313>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q321313>	<http://www.w3.org/2000/01/rdf-schema#label>	"Rod Evans"@en	
+<http://www.wikidata.org/entity/Q321313>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q708782>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q708782>	<http://www.w3.org/2000/01/rdf-schema#label>	"Arthur Brown"@en-ca	
+<http://www.wikidata.org/entity/Q708782>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q708782>	<http://www.w3.org/2000/01/rdf-schema#label>	"Arthur Brown"@en-gb	
+<http://www.wikidata.org/entity/Q530109>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q530109>	<http://www.w3.org/2000/01/rdf-schema#label>	"Wayne Coyne"@en	
+<http://www.wikidata.org/entity/Q530109>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q576668>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q576668>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ramases"@en	
+<http://www.wikidata.org/entity/Q576668>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q504658>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q504658>	<http://www.w3.org/2000/01/rdf-schema#label>	"Marty Balin"@en	
+<http://www.wikidata.org/entity/Q504658>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q340453>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q340453>	<http://www.w3.org/2000/01/rdf-schema#label>	"Achim Reichel"@en	
+<http://www.wikidata.org/entity/Q340453>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q708782>	<http://www.w3.org/2000/01/rdf-schema#label>	"Arthur Brown"@en	
+<http://www.wikidata.org/entity/Q363371>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q363371>	<http://www.w3.org/2000/01/rdf-schema#label>	"Yegor Letov"@en	
+<http://www.wikidata.org/entity/Q363371>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q543545>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q543545>	<http://www.w3.org/2000/01/rdf-schema#label>	"Arthur Lee"@en	
+<http://www.wikidata.org/entity/Q543545>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q867599>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q867599>	<http://www.w3.org/2000/01/rdf-schema#label>	"Kourosh Yaghmaei"@en	
+<http://www.wikidata.org/entity/Q867599>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q976193>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q976193>	<http://www.w3.org/2000/01/rdf-schema#label>	"Twink"@en	
+<http://www.wikidata.org/entity/Q976193>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q501429>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q501429>	<http://www.w3.org/2000/01/rdf-schema#label>	"Skip Spence"@en	
+<http://www.wikidata.org/entity/Q501429>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q527957>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q527957>	<http://www.w3.org/2000/01/rdf-schema#label>	"Eric McFadden"@en	
+<http://www.wikidata.org/entity/Q527957>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q998702>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q998702>	<http://www.w3.org/2000/01/rdf-schema#label>	"Yanka Dyagileva"@en	
+<http://www.wikidata.org/entity/Q998702>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q998702>	<http://www.w3.org/2000/01/rdf-schema#label>	"Yanka Dyagileva"@en-ca	
+<http://www.wikidata.org/entity/Q998702>	<http://www.w3.org/2000/01/rdf-schema#label>	"Yanka Dyagileva"@en-gb	
+<http://www.wikidata.org/entity/Q711107>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q711107>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mike Ratledge"@en	
+<http://www.wikidata.org/entity/Q711107>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q1153562>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1153562>	<http://www.w3.org/2000/01/rdf-schema#label>	"Erik Brann"@en	
+<http://www.wikidata.org/entity/Q1153562>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q888316>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q888316>	<http://www.w3.org/2000/01/rdf-schema#label>	"Bob Weir"@en	
+<http://www.wikidata.org/entity/Q888316>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q493730>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q493730>	<http://www.w3.org/2000/01/rdf-schema#label>	"Spencer Dryden"@en	
+<http://www.wikidata.org/entity/Q493730>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q1811722>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1811722>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anton Newcombe"@en	
+<http://www.wikidata.org/entity/Q1811722>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q542681>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q542681>	<http://www.w3.org/2000/01/rdf-schema#label>	"Narada Michael Walden"@en	
+<http://www.wikidata.org/entity/Q542681>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q525806>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q525806>	<http://www.w3.org/2000/01/rdf-schema#label>	"Eric Wagner"@en	
+<http://www.wikidata.org/entity/Q525806>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	
+<http://www.wikidata.org/entity/Q1036131>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1036131>	<http://www.w3.org/2000/01/rdf-schema#label>	"Dan Snaith"@en	
+<http://www.wikidata.org/entity/Q1036131>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q206159>	

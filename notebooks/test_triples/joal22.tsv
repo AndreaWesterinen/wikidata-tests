@@ -1,0 +1,9 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q954668>	<http://www.w3.org/2000/01/rdf-schema#label>	"Erik Persson"@en	
+<http://www.wikidata.org/entity/Q954668>	<http://www.w3.org/2000/01/rdf-schema#label>	"Erik Persson"@sv	
+<https://sv.wikipedia.org/wiki/Erik_%22Lillis%22_Persson>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q954668>	
+<https://sv.wikipedia.org/wiki/Erik_%22Lillis%22_Persson>	<http://schema.org/isPartOf>	<https://sv.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Erik_Persson_(footballer)>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q954668>	
+<https://en.wikipedia.org/wiki/Erik_Persson_(footballer)>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<http://www.wikidata.org/entity/Q954668>	<http://www.w3.org/2000/01/rdf-schema#label>	"Erik Persson"@en-ca	
+<http://www.wikidata.org/entity/Q954668>	<http://www.w3.org/2000/01/rdf-schema#label>	"Erik Persson"@en-gb	

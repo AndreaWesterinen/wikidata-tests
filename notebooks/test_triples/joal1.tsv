@@ -1,0 +1,636 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q115167>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q4886>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q16521>	
+<http://www.wikidata.org/entity/Q115167>	<http://www.wikidata.org/prop/direct/P225>	"Citrus × sinensis ʽJaffa’"	
+<http://www.wikidata.org/entity/Q115167>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jaffa-Orange"@de	
+<http://www.wikidata.org/entity/Q115167>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Shamouti"@de	
+<http://www.wikidata.org/entity/Q115167>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Shamouti-Orange"@de	
+<http://www.wikidata.org/entity/Q115167>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Shamouti orange"@en	
+<http://www.wikidata.org/entity/Q115167>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jaffa"@he	
+<http://www.wikidata.org/entity/Q115167>	<http://www.w3.org/2004/02/skos/core#altLabel>	"ג'אפה"@he	
+<http://www.wikidata.org/entity/Q115167>	<http://www.w3.org/2004/02/skos/core#altLabel>	"תפוזי Jaffa"@he	
+<http://www.wikidata.org/entity/Q115167>	<http://www.w3.org/2004/02/skos/core#altLabel>	"תפוזי יפו"@he	
+<http://www.wikidata.org/entity/Q115167>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jaffa-appelsiner"@nb	
+<http://www.wikidata.org/entity/Q142245>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q142245>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Dendrobium Clara Bundt gx 'Kimilsungia'"@en	
+<http://www.wikidata.org/entity/Q142245>	<http://www.w3.org/2004/02/skos/core#altLabel>	"цветок кимирсенхва"@ru	
+<http://www.wikidata.org/entity/Q281405>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q281405>	<http://www.wikidata.org/prop/direct/P225>	"Capsicum frutescens ‘Tabasco’"	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Tabasco"@oc	
+<http://www.wikidata.org/entity/Q6598>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q6598>	<http://www.wikidata.org/prop/direct/P225>	"Capsicum annuum var. acuminatum"	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"พริกกาแยน"@th	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"papryka kajeńska"@pl	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum 'Cayenne'"@la	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum var. acuminatum 'Cayenne'"@la	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum longum cayennense"@la	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"long Cayenne"@en	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"tabasco"@cs	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Chile tabasco"@fr	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"tabasco"@it	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"チレ・タバスコ"@ja	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Cayenne"@de	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum 'Cayenne'"@bar	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum var. acuminatum"@bg	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum 'Cayenne'"@de	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum var. acuminatum"@de	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Chillipfeffer"@de	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Καψικόν το ετήσιον"@el	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"κόκκινο καυτό πιπέρι τσίλι"@el	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"κόκκινο πιπέρι"@el	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"πιπέρι καγιέν"@el	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"aleva"@en	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"bird pepper"@en	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum 'Cayenne'"@en	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum var. acuminatum"@en	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"cow-horn pepper"@en	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Guinea spice"@en	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"red hot chili pepper"@en	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"red pepper"@en	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum var. acuminatum"@es	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum 'Cayenne'"@fr	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum var. acuminatum"@fr	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"piment d'oiseau"@fr	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"piment rouge"@fr	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum var. acuminatum"@hu	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Cayenne-i paprika"@hu	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Cayenna"@it	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"guineapepper"@nb	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"kajennepepper"@nb	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum var. acuminatum"@nl	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum var. acuminatum"@ru	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"кайенский перец"@ru	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"капсикум кайенский"@ru	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"перец острый"@ru	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"стручковый перец кустарниковый"@ru	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"卡宴椒"@yue	
+<http://www.wikidata.org/entity/Q6598>	<http://www.w3.org/2004/02/skos/core#altLabel>	"卡宴椒"@zh	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@de	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@en	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens cv. Tabasco"@en	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@ast	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@bg	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@ceb	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@cs	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@es	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@fi	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@fr	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@ga	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@hu	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@it	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@la	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@nl	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@oc	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@pl	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@pt	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@ro	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@ru	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@sk	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@sq	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@sv	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@tl	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@to	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@tr	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@uk	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@vi	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Tabasco’"@war	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@cs	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@de	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@en	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@es	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@fi	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@fr	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@hu	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@it	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@la	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@nl	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@ro	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@sk	
+<http://www.wikidata.org/entity/Q199129>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q199129>	<http://www.wikidata.org/prop/direct/P225>	"Hosta ‘Decorata’"	
+<http://www.wikidata.org/entity/Q199129>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Hosta 'Decorata'"@de	
+<http://www.wikidata.org/entity/Q432426>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q432426>	<http://www.wikidata.org/prop/direct/P225>	"Capsicum annuum ‘Bird’s Eye’"	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"глаз птицы"@ru	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"птичий глаз"@ru	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"тайский перец"@ru	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"チリパディ"@ja	
+<http://www.wikidata.org/entity/Q466854>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q466854>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum chinense \"Scotch Bonnet\""@de	
+<http://www.wikidata.org/entity/Q466854>	<http://www.w3.org/2004/02/skos/core#altLabel>	"スコッチボネット"@ja	
+<http://www.wikidata.org/entity/Q466854>	<http://www.w3.org/2004/02/skos/core#altLabel>	"スコッチボンネットペッパー"@ja	
+<http://www.wikidata.org/entity/Q512580>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q512580>	<http://www.wikidata.org/prop/direct/P225>	"Capsicum frutescens ‘Piri Piri’"	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Piripiri"@ceb	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Piri piri"@es	
+<http://www.wikidata.org/entity/Q426850>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q426850>	<http://www.wikidata.org/prop/direct/P225>	"Capsicum chinense ‘Bhut Jolokia’"	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"ناغا جولوكي ( نبات )"@ar	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Bih jolokia"@en	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum chinense ‘Bhut Jolokia’"@en	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ghost chili"@en	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ghost pepper"@en	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Naga jolokia"@en	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Red naga"@en	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"U-morok"@en	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"नागा मिर्च"@hi	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"भूतिया मिर्च"@hi	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"cabai setan"@id	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Bih Jolokia"@it	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ghost chili"@it	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Naga Jolokia"@it	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"ଭୂତ୍ ଜୋଲୋକିୟା"@or	
+<http://www.wikidata.org/entity/Q426850>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Bhut Jolokia"@ru	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Peli peli"@ceb	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Peli-peli"@ceb	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pelipeli"@ceb	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Peri peri"@ceb	
+<http://www.wikidata.org/entity/Q504133>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q504133>	<http://www.wikidata.org/prop/direct/P225>	"Capsicum annuum ‘Jalapeño’"	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"пиперка халапењо"@mk	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"халапењо-пиперка"@mk	
+<http://www.wikidata.org/entity/Q496517>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q496517>	<http://www.wikidata.org/prop/direct/P225>	"Begonia ×tuberhybrida ‘Kimjongilia’"	
+<http://www.wikidata.org/entity/Q496517>	<http://www.w3.org/2004/02/skos/core#altLabel>	"'Kimjongilia'"@cs	
+<http://www.wikidata.org/entity/Q496517>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Kimčongilie"@cs	
+<http://www.wikidata.org/entity/Q496517>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Kimjongilie"@de	
+<http://www.wikidata.org/entity/Q496517>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Begonia ×tuberhybrida ‘Kimjongilia’"@en	
+<http://www.wikidata.org/entity/Q496517>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Кимченирхва"@ru	
+<http://www.wikidata.org/entity/Q496517>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Hoa Kim Châng In"@vi	
+<http://www.wikidata.org/entity/Q496517>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Hoa Kim Jong Il"@vi	
+<http://www.wikidata.org/entity/Q496517>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Hoa Kim Jong-il"@vi	
+<http://www.wikidata.org/entity/Q496517>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Kim Chính Nhật"@vi	
+<http://www.wikidata.org/entity/Q496517>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Kim Chính Nhật hoa"@vi	
+<http://www.wikidata.org/entity/Q496517>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Kimjongilia"@vi	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"বার্ডস আই চিলি"@bn	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"bird eye chili"@en	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"bird's chili"@en	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum 'Bird's Eye'"@en	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Thai chili"@en	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"鳥の目唐辛子"@ja	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"쥐똥고추"@ko	
+<http://www.wikidata.org/entity/Q432426>	<http://www.w3.org/2004/02/skos/core#altLabel>	"프릭키누"@ko	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@sv	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@tl	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@to	
+<http://www.wikidata.org/entity/Q281405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens 'Tabasco'"@tr	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"paprička jalapeño"@cs	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeno"@da	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapenos"@da	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeños"@da	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Alopino"@de	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum cv. Jalapeño"@de	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapena"@de	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeno"@de	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapenos"@de	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"jalapeno"@en	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeño"@en	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"jalapeno pepper"@en	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"jalapeño pepper"@en	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"aji japeno"@es	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"aji japeño"@es	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"ají japeno"@es	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"ají japeño"@es	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"chile cuaresmeno"@es	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"chile cuaresmeño"@es	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"chile jalapeno"@es	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"jalapeno"@es	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"jalapeño"@es	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"'Jalapeño'"@et	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"هلیپینو"@fa	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeno"@fi	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalopeno"@fi	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeño"@fr	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Piment Jalapeno"@fr	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Xalapeño"@gl	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"jalapeno"@id	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeño"@ml	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"ഹലാപീനൊ"@ml	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeno"@nb	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapa peper"@nl	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeno"@nl	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeno"@pl	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapenho"@pt	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pimenta-jalapenho"@pt	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pimenta-japalenho"@pt	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"ялапен"@ru	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Халапењо паприка"@sr	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Халапењо папричица"@sr	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeno"@sv	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"กัวเรสเมญโญ"@th	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Jalapeno"@tr	
+<http://www.wikidata.org/entity/Q504133>	<http://www.w3.org/2004/02/skos/core#altLabel>	"哈拉皮紐辣椒"@zh	
+<http://www.wikidata.org/entity/Q1148021>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1397965>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q645199>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q645199>	<http://www.w3.org/2004/02/skos/core#altLabel>	"打木赤皮甘栗かぼちゃ"@ja	
+<http://www.wikidata.org/entity/Q890762>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q890762>	<http://www.wikidata.org/prop/direct/P225>	"Banksia ‘Superman’"	
+<http://www.wikidata.org/entity/Q1281102>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1281102>	<http://www.wikidata.org/prop/direct/P225>	"Crataegus laevigata ʽPaul's Scarlet’"	
+<http://www.wikidata.org/entity/Q1281102>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Rotdorn"@de	
+<http://www.wikidata.org/entity/Q1281102>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Paul's Scarlet Red Hawthorn"@en	
+<http://www.wikidata.org/entity/Q1281102>	<http://www.w3.org/2004/02/skos/core#altLabel>	"red hawthorn"@en	
+<http://www.wikidata.org/entity/Q1188351>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1188351>	<http://www.wikidata.org/prop/direct/P225>	"Zoysia ‘Emerald’"	
+<http://www.wikidata.org/entity/Q1182886>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1182886>	<http://www.w3.org/2004/02/skos/core#altLabel>	"دقلة"@ar	
+<http://www.wikidata.org/entity/Q1236127>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1236127>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pimento"@en	
+<http://www.wikidata.org/entity/Q1147113>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1147113>	<http://www.wikidata.org/prop/direct/P225>	"Prunus domestica ‘Jojo’"	
+<http://www.wikidata.org/entity/Q617583>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q617583>	<http://www.wikidata.org/prop/direct/P225>	"Capsicum annuum ‘Serrano pepper ’"	
+<http://www.wikidata.org/entity/Q617583>	<http://www.w3.org/2004/02/skos/core#altLabel>	"チレセラーノ"@ja	
+<http://www.wikidata.org/entity/Q886711>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q886711>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Blutzwetschge"@de	
+<http://www.wikidata.org/entity/Q886711>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Zwergblutpflaume"@de	
+<http://www.wikidata.org/entity/Q886711>	<http://www.w3.org/2004/02/skos/core#altLabel>	"pissardii"@es	
+<http://www.wikidata.org/entity/Q1204670>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1204670>	<http://www.w3.org/2004/02/skos/core#altLabel>	"こしひかり"@ja	
+<http://www.wikidata.org/entity/Q1204670>	<http://www.w3.org/2004/02/skos/core#altLabel>	"고시히카리벼"@ko	
+<http://www.wikidata.org/entity/Q1204670>	<http://www.w3.org/2004/02/skos/core#altLabel>	"고시히카리쌀"@ko	
+<http://www.wikidata.org/entity/Q1204670>	<http://www.w3.org/2004/02/skos/core#altLabel>	"大橋米"@zh	
+<http://www.wikidata.org/entity/Q1336192>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1336192>	<http://www.wikidata.org/prop/direct/P225>	"Pyrus communis ‘Hortensia’"	
+<http://www.wikidata.org/entity/Q1336192>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Гортензия (сорт груш)"@ru	
+<http://www.wikidata.org/entity/Q897746>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q897746>	<http://www.wikidata.org/prop/direct/P225>	"Capsicum annuum ‘Poblano’"	
+<http://www.wikidata.org/entity/Q897746>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Poblano"@fr	
+<http://www.wikidata.org/entity/Q897746>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Poblano"@it	
+<http://www.wikidata.org/entity/Q764375>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q764375>	<http://www.wikidata.org/prop/direct/P225>	"Capsicum chinense ‘Habanero’"	
+<http://www.wikidata.org/entity/Q764375>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum chinense ‘Habanero’"@en	
+<http://www.wikidata.org/entity/Q764375>	<http://www.w3.org/2004/02/skos/core#altLabel>	"habanero chili"@en	
+<http://www.wikidata.org/entity/Q764375>	<http://www.w3.org/2004/02/skos/core#altLabel>	"habanero pepper"@en	
+<http://www.wikidata.org/entity/Q764375>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum chinense ‘Habanero’"@ru	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Peri-peri"@ceb	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Periperi"@ceb	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pili pili"@ceb	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pili-pili"@ceb	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pilipili"@ceb	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Piri piri"@ceb	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"African bird's eye"@en	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens ‘Piri Piri’"@en	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"peri-peri"@en	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"pili pili"@en	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"piripiri"@en	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum frutescens var. Afrikaanse rode duivel"@es	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pili pili"@fr	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Piri piri"@fr	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Piri-piri"@fr	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"African birdseye"@it	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pili-pili"@nl	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"PiriPiri"@nl	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"霹雳椒"@zh	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"霹靂椒"@zh	
+<http://www.wikidata.org/entity/Q1261169>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1261169>	<http://www.wikidata.org/prop/direct/P225>	"Pyrus communis ‘Gieser Wildeman’"	
+<http://www.wikidata.org/entity/Q1261169>	<http://www.w3.org/2004/02/skos/core#altLabel>	"stoofpeer"@nl	
+<http://www.wikidata.org/entity/Q1261169>	<http://www.w3.org/2004/02/skos/core#altLabel>	"stoofpeertje"@nl	
+<http://www.wikidata.org/entity/Q1225065>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1225065>	<http://www.w3.org/2004/02/skos/core#altLabel>	"NERICA"@en	
+<http://www.wikidata.org/entity/Q1182886>	<http://www.w3.org/2004/02/skos/core#altLabel>	"الدقلة"@ar	
+<http://www.wikidata.org/entity/Q617583>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Serrano"@la	
+<http://www.wikidata.org/entity/Q897746>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Mulato"@de	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Anti-Matsch-Tomate"@de	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Antimatschtomate"@de	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Flavr Savr"@de	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Flavr-Savr"@de	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Tomate Flavr Savr"@fr	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"FLAVER SAVER"@ja	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"FLAVER SAVR"@ja	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"FLAVR SAVR"@ja	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Flavr Savr"@pl	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Flavr-savr"@sv	
+<http://www.wikidata.org/entity/Q894405>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q894405>	<http://www.wikidata.org/prop/direct/P225>	"Pyrus communis ‘Calebasse Bosc’"	
+<http://www.wikidata.org/entity/Q894405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Kaiser Alexander"@de	
+<http://www.wikidata.org/entity/Q894405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Kaiser Alexander"@en	
+<http://www.wikidata.org/entity/Q642692>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q642692>	<http://www.w3.org/2004/02/skos/core#altLabel>	"娜迦毒蛇"@zh	
+<http://www.wikidata.org/entity/Q897746>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ancho"@de	
+<http://www.wikidata.org/entity/Q897746>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ancho"@fr	
+<http://www.wikidata.org/entity/Q897746>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Chile poblano"@fr	
+<http://www.wikidata.org/entity/Q897746>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Piment Ancho"@fr	
+<http://www.wikidata.org/entity/Q897746>	<http://www.w3.org/2004/02/skos/core#altLabel>	"チレ・ポブラーノ"@ja	
+<http://www.wikidata.org/entity/Q897746>	<http://www.w3.org/2004/02/skos/core#altLabel>	"물라토고추"@ko	
+<http://www.wikidata.org/entity/Q897746>	<http://www.w3.org/2004/02/skos/core#altLabel>	"안초고추"@ko	
+<http://www.wikidata.org/entity/Q1236127>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Cherry pepper"@en	
+<http://www.wikidata.org/entity/Q1236127>	<http://www.w3.org/2004/02/skos/core#altLabel>	"チェリーペッパー"@ja	
+<http://www.wikidata.org/entity/Q1236127>	<http://www.w3.org/2004/02/skos/core#altLabel>	"ピミエント"@ja	
+<http://www.wikidata.org/entity/Q1236127>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pimiento"@sv	
+<http://www.wikidata.org/entity/Q764375>	<http://www.w3.org/2004/02/skos/core#altLabel>	"cabai gendot"@id	
+<http://www.wikidata.org/entity/Q1182886>	<http://www.w3.org/2004/02/skos/core#altLabel>	"دقلة نور"@ar	
+<http://www.wikidata.org/entity/Q1182886>	<http://www.w3.org/2004/02/skos/core#altLabel>	"دقله"@ar	
+<http://www.wikidata.org/entity/Q1182886>	<http://www.w3.org/2004/02/skos/core#altLabel>	"دقله نور"@ar	
+<http://www.wikidata.org/entity/Q1182886>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Deglet noor"@de	
+<http://www.wikidata.org/entity/Q1182886>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Deglet Nour"@en	
+<http://www.wikidata.org/entity/Q764375>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum chinense ‘Habanero’"@mk	
+<http://www.wikidata.org/entity/Q764375>	<http://www.w3.org/2004/02/skos/core#altLabel>	"пиперка хабанеро"@mk	
+<http://www.wikidata.org/entity/Q764375>	<http://www.w3.org/2004/02/skos/core#altLabel>	"хабанеро-пиперка"@mk	
+<http://www.wikidata.org/entity/Q645199>	<http://www.w3.org/2004/02/skos/core#altLabel>	"hokkaidopompoen"@nl	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Peri peri"@es	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pili pili"@es	
+<http://www.wikidata.org/entity/Q800036>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q800036>	<http://www.wikidata.org/prop/direct/P225>	"Citrus ‘Shōnan Gold’"	
+<http://www.wikidata.org/entity/Q886711>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Prunus cerasifera Nigra"@de	
+<http://www.wikidata.org/entity/Q512580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"霹靂霹靂"@zh	
+<http://www.wikidata.org/entity/Q911560>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q911560>	<http://www.wikidata.org/prop/direct/P225>	"Capsicum annuum ‘Dundicut’"	
+<http://www.wikidata.org/entity/Q911560>	<http://www.w3.org/2004/02/skos/core#altLabel>	"فلفل هندی"@fa	
+<http://www.wikidata.org/entity/Q630612>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q630612>	<http://www.wikidata.org/prop/direct/P225>	"Pyrus communis ‘Comice’"	
+<http://www.wikidata.org/entity/Q630612>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Doyenné du Comice"@en	
+<http://www.wikidata.org/entity/Q630612>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Comice"@fr	
+<http://www.wikidata.org/entity/Q894405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Alexanderbirne"@de	
+<http://www.wikidata.org/entity/Q894405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Bosc's Flaschenbirne"@de	
+<http://www.wikidata.org/entity/Q894405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Bosc’s Flaschenbirne"@de	
+<http://www.wikidata.org/entity/Q894405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Kaiserbirne"@de	
+<http://www.wikidata.org/entity/Q894405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Beurre Bosc"@fr	
+<http://www.wikidata.org/entity/Q894405>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Poire Beurré Bosc"@fr	
+<http://www.wikidata.org/entity/Q2946876>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2946876>	<http://www.wikidata.org/prop/direct/P225>	"Solanum melongena ‘Ronde de Valence’"	
+<http://www.wikidata.org/entity/Q2316199>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2573439>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2573439>	<http://www.wikidata.org/prop/direct/P225>	"Solanum tuberosum ‘Doré’"	
+<http://www.wikidata.org/entity/Q2573439>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Dore"@en	
+<http://www.wikidata.org/entity/Q2827722>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2827930>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2866792>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2934573>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978833>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978833>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo038’"	
+<http://www.wikidata.org/entity/Q2677104>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2677104>	<http://www.wikidata.org/prop/direct/P225>	"Pyrus communis ‘Winterrietpeer’"	
+<http://www.wikidata.org/entity/Q2699720>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2699720>	<http://www.wikidata.org/prop/direct/P225>	"Geranium ‘Johnson’s Blue’"	
+<http://www.wikidata.org/entity/Q2978805>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978805>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Barbara Harrington’"	
+<http://www.wikidata.org/entity/Q2978805>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'barbara Harrington'"@fr	
+<http://www.wikidata.org/entity/Q2978805>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis Patens X 'barbara harrington'"@fr	
+<http://www.wikidata.org/entity/Q2978805>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis Patens X barbara harrington"@fr	
+<http://www.wikidata.org/entity/Q2978811>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978811>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Blue Light’"	
+<http://www.wikidata.org/entity/Q2978811>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'blue light'"@fr	
+<http://www.wikidata.org/entity/Q2978811>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis Patens X 'Blue Light'"@fr	
+<http://www.wikidata.org/entity/Q2978811>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis Patens X 'Blue Light®'"@fr	
+<http://www.wikidata.org/entity/Q2978811>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis Patens X Blue Light"@fr	
+<http://www.wikidata.org/entity/Q2978817>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978817>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Docteur Ruppel’"	
+<http://www.wikidata.org/entity/Q2978817>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'docteur Ruppel'"@fr	
+<http://www.wikidata.org/entity/Q2978817>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X 'docteur ruppel'"@fr	
+<http://www.wikidata.org/entity/Q2978817>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X docteur ruppel"@fr	
+<http://www.wikidata.org/entity/Q2978824>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978824>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo018’"	
+<http://www.wikidata.org/entity/Q2978824>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'evipo018'"@fr	
+<http://www.wikidata.org/entity/Q2978824>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X evipo018"@fr	
+<http://www.wikidata.org/entity/Q2978834>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978834>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo039’"	
+<http://www.wikidata.org/entity/Q2978834>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'evipo039'"@fr	
+<http://www.wikidata.org/entity/Q2736580>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2736580>	<http://www.wikidata.org/prop/direct/P225>	"Pyrus communis ‘Beurré Chaboceau’"	
+<http://www.wikidata.org/entity/Q2882671>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2882671>	<http://www.wikidata.org/prop/direct/P225>	"Banksia ‘Roller Coaster’"	
+<http://www.wikidata.org/entity/Q2379170>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2379170>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Quercus robur f. fastigiata | дуб колоновидный | колоновидный дуб"@ru	
+<http://www.wikidata.org/entity/Q2978816>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978816>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evifive’"	
+<http://www.wikidata.org/entity/Q2978816>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Evifive"@en	
+<http://www.wikidata.org/entity/Q2978816>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'evifive'"@fr	
+<http://www.wikidata.org/entity/Q2978827>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978827>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo023’"	
+<http://www.wikidata.org/entity/Q2978827>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'evipo023'"@fr	
+<http://www.wikidata.org/entity/Q2978827>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X evipo023"@fr	
+<http://www.wikidata.org/entity/Q2228034>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2228034>	<http://www.wikidata.org/prop/direct/P225>	"Salix ‘Chrysocoma’"	
+<http://www.wikidata.org/entity/Q2228034>	<http://www.w3.org/2004/02/skos/core#altLabel>	"smuteční vrba"@cs	
+<http://www.wikidata.org/entity/Q2228034>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Salix x chrysocoma"@pms	
+<http://www.wikidata.org/entity/Q2978830>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978830>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo029’"	
+<http://www.wikidata.org/entity/Q2978830>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Filigree"@en	
+<http://www.wikidata.org/entity/Q2978830>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'evipo029'"@fr	
+<http://www.wikidata.org/entity/Q2978832>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978832>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo037’"	
+<http://www.wikidata.org/entity/Q2978832>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'evipo037'"@fr	
+<http://www.wikidata.org/entity/Q2978806>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978806>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Ashva’"	
+<http://www.wikidata.org/entity/Q2978806>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ashva"@en	
+<http://www.wikidata.org/entity/Q2978825>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978825>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo021’"	
+<http://www.wikidata.org/entity/Q2978825>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Chantilly"@en	
+<http://www.wikidata.org/entity/Q2228034>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Salix 'Chrysocoma'"@fi	
+<http://www.wikidata.org/entity/Q2978806>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'ashva'"@fr	
+<http://www.wikidata.org/entity/Q2978806>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis Patens X 'ashva'"@fr	
+<http://www.wikidata.org/entity/Q2978806>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis Patens X ashva"@fr	
+<http://www.wikidata.org/entity/Q2978825>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'evipo021'"@fr	
+<http://www.wikidata.org/entity/Q2978825>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X evipo021"@fr	
+<http://www.wikidata.org/entity/Q2573439>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Solanum tuberosum ‘Doré’"@en	
+<http://www.wikidata.org/entity/Q2978804>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978804>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Asao’"	
+<http://www.wikidata.org/entity/Q2978804>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'asao'"@fr	
+<http://www.wikidata.org/entity/Q2978804>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis Patens X 'asao'"@fr	
+<http://www.wikidata.org/entity/Q2978804>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis Patens X asao"@fr	
+<http://www.wikidata.org/entity/Q2978810>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978810>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Beautiful Bride’"	
+<http://www.wikidata.org/entity/Q2978810>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'beautiful bride'"@fr	
+<http://www.wikidata.org/entity/Q2978810>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis Patens X 'beautiful bride'pbr"@fr	
+<http://www.wikidata.org/entity/Q2978810>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis Patens X beautiful bride"@fr	
+<http://www.wikidata.org/entity/Q2978813>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978813>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Carnaby’"	
+<http://www.wikidata.org/entity/Q2978813>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'carnaby'"@fr	
+<http://www.wikidata.org/entity/Q2978813>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X 'carnaby'"@fr	
+<http://www.wikidata.org/entity/Q2978813>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X carnaby"@fr	
+<http://www.wikidata.org/entity/Q2978835>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978835>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo043’"	
+<http://www.wikidata.org/entity/Q2978835>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Amethyst Beauty"@en	
+<http://www.wikidata.org/entity/Q2932473>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2932473>	<http://www.wikidata.org/prop/direct/P225>	"Theobroma cacao ‘Guiana’"	
+<http://www.wikidata.org/entity/Q2932473>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Cacaoyer spontané de Guyane française"@fr	
+<http://www.wikidata.org/entity/Q2110010>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2110010>	<http://www.wikidata.org/prop/direct/P225>	"Ulmus ×hollandica ‘Dauvessei’"	
+<http://www.wikidata.org/entity/Q2978812>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978812>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Cardinal Wysinsky’"	
+<http://www.wikidata.org/entity/Q2978812>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'cardinal Wysinsky'"@fr	
+<http://www.wikidata.org/entity/Q2978812>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X 'cardinal wysinsky'"@fr	
+<http://www.wikidata.org/entity/Q2978812>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X Cardinal wysinsky"@fr	
+<http://www.wikidata.org/entity/Q2978819>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978819>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evijohill’"	
+<http://www.wikidata.org/entity/Q2978819>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'evijohill'"@fr	
+<http://www.wikidata.org/entity/Q2379170>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Quercus robur fastigiata"@cs	
+<http://www.wikidata.org/entity/Q2379170>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pyramiden-Eiche"@de	
+<http://www.wikidata.org/entity/Q2379170>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pyramideneiche"@de	
+<http://www.wikidata.org/entity/Q2379170>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Quercus robur fastigiata"@de	
+<http://www.wikidata.org/entity/Q2379170>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Quercus robur Fastigiata"@de	
+<http://www.wikidata.org/entity/Q2379170>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Säulen-Eiche"@de	
+<http://www.wikidata.org/entity/Q2978834>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Diamantina"@en	
+<http://www.wikidata.org/entity/Q2644407>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2644407>	<http://www.wikidata.org/prop/direct/P225>	"Malus domestica ‘Ariwa’"	
+<http://www.wikidata.org/entity/Q2634059>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2634059>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Trinidad Scorpion Butch Taylor"@en	
+<http://www.wikidata.org/entity/Q2634059>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Trinidad Scorpion Butch T pepper"@fr	
+<http://www.wikidata.org/entity/Q2634059>	<http://www.w3.org/2004/02/skos/core#altLabel>	"トリニダード・スコーピオン・ブッチ・T・ペッパー"@ja	
+<http://www.wikidata.org/entity/Q2634059>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Trinidad Scorpion Butch T"@pl	
+<http://www.wikidata.org/entity/Q2634059>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Trinidad Scorpion"@ru	
+<http://www.wikidata.org/entity/Q2634059>	<http://www.w3.org/2004/02/skos/core#altLabel>	"特立尼达蝎子壮汉T"@zh	
+<http://www.wikidata.org/entity/Q2634059>	<http://www.w3.org/2004/02/skos/core#altLabel>	"特立尼达蝎子布彻泰勒"@zh	
+<http://www.wikidata.org/entity/Q2634059>	<http://www.w3.org/2004/02/skos/core#altLabel>	"特立尼達蝎子壯漢T"@zh	
+<http://www.wikidata.org/entity/Q2634059>	<http://www.w3.org/2004/02/skos/core#altLabel>	"特立尼達蠍子壯漢T"@zh	
+<http://www.wikidata.org/entity/Q2978822>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978822>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo017’"	
+<http://www.wikidata.org/entity/Q2978823>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978823>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo016’"	
+<http://www.wikidata.org/entity/Q2978823>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Rebecca"@en	
+<http://www.wikidata.org/entity/Q2410854>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2410854>	<http://www.wikidata.org/prop/direct/P225>	"Phalaenopsis ‘Golden Sands’"	
+<http://www.wikidata.org/entity/Q2978815>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978815>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Comtesse de Bouchaud’"	
+<http://www.wikidata.org/entity/Q2978815>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'comtesse de bouchaud'"@fr	
+<http://www.wikidata.org/entity/Q2978815>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X 'Comtesse de Bouchaud'"@fr	
+<http://www.wikidata.org/entity/Q2978815>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X Comtesse de Bouchaud"@fr	
+<http://www.wikidata.org/entity/Q2978821>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978821>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo003’"	
+<http://www.wikidata.org/entity/Q2978821>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Evipo003"@en	
+<http://www.wikidata.org/entity/Q2978821>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'evipo003'"@fr	
+<http://www.wikidata.org/entity/Q2978831>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978831>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo030’"	
+<http://www.wikidata.org/entity/Q2978831>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens 'evipo030'"@fr	
+<http://www.wikidata.org/entity/Q2978831>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Clematis patens X evipo030"@fr	
+<http://www.wikidata.org/entity/Q2978828>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2978828>	<http://www.wikidata.org/prop/direct/P225>	"Clematis patens ‘Evipo026’"	
+<http://www.wikidata.org/entity/Q2405039>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2405039>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Teroldega"@it	
+<http://www.wikidata.org/entity/Q2405039>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Teroldico"@it	
+<http://www.wikidata.org/entity/Q2405039>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Teroldigo"@it	
+<http://www.wikidata.org/entity/Q2405039>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Tiroldico"@it	
+<http://www.wikidata.org/entity/Q1536195>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1536195>	<http://www.wikidata.org/prop/direct/P225>	"Ulmus ×hollandica ‘Wredei’"	
+<http://www.wikidata.org/entity/Q1536195>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Gold-Ulme"@de	
+<http://www.wikidata.org/entity/Q1536195>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Goldtaler-Ulme"@de	
+<http://www.wikidata.org/entity/Q1536195>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Goldulme"@de	
+<http://www.wikidata.org/entity/Q1536195>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ulmus carpinifolia Wredei"@de	
+<http://www.wikidata.org/entity/Q1536195>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ulmus Carpinifolia Wredei"@de	
+<http://www.wikidata.org/entity/Q1592726>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2102731>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2102731>	<http://www.wikidata.org/prop/direct/P225>	"Rosa Polyantha Group"	
+<http://www.wikidata.org/entity/Q2102731>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Rosa Polyantha Group"@de	
+<http://www.wikidata.org/entity/Q2102731>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Rosa Polyantha Group"@fr	
+<http://www.wikidata.org/entity/Q2003973>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2003973>	<http://www.wikidata.org/prop/direct/P225>	"Capsicum annuum cv. Big Jim"	
+<http://www.wikidata.org/entity/Q2003973>	<http://www.w3.org/2004/02/skos/core#altLabel>	"NuMex Big Jim"@en	
+<http://www.wikidata.org/entity/Q2003973>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum 'Española Improved'"@en	
+<http://www.wikidata.org/entity/Q2003973>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Capsicum annuum cv. Big Jim"@en	
+<http://www.wikidata.org/entity/Q1591373>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1591373>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Bauernpflaume"@de	
+<http://www.wikidata.org/entity/Q1591373>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Węgierka zwykła"@pl	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"أرز بسمتي"@ar	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Basmati"@ca	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Basmati-Reis"@de	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Basmatireis"@de	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"basmati rice"@en	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Arroz basmati"@es	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Basmati"@fi	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Riz basmati"@fr	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"बासमती"@hi	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"बांसमती चावल"@hi	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"riso basmati"@it	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"바스마티벼"@ko	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"바스마티쌀"@ko	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Basmati"@ml	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"ബസ്മതി"@ml	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"ബസ്മതി അരി"@ml	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Basmati"@pl	
+<http://www.wikidata.org/entity/Q1649635>	<http://www.w3.org/2004/02/skos/core#altLabel>	"பாஸ்மதி"@ta	
+<http://www.wikidata.org/entity/Q1971941>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1971941>	<http://www.wikidata.org/prop/direct/P225>	"Prunus cerasus ‘Griotte de Kleparow’"	
+<http://www.wikidata.org/entity/Q1971941>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Kleparower Süssweichsel"@de	
+<http://www.wikidata.org/entity/Q1971941>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Prunus cerasus ‘Griotte de Kleparow’"@en	
+<http://www.wikidata.org/entity/Q1971941>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Череха"@uk	
+<http://www.wikidata.org/entity/Q1971941>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Черехи"@uk	
+<http://www.wikidata.org/entity/Q1541380>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1541380>	<http://www.wikidata.org/prop/direct/P225>	"Prunus domestica ‘Graf Althans’"	
+<http://www.wikidata.org/entity/Q1947020>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1947020>	<http://www.wikidata.org/prop/direct/P225>	"Rosa ×centifolia ‘Muscosa’"	
+<http://www.wikidata.org/entity/Q1947020>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Moos-Rose"@de	
+<http://www.wikidata.org/entity/Q1947020>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Rosa muscosa"@de	
+<http://www.wikidata.org/entity/Q1947020>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Rosa ×centifolia ‘Muscosa’"@en	
+<http://www.wikidata.org/entity/Q1947020>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Aristobule"@sv	
+<http://www.wikidata.org/entity/Q1947020>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Mossros"@sv	
+<http://www.wikidata.org/entity/Q1947020>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Rosa ×centifolia muscosa"@sv	
+<http://www.wikidata.org/entity/Q1947020>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Rosa Centifolia. Muscosa-gruppen"@sv	
+<http://www.wikidata.org/entity/Q1947020>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Rosa x centifolia muscosa"@sv	
+<http://www.wikidata.org/entity/Q1427580>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Flavr-Savr"@sv	
+<http://www.wikidata.org/entity/Q2109999>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2109999>	<http://www.wikidata.org/prop/direct/P225>	"Ulmus glabra ‘Tomentosa’"	
+<http://www.wikidata.org/entity/Q1495546>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1495546>	<http://www.w3.org/2004/02/skos/core#altLabel>	"レッド・サヴィナ"@ja	
+<http://www.wikidata.org/entity/Q2102731>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Polyantharose"@de	
+<http://www.wikidata.org/entity/Q2102731>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Rosa polyantha"@eo	
+<http://www.wikidata.org/entity/Q1790872>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1790872>	<http://www.w3.org/2004/02/skos/core#altLabel>	"الكانولا"@ar	
+<http://www.wikidata.org/entity/Q1790872>	<http://www.w3.org/2004/02/skos/core#altLabel>	"زيت الكانولا"@ar	
+<http://www.wikidata.org/entity/Q1790872>	<http://www.w3.org/2004/02/skos/core#altLabel>	"زيت كانولا"@ar	
+<http://www.wikidata.org/entity/Q1790872>	<http://www.w3.org/2004/02/skos/core#altLabel>	"bezeruková odrůda řepky olejné"@cs	
+<http://www.wikidata.org/entity/Q1790872>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Κανόλα λάδι"@el	
+<http://www.wikidata.org/entity/Q1790872>	<http://www.w3.org/2004/02/skos/core#altLabel>	"유채기름"@ko	
+<http://www.wikidata.org/entity/Q1790872>	<http://www.w3.org/2004/02/skos/core#altLabel>	"유채유"@ko	
+<http://www.wikidata.org/entity/Q1790872>	<http://www.w3.org/2004/02/skos/core#altLabel>	"채종유"@ko	
+<http://www.wikidata.org/entity/Q1790872>	<http://www.w3.org/2004/02/skos/core#altLabel>	"카놀라"@ko	
+<http://www.wikidata.org/entity/Q2108835>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2108835>	<http://www.wikidata.org/prop/direct/P225>	"Prunus domestica ‘President’"	
+<http://www.wikidata.org/entity/Q1548207>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1548207>	<http://www.wikidata.org/prop/direct/P225>	"Prunus domestica ‘Reine Claude Verte’"	
+<http://www.wikidata.org/entity/Q1687907>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1687907>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Himbeererdbeere"@de	
+<http://www.wikidata.org/entity/Q2109986>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2109986>	<http://www.wikidata.org/prop/direct/P225>	"Ulmus ×hollandica ‘Dampieri’"	
+<http://www.wikidata.org/entity/Q2003973>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Big Jim"@en	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.wikidata.org/prop/direct/P225>	"Catalpa bignonioides ‘Nana’"	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Catalpa bignonioides 'Nana'"@ast	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Catalpa bignonioides 'Nana'"@bg	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Catalpa bignonioides 'Nana'"@en	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Catalpa bignonioides 'Nana'"@es	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Catalpa bignonioides 'Nana'"@fr	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Catalpa bignonioides 'Nana'"@ga	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Catalpa bignonioides 'Nana'"@it	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Catalpa bignonioides 'Nana'"@la	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Catalpa bignonioides 'Nana'"@nl	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"kogelvormige trompetboom"@nl	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Catalpa bignonioides 'Nana'"@ru	
+<http://www.wikidata.org/entity/Q2073370>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Catalpa bignonioides 'Nana'"@uk	
+<http://www.wikidata.org/entity/Q1538429>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1538429>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Espelette-Pfeffer"@de	
+<http://www.wikidata.org/entity/Q1538429>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ezpeletako Biperra"@de	
+<http://www.wikidata.org/entity/Q1538429>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Piment d'Espelette"@de	
+<http://www.wikidata.org/entity/Q1538429>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pimiento de espelette"@es	
+<http://www.wikidata.org/entity/Q1538429>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ezpeletako biper"@eu	
+<http://www.wikidata.org/entity/Q1538429>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ezpeletako biperra"@eu	
+<http://www.wikidata.org/entity/Q1538429>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Piment d'espelette"@fr	
+<http://www.wikidata.org/entity/Q1538429>	<http://www.w3.org/2004/02/skos/core#altLabel>	"piment d'Espelette"@it	
+<http://www.wikidata.org/entity/Q1543670>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1543670>	<http://www.wikidata.org/prop/direct/P225>	"Hosta ‘Fortunei’"	
+<http://www.wikidata.org/entity/Q2110003>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q2110003>	<http://www.wikidata.org/prop/direct/P225>	"Ulmus ‘Rotundifolia’"	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Aji lemon"@de	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Aji limon"@de	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Aji limón"@de	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Hot Lemon"@de	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Lemon drop pepper"@en	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Aji limon"@es	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Qillu uchu"@es	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Aji lemon"@it	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Ajì limòn"@it	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Hot lemon"@it	
+<http://www.wikidata.org/entity/Q1817079>	<http://www.w3.org/2004/02/skos/core#altLabel>	"hot lemon"@nl	
+<http://www.wikidata.org/entity/Q1616531>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1616531>	<http://www.wikidata.org/prop/direct/P225>	"Musa ʽLady Finger’"	
+<http://www.wikidata.org/entity/Q1616531>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pisang emas"@ms	
+<http://www.wikidata.org/entity/Q1557109>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q4886>	
+<http://www.wikidata.org/entity/Q1557109>	<http://www.wikidata.org/prop/direct/P225>	"Pyrus communis ‘Gute Luise’"	
+<http://www.wikidata.org/entity/Q1557109>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Gute Luise von Avranches"@de	
+<http://www.wikidata.org/entity/Q1557109>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Pyrus communis ‘Gute Luise’"@en	
+<http://www.wikidata.org/entity/Q1538429>	<http://www.w3.org/2004/02/skos/core#altLabel>	"Espelette chili pepper"@en	

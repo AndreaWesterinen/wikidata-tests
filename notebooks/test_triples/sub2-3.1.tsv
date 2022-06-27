@@ -1,0 +1,10 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q875538>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q23002037>	
+<http://www.wikidata.org/entity/Q23002037>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q2385804>	
+<http://www.wikidata.org/entity/Q2385804>	<http://www.wikidata.org/prop/direct/P1963>	<http://www.wikidata.org/entity/P3202>	
+<http://www.wikidata.org/entity/Q2385804>	<http://www.w3.org/2000/01/rdf-schema#label>	"educational institution"@en	
+<http://www.wikidata.org/entity/P3202>	<http://www.w3.org/2000/01/rdf-schema#label>	"UAI code"@en	
+<http://www.wikidata.org/entity/Q2385804>	<http://www.wikidata.org/prop/direct/P1963>	<http://www.wikidata.org/entity/P2196>	
+<http://www.wikidata.org/entity/P2196>	<http://www.w3.org/2000/01/rdf-schema#label>	"students count"@en	
+<http://www.wikidata.org/entity/Q2385804>	<http://www.wikidata.org/prop/direct/P1963>	<http://www.wikidata.org/entity/P101>	
+<http://www.wikidata.org/entity/P101>	<http://www.w3.org/2000/01/rdf-schema#label>	"field of work"@en	

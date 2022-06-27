@@ -1,0 +1,219 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q7529>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ashkenaz"@en	
+<http://www.wikidata.org/entity/Q7529>	<http://www.wikidata.org/prop/direct/P571>	"1973-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q97927899>	<http://www.w3.org/2000/01/rdf-schema#label>	"Eosta"@en	
+<http://www.wikidata.org/entity/Q97927899>	<http://www.wikidata.org/prop/direct/P1320>	"nl/30135547"	
+<http://www.wikidata.org/entity/Q28971308>	<http://www.w3.org/2000/01/rdf-schema#label>	"Canon (Netherlands)"@en	
+<http://www.wikidata.org/entity/Q28971308>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q28971308-904A6517-D1B3-4127-8534-4A2806B1F1FC>	
+<http://www.wikidata.org/entity/statement/Q28971308-904A6517-D1B3-4127-8534-4A2806B1F1FC>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q727>	
+<http://www.wikidata.org/entity/Q727>	<http://www.w3.org/2000/01/rdf-schema#label>	"Amsterdam"@en	
+<http://www.wikidata.org/entity/statement/Q28971308-904A6517-D1B3-4127-8534-4A2806B1F1FC>	<http://www.wikidata.org/prop/qualifier/value/P625>	<http://www.wikidata.org/value/6aa141c0f990330996a9952f236fb92d>	
+<http://www.wikidata.org/value/6aa141c0f990330996a9952f236fb92d>	<http://wikiba.se/ontology#geoLongitude>	4.886555	
+<http://www.wikidata.org/value/6aa141c0f990330996a9952f236fb92d>	<http://wikiba.se/ontology#geoLatitude>	52.385297	
+<http://www.wikidata.org/entity/Q28971308>	<http://www.wikidata.org/prop/direct/P749>	<http://www.wikidata.org/entity/Q62621>	
+<http://www.wikidata.org/entity/Q28974630>	<http://www.w3.org/2000/01/rdf-schema#label>	"Motorola (United Kingdom)"@en	
+<http://www.wikidata.org/entity/Q28974630>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q28974630-5E0D0317-8DA0-481D-9063-92162CFB4A8E>	
+<http://www.wikidata.org/entity/statement/Q28974630-5E0D0317-8DA0-481D-9063-92162CFB4A8E>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q810196>	
+<http://www.wikidata.org/entity/Q810196>	<http://www.w3.org/2000/01/rdf-schema#label>	"Basingstoke"@en	
+<http://www.wikidata.org/entity/statement/Q28974630-5E0D0317-8DA0-481D-9063-92162CFB4A8E>	<http://www.wikidata.org/prop/qualifier/value/P625>	<http://www.wikidata.org/value/4df7b522a3449a4fe74efc167138e030>	
+<http://www.wikidata.org/value/4df7b522a3449a4fe74efc167138e030>	<http://wikiba.se/ontology#geoLongitude>	-1.066483	
+<http://www.wikidata.org/value/4df7b522a3449a4fe74efc167138e030>	<http://wikiba.se/ontology#geoLatitude>	51.295691	
+<http://www.wikidata.org/entity/Q28974630>	<http://www.wikidata.org/prop/direct/P749>	<http://www.wikidata.org/entity/Q259011>	
+<http://www.wikidata.org/entity/Q1486934>	<http://www.w3.org/2000/01/rdf-schema#label>	"GSI Commerce"@en	
+<http://www.wikidata.org/entity/Q1486934>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q1486934-8D4F5C4D-8258-40CD-82FB-5442407734BB>	
+<http://www.wikidata.org/entity/statement/Q1486934-8D4F5C4D-8258-40CD-82FB-5442407734BB>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q1186442>	
+<http://www.wikidata.org/entity/Q1186442>	<http://www.w3.org/2000/01/rdf-schema#label>	"King of Prussia"@en	
+<http://www.wikidata.org/entity/statement/Q1486934-8D4F5C4D-8258-40CD-82FB-5442407734BB>	<http://www.wikidata.org/prop/qualifier/value/P625>	<http://www.wikidata.org/value/23c0139119131db4a6e7138943d0f1a2>	
+<http://www.wikidata.org/value/23c0139119131db4a6e7138943d0f1a2>	<http://wikiba.se/ontology#geoLongitude>	-75.405661	
+<http://www.wikidata.org/value/23c0139119131db4a6e7138943d0f1a2>	<http://wikiba.se/ontology#geoLatitude>	40.093976	
+<http://www.wikidata.org/entity/Q1486934>	<http://www.wikidata.org/prop/direct/P946>	"US36238G1022"	
+<http://www.wikidata.org/entity/Q1486934>	<http://www.wikidata.org/prop/direct/P1128>	5616	
+<http://www.wikidata.org/entity/Q1486934>	<http://www.wikidata.org/prop/direct/P571>	"1995-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q53222>	<http://www.w3.org/2000/01/rdf-schema#label>	"Digital Living Network Alliance"@en	
+<http://www.wikidata.org/entity/Q53222>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q53222-420CACDE-D55A-4A56-B5DB-4B69607ABA68>	
+<http://www.wikidata.org/entity/statement/Q53222-420CACDE-D55A-4A56-B5DB-4B69607ABA68>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q30>	
+<http://www.wikidata.org/entity/Q30>	<http://www.w3.org/2000/01/rdf-schema#label>	"United States of America"@en	
+<http://www.wikidata.org/entity/statement/Q53222-420CACDE-D55A-4A56-B5DB-4B69607ABA68>	<http://www.wikidata.org/prop/qualifier/value/P625>	<http://www.wikidata.org/value/0cc2ed37dbd3f6111f14a9391075766c>	
+<http://www.wikidata.org/value/0cc2ed37dbd3f6111f14a9391075766c>	<http://wikiba.se/ontology#geoLongitude>	-122.833	
+<http://www.wikidata.org/value/0cc2ed37dbd3f6111f14a9391075766c>	<http://wikiba.se/ontology#geoLatitude>	45.492	
+<http://www.wikidata.org/entity/Q53222>	<http://www.wikidata.org/prop/direct/P571>	"2003-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3519156>	<http://www.w3.org/2000/01/rdf-schema#label>	"Tetra Laval"@en	
+<http://www.wikidata.org/entity/Q3519156>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q3519156-3C63C1CE-ED7B-4C1D-BB7E-23F6774F6374>	
+<http://www.wikidata.org/entity/statement/Q3519156-3C63C1CE-ED7B-4C1D-BB7E-23F6774F6374>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q69738>	
+<http://www.wikidata.org/entity/Q69738>	<http://www.w3.org/2000/01/rdf-schema#label>	"Pully"@en	
+<http://www.wikidata.org/entity/statement/Q3519156-3C63C1CE-ED7B-4C1D-BB7E-23F6774F6374>	<http://www.wikidata.org/prop/qualifier/value/P625>	<http://www.wikidata.org/value/a584f8ca0f17b1c1bf6a1e51120f1344>	
+<http://www.wikidata.org/value/a584f8ca0f17b1c1bf6a1e51120f1344>	<http://wikiba.se/ontology#geoLongitude>	6.644974	
+<http://www.wikidata.org/value/a584f8ca0f17b1c1bf6a1e51120f1344>	<http://wikiba.se/ontology#geoLatitude>	46.50661	
+<http://www.wikidata.org/entity/Q3519156>	<http://www.wikidata.org/prop/direct/P571>	"1993-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q28974631>	<http://www.w3.org/2000/01/rdf-schema#label>	"Motorola (Italy)"@en	
+<http://www.wikidata.org/entity/Q28974631>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q28974631-8983CAAB-EF28-4CED-BD23-19BFDF6EEB32>	
+<http://www.wikidata.org/entity/statement/Q28974631-8983CAAB-EF28-4CED-BD23-19BFDF6EEB32>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q490>	
+<http://www.wikidata.org/entity/Q490>	<http://www.w3.org/2000/01/rdf-schema#label>	"Milan"@en	
+<http://www.wikidata.org/entity/statement/Q28974631-8983CAAB-EF28-4CED-BD23-19BFDF6EEB32>	<http://www.wikidata.org/prop/qualifier/value/P625>	<http://www.wikidata.org/value/eab3f5479a3fe79da442d410030a42aa>	
+<http://www.wikidata.org/value/eab3f5479a3fe79da442d410030a42aa>	<http://wikiba.se/ontology#geoLongitude>	9.200112	
+<http://www.wikidata.org/value/eab3f5479a3fe79da442d410030a42aa>	<http://wikiba.se/ontology#geoLatitude>	45.44349	
+<http://www.wikidata.org/entity/Q28974631>	<http://www.wikidata.org/prop/direct/P749>	<http://www.wikidata.org/entity/Q259011>	
+<http://www.wikidata.org/entity/Q1550912>	<http://www.w3.org/2000/01/rdf-schema#label>	"GMV Innovating Solutions"@en	
+<http://www.wikidata.org/entity/Q1550912>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q1550912-16B7AFE2-5538-4AB8-9A4A-DFE3A09A12A7>	
+<http://www.wikidata.org/entity/statement/Q1550912-16B7AFE2-5538-4AB8-9A4A-DFE3A09A12A7>	<http://www.wikidata.org/prop/qualifier/P281>	"28760"	
+<http://www.wikidata.org/entity/statement/Q1550912-16B7AFE2-5538-4AB8-9A4A-DFE3A09A12A7>	<http://www.wikidata.org/prop/qualifier/P6375>	"Isaac Newton, 11"@es	
+<http://www.wikidata.org/entity/statement/Q1550912-16B7AFE2-5538-4AB8-9A4A-DFE3A09A12A7>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q910410>	
+<http://www.wikidata.org/entity/Q910410>	<http://www.w3.org/2000/01/rdf-schema#label>	"Tres Cantos"@en	
+<http://www.wikidata.org/entity/statement/Q1550912-16B7AFE2-5538-4AB8-9A4A-DFE3A09A12A7>	<http://www.wikidata.org/prop/qualifier/value/P625>	<http://www.wikidata.org/value/c2206c5598e476c4b9d37a3a63f735c3>	
+<http://www.wikidata.org/value/c2206c5598e476c4b9d37a3a63f735c3>	<http://wikiba.se/ontology#geoLongitude>	-3.706614	
+<http://www.wikidata.org/value/c2206c5598e476c4b9d37a3a63f735c3>	<http://wikiba.se/ontology#geoLatitude>	40.591334	
+<http://www.wikidata.org/entity/Q1550912>	<http://www.wikidata.org/prop/direct/P1320>	"es/28972495"	
+<http://www.wikidata.org/entity/Q1550912>	<http://www.wikidata.org/prop/direct/P1128>	2176	
+<http://www.wikidata.org/entity/Q1550912>	<http://www.wikidata.org/prop/direct/P571>	"1984-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1550912>	<http://www.wikidata.org/prop/direct/P1448>	"GMV Innovating Solutions"@es	
+<http://www.wikidata.org/entity/Q28971309>	<http://www.w3.org/2000/01/rdf-schema#label>	"Canon (United States)"@en	
+<http://www.wikidata.org/entity/Q28971309>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q28971309-4B6B0F42-3A9B-4EE0-A2F7-1FF10B3716CF>	
+<http://www.wikidata.org/entity/statement/Q28971309-4B6B0F42-3A9B-4EE0-A2F7-1FF10B3716CF>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q3101080>	
+<http://www.wikidata.org/entity/Q3101080>	<http://www.w3.org/2000/01/rdf-schema#label>	"Melville"@en	
+<http://www.wikidata.org/entity/statement/Q28971309-4B6B0F42-3A9B-4EE0-A2F7-1FF10B3716CF>	<http://www.wikidata.org/prop/qualifier/value/P625>	<http://www.wikidata.org/value/fd19b29b1a082bd69b8b332e5e05f815>	
+<http://www.wikidata.org/value/fd19b29b1a082bd69b8b332e5e05f815>	<http://wikiba.se/ontology#geoLongitude>	-73.429022	
+<http://www.wikidata.org/value/fd19b29b1a082bd69b8b332e5e05f815>	<http://wikiba.se/ontology#geoLatitude>	40.779153	
+<http://www.wikidata.org/entity/Q28971309>	<http://www.wikidata.org/prop/direct/P749>	<http://www.wikidata.org/entity/Q62621>	
+<http://www.wikidata.org/entity/Q28971310>	<http://www.w3.org/2000/01/rdf-schema#label>	"Canon (United Kingdom)"@en	
+<http://www.wikidata.org/entity/Q28971310>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q28971310-39B9D414-5A43-47B5-B1F9-095DF7FAFF7B>	
+<http://www.wikidata.org/entity/statement/Q28971310-39B9D414-5A43-47B5-B1F9-095DF7FAFF7B>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q1018418>	
+<http://www.wikidata.org/entity/Q1018418>	<http://www.w3.org/2000/01/rdf-schema#label>	"Reigate"@en	
+<http://www.wikidata.org/entity/statement/Q28971310-39B9D414-5A43-47B5-B1F9-095DF7FAFF7B>	<http://www.wikidata.org/prop/qualifier/value/P625>	<http://www.wikidata.org/value/ce2ff7fdf5130a244eff7da8572097ff>	
+<http://www.wikidata.org/value/ce2ff7fdf5130a244eff7da8572097ff>	<http://wikiba.se/ontology#geoLongitude>	-0.199374	
+<http://www.wikidata.org/value/ce2ff7fdf5130a244eff7da8572097ff>	<http://wikiba.se/ontology#geoLatitude>	51.227858	
+<http://www.wikidata.org/entity/Q28971310>	<http://www.wikidata.org/prop/direct/P749>	<http://www.wikidata.org/entity/Q62621>	
+<http://www.wikidata.org/entity/Q28974632>	<http://www.w3.org/2000/01/rdf-schema#label>	"Motorola (Germany)"@en	
+<http://www.wikidata.org/entity/Q28974632>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q28974632-32370413-79F5-4C0F-B143-D8E66B15731A>	
+<http://www.wikidata.org/entity/statement/Q28974632-32370413-79F5-4C0F-B143-D8E66B15731A>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q64>	
+<http://www.wikidata.org/entity/Q64>	<http://www.w3.org/2000/01/rdf-schema#label>	"Berlin"@en	
+<http://www.wikidata.org/entity/statement/Q28974632-32370413-79F5-4C0F-B143-D8E66B15731A>	<http://www.wikidata.org/prop/qualifier/value/P625>	<http://www.wikidata.org/value/fcb82c8fc7bd6b7129e88c58d221982b>	
+<http://www.wikidata.org/value/fcb82c8fc7bd6b7129e88c58d221982b>	<http://wikiba.se/ontology#geoLongitude>	13.284384	
+<http://www.wikidata.org/value/fcb82c8fc7bd6b7129e88c58d221982b>	<http://wikiba.se/ontology#geoLatitude>	52.582513	
+<http://www.wikidata.org/entity/Q28974632>	<http://www.wikidata.org/prop/direct/P749>	<http://www.wikidata.org/entity/Q259011>	
+<http://www.wikidata.org/entity/Q1770909>	<http://www.w3.org/2000/01/rdf-schema#label>	"Kongsberg Gruppen"@en	
+<http://www.wikidata.org/entity/Q1770909>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q1770909-d6274006-4a7f-3940-433a-5144b0d7825c>	
+<http://www.wikidata.org/entity/statement/Q1770909-d6274006-4a7f-3940-433a-5144b0d7825c>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q108988>	
+<http://www.wikidata.org/entity/Q108988>	<http://www.w3.org/2000/01/rdf-schema#label>	"Kongsberg"@en	
+<http://www.wikidata.org/entity/statement/Q1770909-d6274006-4a7f-3940-433a-5144b0d7825c>	<http://www.wikidata.org/prop/qualifier/value/P625>	<http://www.wikidata.org/value/bcfbb03e995c44526d697dc5c23eb53b>	
+<http://www.wikidata.org/value/bcfbb03e995c44526d697dc5c23eb53b>	<http://wikiba.se/ontology#geoLongitude>	9.645	
+<http://www.wikidata.org/value/bcfbb03e995c44526d697dc5c23eb53b>	<http://wikiba.se/ontology#geoLatitude>	59.65694444	
+<http://www.wikidata.org/entity/Q1770909>	<http://www.wikidata.org/prop/direct/P946>	"NO0003043309"	
+<http://www.wikidata.org/entity/Q1770909>	<http://www.wikidata.org/prop/direct/P1320>	"no/943753709"	
+<http://www.wikidata.org/entity/Q1770909>	<http://www.wikidata.org/prop/direct/P1128>	11000	
+<http://www.wikidata.org/entity/Q1770909>	<http://www.wikidata.org/prop/direct/P571>	"1814-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1770909>	<http://www.wikidata.org/prop/direct/P127>	<http://www.wikidata.org/entity/Q4788971>	
+<http://www.wikidata.org/entity/Q1770909>	<http://www.wikidata.org/prop/direct/P1448>	"Kongsberg Gruppen ASA"@nb	
+<http://www.wikidata.org/entity/Q1770909>	<http://www.wikidata.org/prop/direct/P127>	<http://www.wikidata.org/entity/Q11969389>	
+<http://www.wikidata.org/entity/Q1770909>	<http://www.wikidata.org/prop/direct/P127>	<http://www.wikidata.org/entity/Q18177740>	
+<http://www.wikidata.org/entity/Q43449>	<http://www.w3.org/2000/01/rdf-schema#label>	"Creative Commons"@en	
+<http://www.wikidata.org/entity/Q43449>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q43449-85FF305B-4117-4B82-897B-55FF531C12F2>	
+<http://www.wikidata.org/entity/statement/Q43449-85FF305B-4117-4B82-897B-55FF531C12F2>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q486860>	
+<http://www.wikidata.org/entity/Q486860>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mountain View"@en	
+<http://www.wikidata.org/entity/Q43449>	<http://www.wikidata.org/prop/direct/P2657>	"15262256432-95"	
+<http://www.wikidata.org/entity/Q43449>	<http://www.wikidata.org/prop/direct/P1128>	147	
+<http://www.wikidata.org/entity/Q43449>	<http://www.wikidata.org/prop/direct/P571>	"2001-01-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q22799638>	<http://www.w3.org/2000/01/rdf-schema#label>	"Vendex International"@en	
+<http://www.wikidata.org/entity/Q22799638>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q22799638-e87be03c-48f3-9a10-4d08-ae3eaef50e7c>	
+<http://www.wikidata.org/entity/statement/Q22799638-e87be03c-48f3-9a10-4d08-ae3eaef50e7c>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q55>	
+<http://www.wikidata.org/entity/Q55>	<http://www.w3.org/2000/01/rdf-schema#label>	"Netherlands"@en	
+<http://www.wikidata.org/entity/Q22799638>	<http://www.wikidata.org/prop/direct/P571>	"1982-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q29790564>	<http://www.w3.org/2000/01/rdf-schema#label>	"Outlyer"@en	
+<http://www.wikidata.org/entity/Q29790564>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q29790564-64e339e3-4f43-7779-d498-e2c9ebb74371>	
+<http://www.wikidata.org/entity/statement/Q29790564-64e339e3-4f43-7779-d498-e2c9ebb74371>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q62>	
+<http://www.wikidata.org/entity/Q62>	<http://www.w3.org/2000/01/rdf-schema#label>	"San Francisco"@en	
+<http://www.wikidata.org/entity/Q22101796>	<http://www.w3.org/2000/01/rdf-schema#label>	"Arteche"@en	
+<http://www.wikidata.org/entity/Q22101796>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q22101796-c5a7ef4d-4826-1311-6172-aa615c207da6>	
+<http://www.wikidata.org/entity/statement/Q22101796-c5a7ef4d-4826-1311-6172-aa615c207da6>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q1228780>	
+<http://www.wikidata.org/entity/Q1228780>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mungia"@en	
+<http://www.wikidata.org/entity/Q22101796>	<http://www.wikidata.org/prop/direct/P571>	"1946-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q26989>	<http://www.w3.org/2000/01/rdf-schema#label>	"Infosys"@en	
+<http://www.wikidata.org/entity/Q26989>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q26989-90A3629E-A2B8-4E72-8281-36086C07AB7E>	
+<http://www.wikidata.org/entity/statement/Q26989-90A3629E-A2B8-4E72-8281-36086C07AB7E>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q1355>	
+<http://www.wikidata.org/entity/Q1355>	<http://www.w3.org/2000/01/rdf-schema#label>	"Bengaluru"@en	
+<http://www.wikidata.org/entity/Q26989>	<http://www.wikidata.org/prop/direct/P946>	"US4567881085"	
+<http://www.wikidata.org/entity/Q26989>	<http://www.wikidata.org/prop/direct/P3347>	"4295872682"	
+<http://www.wikidata.org/entity/Q26989>	<http://www.wikidata.org/prop/direct/P1128>	200364	
+<http://www.wikidata.org/entity/Q26989>	<http://www.wikidata.org/prop/direct/P571>	"1981-07-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6537850>	<http://www.w3.org/2000/01/rdf-schema#label>	"Lexington Partners"@en	
+<http://www.wikidata.org/entity/Q6537850>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q6537850-7AD01597-0363-49CD-99A0-BDB35017D859>	
+<http://www.wikidata.org/entity/statement/Q6537850-7AD01597-0363-49CD-99A0-BDB35017D859>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q60>	
+<http://www.wikidata.org/entity/Q60>	<http://www.w3.org/2000/01/rdf-schema#label>	"New York City"@en	
+<http://www.wikidata.org/entity/Q6537850>	<http://www.wikidata.org/prop/direct/P3377>	"1300010D:US"	
+<http://www.wikidata.org/entity/Q6537850>	<http://www.wikidata.org/prop/direct/P571>	"1994-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q23134166>	<http://www.w3.org/2000/01/rdf-schema#label>	"RealPage"@en	
+<http://www.wikidata.org/entity/Q23134166>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q23134166-ea86d7c2-449e-1b11-7c8d-986427b09778>	
+<http://www.wikidata.org/entity/statement/Q23134166-ea86d7c2-449e-1b11-7c8d-986427b09778>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q128375>	
+<http://www.wikidata.org/entity/Q128375>	<http://www.w3.org/2000/01/rdf-schema#label>	"Richardson"@en	
+<http://www.wikidata.org/entity/Q23134166>	<http://www.wikidata.org/prop/direct/P571>	"1998-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2300932>	<http://www.w3.org/2000/01/rdf-schema#label>	"Martini & Rossi"@en	
+<http://www.wikidata.org/entity/Q2300932>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q2300932-5156BA8D-FA09-4A4C-B4AA-B9C2C9140B29>	
+<http://www.wikidata.org/entity/statement/Q2300932-5156BA8D-FA09-4A4C-B4AA-B9C2C9140B29>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q495>	
+<http://www.wikidata.org/entity/Q495>	<http://www.w3.org/2000/01/rdf-schema#label>	"Turin"@en	
+<http://www.wikidata.org/entity/Q2300932>	<http://www.wikidata.org/prop/direct/P749>	<http://www.wikidata.org/entity/Q685395>	
+<http://www.wikidata.org/entity/Q2300932>	<http://www.wikidata.org/prop/direct/P571>	"1863-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q911347>	<http://www.w3.org/2000/01/rdf-schema#label>	"Děti Země"@en	
+<http://www.wikidata.org/entity/Q911347>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q911347-66aaad6e-4b32-64dc-c816-9ca47b36bc8d>	
+<http://www.wikidata.org/entity/statement/Q911347-66aaad6e-4b32-64dc-c816-9ca47b36bc8d>	<http://www.wikidata.org/prop/qualifier/P281>	"60200"	
+<http://www.wikidata.org/entity/statement/Q911347-66aaad6e-4b32-64dc-c816-9ca47b36bc8d>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q14960>	
+<http://www.wikidata.org/entity/Q14960>	<http://www.w3.org/2000/01/rdf-schema#label>	"Brno"@en	
+<http://www.wikidata.org/entity/Q911347>	<http://www.wikidata.org/prop/direct/P4156>	"00505919"	
+<http://www.wikidata.org/entity/Q911347>	<http://www.wikidata.org/prop/direct/P571>	"1989-09-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q911347>	<http://www.wikidata.org/prop/direct/P1448>	"Děti Země"@cs	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.w3.org/2000/01/rdf-schema#label>	"Veolia"@en	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q1632461-8059422c-4858-2022-7dcc-e1450bf845d9>	
+<http://www.wikidata.org/entity/statement/Q1632461-8059422c-4858-2022-7dcc-e1450bf845d9>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q6544>	
+<http://www.wikidata.org/entity/Q6544>	<http://www.w3.org/2000/01/rdf-schema#label>	"Libourne"@en	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P946>	"FR0000124141"	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P1278>	"969500LENY69X51OOT31"	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P1320>	"fr/403210032"	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P2657>	"72103751229-92"	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P3347>	"4295867473"	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P1128>	171000	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P571>	"1853-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P127>	<http://www.wikidata.org/entity/Q645498>	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P127>	<http://www.wikidata.org/entity/Q691481>	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P127>	<http://www.wikidata.org/entity/Q846484>	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P127>	<http://www.wikidata.org/entity/Q849363>	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P127>	<http://www.wikidata.org/entity/Q970769>	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P127>	<http://www.wikidata.org/entity/Q1434948>	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/direct/P127>	<http://www.wikidata.org/entity/Q23998485>	
+<http://www.wikidata.org/entity/Q17073302>	<http://www.w3.org/2000/01/rdf-schema#label>	"Optimizely"@en	
+<http://www.wikidata.org/entity/Q17073302>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q17073302-66b8ad63-4aec-135b-6331-0a6116f8b16b>	
+<http://www.wikidata.org/entity/statement/Q17073302-66b8ad63-4aec-135b-6331-0a6116f8b16b>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q62>	
+<http://www.wikidata.org/entity/Q17073302>	<http://www.wikidata.org/prop/direct/P1128>	350	
+<http://www.wikidata.org/entity/Q17073302>	<http://www.wikidata.org/prop/direct/P571>	"2010-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1632461>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q1632461-3234B1F8-5936-4430-AE70-F75B0651B16D>	
+<http://www.wikidata.org/entity/statement/Q1632461-3234B1F8-5936-4430-AE70-F75B0651B16D>	<http://www.wikidata.org/prop/qualifier/P281>	"93300"	
+<http://www.wikidata.org/entity/statement/Q1632461-3234B1F8-5936-4430-AE70-F75B0651B16D>	<http://www.wikidata.org/prop/qualifier/P6375>	"30 avenue Madeleine Vionnet"@fr	
+<http://www.wikidata.org/entity/statement/Q1632461-3234B1F8-5936-4430-AE70-F75B0651B16D>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q205632>	
+<http://www.wikidata.org/entity/Q205632>	<http://www.w3.org/2000/01/rdf-schema#label>	"Aubervilliers"@en	
+<http://www.wikidata.org/entity/Q41598511>	<http://www.w3.org/2000/01/rdf-schema#label>	"ARaymond Industrial"@en	
+<http://www.wikidata.org/entity/Q41598511>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q41598511-f9a6176f-4de2-230b-4e68-f04de9b13c0e>	
+<http://www.wikidata.org/entity/statement/Q41598511-f9a6176f-4de2-230b-4e68-f04de9b13c0e>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q16730>	
+<http://www.wikidata.org/entity/Q16730>	<http://www.w3.org/2000/01/rdf-schema#label>	"Sant Fruitós de Bages"@en	
+<http://www.wikidata.org/entity/Q45208078>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jollibee Foods Corporation"@en	
+<http://www.wikidata.org/entity/Q45208078>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q45208078-97a56bf9-4faf-863a-557d-cdf6ec958c8f>	
+<http://www.wikidata.org/entity/statement/Q45208078-97a56bf9-4faf-863a-557d-cdf6ec958c8f>	<http://www.wikidata.org/prop/qualifier/P281>	"1600"	
+<http://www.wikidata.org/entity/statement/Q45208078-97a56bf9-4faf-863a-557d-cdf6ec958c8f>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q1624>	
+<http://www.wikidata.org/entity/Q1624>	<http://www.w3.org/2000/01/rdf-schema#label>	"Pasig"@en	
+<http://www.wikidata.org/entity/Q45208078>	<http://www.wikidata.org/prop/direct/P946>	"PHY4466S1007"	
+<http://www.wikidata.org/entity/Q45208078>	<http://www.wikidata.org/prop/direct/P1128>	18235	
+<http://www.wikidata.org/entity/Q45208078>	<http://www.wikidata.org/prop/direct/P571>	"1978-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1771942>	<http://www.w3.org/2000/01/rdf-schema#label>	"United Fruit Company"@en	
+<http://www.wikidata.org/entity/Q1771942>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q1771942-6C358135-BEA4-408B-8EAB-B39902F04057>	
+<http://www.wikidata.org/entity/statement/Q1771942-6C358135-BEA4-408B-8EAB-B39902F04057>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q34404>	
+<http://www.wikidata.org/entity/Q34404>	<http://www.w3.org/2000/01/rdf-schema#label>	"New Orleans"@en	
+<http://www.wikidata.org/entity/Q1771942>	<http://www.wikidata.org/prop/direct/P571>	"1899-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5337066>	<http://www.w3.org/2000/01/rdf-schema#label>	"Edexcel"@en	
+<http://www.wikidata.org/entity/Q5337066>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q5337066-0f5cd7e5-44f1-ac34-8ebc-6c48036e6e11>	
+<http://www.wikidata.org/entity/statement/Q5337066-0f5cd7e5-44f1-ac34-8ebc-6c48036e6e11>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q84>	
+<http://www.wikidata.org/entity/Q84>	<http://www.w3.org/2000/01/rdf-schema#label>	"London"@en	
+<http://www.wikidata.org/entity/Q5337066>	<http://www.wikidata.org/prop/direct/P571>	"1996-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1472987>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fugro"@en	
+<http://www.wikidata.org/entity/Q1472987>	<http://www.wikidata.org/prop/P159>	<http://www.wikidata.org/entity/statement/Q1472987-F771BBD4-DE0B-4632-93BB-A3E0ED8178C9>	
+<http://www.wikidata.org/entity/statement/Q1472987-F771BBD4-DE0B-4632-93BB-A3E0ED8178C9>	<http://www.wikidata.org/prop/statement/P159>	<http://www.wikidata.org/entity/Q112675>	
+<http://www.wikidata.org/entity/Q112675>	<http://www.w3.org/2000/01/rdf-schema#label>	"Leidschendam-Voorburg"@en	
+<http://www.wikidata.org/entity/Q1472987>	<http://www.wikidata.org/prop/direct/P946>	"NL0000352565"	
+<http://www.wikidata.org/entity/Q1472987>	<http://www.wikidata.org/prop/direct/P1320>	"nl/27120091"	
+<http://www.wikidata.org/entity/Q1472987>	<http://www.wikidata.org/prop/direct/P1128>	13463	
+<http://www.wikidata.org/entity/Q1472987>	<http://www.wikidata.org/prop/direct/P571>	"1962-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	

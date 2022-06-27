@@ -1,0 +1,5 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/P496>	<http://wikiba.se/ontology#propertyType>	<http://wikiba.se/ontology#ExternalId>	
+<http://www.wikidata.org/entity/P496>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P496>	
+<http://www.wikidata.org/entity/P6178>	<http://wikiba.se/ontology#propertyType>	<http://wikiba.se/ontology#ExternalId>	
+<http://www.wikidata.org/entity/P6178>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P6178>	

@@ -1,0 +1,121 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q106222009>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q106222009>	<http://wikiba.se/ontology#sitelinks>	1	
+<https://en.wikipedia.org/wiki/Ben_Oumar_Sy>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q106222009>	
+<https://en.wikipedia.org/wiki/Ben_Oumar_Sy>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Ben_Oumar_Sy>	<http://schema.org/name>	"Ben Oumar Sy"@en	
+<http://www.wikidata.org/entity/Q106222009>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ben Oumar Sy"@en	
+<http://www.wikidata.org/entity/Q106222009>	<http://schema.org/description>	"Guinean footballer and manager"@en	
+<http://www.wikidata.org/entity/Q155493>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q155493>	<http://wikiba.se/ontology#sitelinks>	18	
+<https://en.wikipedia.org/wiki/Philippe_L%C3%A9otard>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q155493>	
+<https://en.wikipedia.org/wiki/Philippe_L%C3%A9otard>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Philippe_L%C3%A9otard>	<http://schema.org/name>	"Philippe Léotard"@en	
+<http://www.wikidata.org/entity/Q155493>	<http://www.w3.org/2000/01/rdf-schema#label>	"Philippe Léotard"@en	
+<http://www.wikidata.org/entity/Q155493>	<http://schema.org/description>	"French singer and actor (1940-2001)"@en	
+<http://www.wikidata.org/entity/Q173413>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q173413>	<http://wikiba.se/ontology#sitelinks>	17	
+<https://en.wikipedia.org/wiki/Ken_Tyrrell>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q173413>	
+<https://en.wikipedia.org/wiki/Ken_Tyrrell>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Ken_Tyrrell>	<http://schema.org/name>	"Ken Tyrrell"@en	
+<http://www.wikidata.org/entity/Q173413>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ken Tyrrell"@en	
+<http://www.wikidata.org/entity/Q173413>	<http://schema.org/description>	"Racing driver and Formula one team owner (1924-2001)"@en	
+<http://www.wikidata.org/entity/Q93784>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q93784>	<http://wikiba.se/ontology#sitelinks>	12	
+<https://en.wikipedia.org/wiki/John_Chambers_(make-up_artist)>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q93784>	
+<https://en.wikipedia.org/wiki/John_Chambers_(make-up_artist)>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/John_Chambers_(make-up_artist)>	<http://schema.org/name>	"John Chambers (make-up artist)"@en	
+<http://www.wikidata.org/entity/Q93784>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Chambers"@en	
+<http://www.wikidata.org/entity/Q93784>	<http://schema.org/description>	"American make-up artist and prosthetic makeup expert"@en	
+<http://www.wikidata.org/entity/Q11617>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q11617>	<http://wikiba.se/ontology#sitelinks>	65	
+<https://en.wikipedia.org/wiki/Aaliyah>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q11617>	
+<https://en.wikipedia.org/wiki/Aaliyah>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Aaliyah>	<http://schema.org/name>	"Aaliyah"@en	
+<http://www.wikidata.org/entity/Q11617>	<http://www.w3.org/2000/01/rdf-schema#label>	"Aaliyah"@en	
+<http://www.wikidata.org/entity/Q11617>	<http://schema.org/description>	"American singer, actress, and model (1979–2001)"@en	
+<http://www.wikidata.org/entity/Q10294559>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q10294559>	<http://wikiba.se/ontology#sitelinks>	3	
+<https://en.wikipedia.org/wiki/Helmut_Bruck>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q10294559>	
+<https://en.wikipedia.org/wiki/Helmut_Bruck>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Helmut_Bruck>	<http://schema.org/name>	"Helmut Bruck"@en	
+<http://www.wikidata.org/entity/Q10294559>	<http://www.w3.org/2000/01/rdf-schema#label>	"Helmut Bruck"@en	
+<http://www.wikidata.org/entity/Q10294559>	<http://schema.org/description>	"German officer and Knight's Cross recipient"@en	
+<http://www.wikidata.org/entity/Q8079499>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q8079499>	<http://wikiba.se/ontology#sitelinks>	4	
+<https://en.wikipedia.org/wiki/%C3%9Czeyir_Garih>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q8079499>	
+<https://en.wikipedia.org/wiki/%C3%9Czeyir_Garih>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/%C3%9Czeyir_Garih>	<http://schema.org/name>	"Üzeyir Garih"@en	
+<http://www.wikidata.org/entity/Q8079499>	<http://www.w3.org/2000/01/rdf-schema#label>	"Üzeyir Garih"@en	
+<http://www.wikidata.org/entity/Q8079499>	<http://schema.org/description>	"Turkish businessman"@en	
+<http://www.wikidata.org/entity/Q4807036>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4807036>	<http://wikiba.se/ontology#sitelinks>	6	
+<https://en.wikipedia.org/wiki/Asit_Sen_(director)>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q4807036>	
+<https://en.wikipedia.org/wiki/Asit_Sen_(director)>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Asit_Sen_(director)>	<http://schema.org/name>	"Asit Sen (director)"@en	
+<http://www.wikidata.org/entity/Q4807036>	<http://www.w3.org/2000/01/rdf-schema#label>	"Asit Sen"@en	
+<http://www.wikidata.org/entity/Q4807036>	<http://schema.org/description>	"film director"@en	
+<http://www.wikidata.org/entity/Q4807036>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6033955>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6033955>	<http://wikiba.se/ontology#sitelinks>	1	
+<https://en.wikipedia.org/wiki/Inigo_Jackson>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q6033955>	
+<https://en.wikipedia.org/wiki/Inigo_Jackson>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Inigo_Jackson>	<http://schema.org/name>	"Inigo Jackson"@en	
+<http://www.wikidata.org/entity/Q6033955>	<http://www.w3.org/2000/01/rdf-schema#label>	"Inigo Jackson"@en	
+<http://www.wikidata.org/entity/Q6033955>	<http://schema.org/description>	"actor (1933-2001)"@en	
+<http://www.wikidata.org/entity/Q5671841>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5671841>	<http://wikiba.se/ontology#sitelinks>	4	
+<https://en.wikipedia.org/wiki/Harry_Ramberg>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q5671841>	
+<https://en.wikipedia.org/wiki/Harry_Ramberg>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Harry_Ramberg>	<http://schema.org/name>	"Harry Ramberg"@en	
+<http://www.wikidata.org/entity/Q5671841>	<http://www.w3.org/2000/01/rdf-schema#label>	"Harry Ramberg"@en	
+<http://www.wikidata.org/entity/Q5671841>	<http://schema.org/description>	"Swedish tennis player (1909-2001)"@en	
+<http://www.wikidata.org/entity/Q862381>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q862381>	<http://wikiba.se/ontology#sitelinks>	2	
+<https://en.wikipedia.org/wiki/Bill_Pratney>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q862381>	
+<https://en.wikipedia.org/wiki/Bill_Pratney>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Bill_Pratney>	<http://schema.org/name>	"Bill Pratney"@en	
+<http://www.wikidata.org/entity/Q862381>	<http://www.w3.org/2000/01/rdf-schema#label>	"Bill Pratney"@en	
+<http://www.wikidata.org/entity/Q862381>	<http://schema.org/description>	"New Zealand cyclist (1909-2001)"@en	
+<http://www.wikidata.org/entity/Q3764794>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3764794>	<http://wikiba.se/ontology#sitelinks>	7	
+<https://en.wikipedia.org/wiki/Ginz%C5%8D_Matsuo>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q3764794>	
+<https://en.wikipedia.org/wiki/Ginz%C5%8D_Matsuo>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Ginz%C5%8D_Matsuo>	<http://schema.org/name>	"Ginzō Matsuo"@en	
+<http://www.wikidata.org/entity/Q3764794>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ginzō Matsuo"@en	
+<http://www.wikidata.org/entity/Q3764794>	<http://schema.org/description>	"Japanese actor, voice actor and narrator"@en	
+<http://www.wikidata.org/entity/Q1037163>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1037163>	<http://wikiba.se/ontology#sitelinks>	8	
+<https://en.wikipedia.org/wiki/Carl_Brewer_(ice_hockey)>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q1037163>	
+<https://en.wikipedia.org/wiki/Carl_Brewer_(ice_hockey)>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Carl_Brewer_(ice_hockey)>	<http://schema.org/name>	"Carl Brewer (ice hockey)"@en	
+<http://www.wikidata.org/entity/Q1037163>	<http://www.w3.org/2000/01/rdf-schema#label>	"Carl Brewer"@en	
+<http://www.wikidata.org/entity/Q1037163>	<http://schema.org/description>	"Canadian ice hockey player (1938-2001)"@en	
+<http://www.wikidata.org/entity/Q3298163>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3298163>	<http://wikiba.se/ontology#sitelinks>	10	
+<https://en.wikipedia.org/wiki/Madge_Adam>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q3298163>	
+<https://en.wikipedia.org/wiki/Madge_Adam>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Madge_Adam>	<http://schema.org/name>	"Madge Adam"@en	
+<http://www.wikidata.org/entity/Q3298163>	<http://www.w3.org/2000/01/rdf-schema#label>	"Madge Adam"@en	
+<http://www.wikidata.org/entity/Q3298163>	<http://schema.org/description>	"English solar astronomer (1912-2001)"@en	
+<http://www.wikidata.org/entity/Q3547943>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3547943>	<http://wikiba.se/ontology#sitelinks>	5	
+<https://en.wikipedia.org/wiki/Diana_Golden_(skier)>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q3547943>	
+<https://en.wikipedia.org/wiki/Diana_Golden_(skier)>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Diana_Golden_(skier)>	<http://schema.org/name>	"Diana Golden (skier)"@en	
+<http://www.wikidata.org/entity/Q3547943>	<http://www.w3.org/2000/01/rdf-schema#label>	"Diana Golden"@en	
+<http://www.wikidata.org/entity/Q3547943>	<http://schema.org/description>	"American alpine skier (1963-2001)"@en	
+<http://www.wikidata.org/entity/Q6243659>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6243659>	<http://wikiba.se/ontology#sitelinks>	6	
+<https://en.wikipedia.org/wiki/John_L._Nelson>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q6243659>	
+<https://en.wikipedia.org/wiki/John_L._Nelson>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/John_L._Nelson>	<http://schema.org/name>	"John L. Nelson"@en	
+<http://www.wikidata.org/entity/Q6243659>	<http://www.w3.org/2000/01/rdf-schema#label>	"John L. Nelson"@en	
+<http://www.wikidata.org/entity/Q6243659>	<http://schema.org/description>	"American jazz musician, songwriter"@en	
+<http://www.wikidata.org/entity/Q6779010>	<http://www.wikidata.org/prop/direct/P570>	"2001-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6779010>	<http://wikiba.se/ontology#sitelinks>	3	
+<https://en.wikipedia.org/wiki/Mary_Barnard>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q6779010>	
+<https://en.wikipedia.org/wiki/Mary_Barnard>	<http://schema.org/isPartOf>	<https://en.wikipedia.org/>	
+<https://en.wikipedia.org/wiki/Mary_Barnard>	<http://schema.org/name>	"Mary Barnard"@en	
+<http://www.wikidata.org/entity/Q6779010>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mary Barnard"@en	
+<http://www.wikidata.org/entity/Q6779010>	<http://schema.org/description>	"American poet and translator (1909-2001)"@en	

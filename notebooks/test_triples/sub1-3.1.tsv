@@ -1,0 +1,17 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q875538>	<http://www.wikidata.org/prop/direct/P279>	<http://www.wikidata.org/entity/Q3918>	
+<http://www.wikidata.org/entity/Q3918>	<http://www.wikidata.org/prop/direct/P1963>	<http://www.wikidata.org/entity/P17>	
+<http://www.wikidata.org/entity/Q3918>	<http://www.w3.org/2000/01/rdf-schema#label>	"university"@en	
+<http://www.wikidata.org/entity/P17>	<http://www.w3.org/2000/01/rdf-schema#label>	"country"@en	
+<http://www.wikidata.org/entity/Q3918>	<http://www.wikidata.org/prop/direct/P1963>	<http://www.wikidata.org/entity/P131>	
+<http://www.wikidata.org/entity/P131>	<http://www.w3.org/2000/01/rdf-schema#label>	"located in the administrative territorial entity"@en	
+<http://www.wikidata.org/entity/Q3918>	<http://www.wikidata.org/prop/direct/P1963>	<http://www.wikidata.org/entity/P571>	
+<http://www.wikidata.org/entity/P571>	<http://www.w3.org/2000/01/rdf-schema#label>	"inception"@en	
+<http://www.wikidata.org/entity/Q3918>	<http://www.wikidata.org/prop/direct/P1963>	<http://www.wikidata.org/entity/P576>	
+<http://www.wikidata.org/entity/P576>	<http://www.w3.org/2000/01/rdf-schema#label>	"dissolved, abolished or demolished date"@en	
+<http://www.wikidata.org/entity/Q3918>	<http://www.wikidata.org/prop/direct/P1963>	<http://www.wikidata.org/entity/P856>	
+<http://www.wikidata.org/entity/P856>	<http://www.w3.org/2000/01/rdf-schema#label>	"official website"@en	
+<http://www.wikidata.org/entity/Q3918>	<http://www.wikidata.org/prop/direct/P1963>	<http://www.wikidata.org/entity/P6375>	
+<http://www.wikidata.org/entity/P6375>	<http://www.w3.org/2000/01/rdf-schema#label>	"street address"@en	
+<http://www.wikidata.org/entity/Q3918>	<http://www.wikidata.org/prop/direct/P1963>	<http://www.wikidata.org/entity/P3876>	
+<http://www.wikidata.org/entity/P3876>	<http://www.w3.org/2000/01/rdf-schema#label>	"category for alumni of educational institution"@en	

@@ -1,0 +1,289 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q221226>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q221226>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Hallmarks of Cancer"@en	
+<http://www.wikidata.org/entity/Q221226>	<http://wikiba.se/ontology#sitelinks>	6	
+<http://www.wikidata.org/entity/Q2640>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q2640>	<http://www.w3.org/2000/01/rdf-schema#label>	"10 Hygiea"@en	
+<http://www.wikidata.org/entity/Q2640>	<http://wikiba.se/ontology#sitelinks>	74	
+<http://www.wikidata.org/entity/Q277111>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q277111>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Limits to Growth"@en	
+<http://www.wikidata.org/entity/Q277111>	<http://wikiba.se/ontology#sitelinks>	33	
+<http://www.wikidata.org/entity/Q905091>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q905091>	<http://www.w3.org/2000/01/rdf-schema#label>	"On the Number of Primes Less Than a Given Magnitude"@en	
+<http://www.wikidata.org/entity/Q905091>	<http://wikiba.se/ontology#sitelinks>	11	
+<http://www.wikidata.org/entity/Q980029>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q980029>	<http://www.w3.org/2000/01/rdf-schema#label>	"X Article"@en	
+<http://www.wikidata.org/entity/Q980029>	<http://wikiba.se/ontology#sitelinks>	13	
+<http://www.wikidata.org/entity/Q921309>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q921309>	<http://www.w3.org/2000/01/rdf-schema#label>	"B²FH paper"@en	
+<http://www.wikidata.org/entity/Q921309>	<http://wikiba.se/ontology#sitelinks>	12	
+<http://www.wikidata.org/entity/Q1362699>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q1362699>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Extended Mind"@en	
+<http://www.wikidata.org/entity/Q1362699>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q769913>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q769913>	<http://www.w3.org/2000/01/rdf-schema#label>	"The chemical basis of morphogenesis"@en	
+<http://www.wikidata.org/entity/Q769913>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q408351>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q408351>	<http://www.w3.org/2000/01/rdf-schema#label>	"molecular cloning"@en	
+<http://www.wikidata.org/entity/Q408351>	<http://wikiba.se/ontology#sitelinks>	29	
+<http://www.wikidata.org/entity/Q330955>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q330955>	<http://www.w3.org/2000/01/rdf-schema#label>	"Sense and reference"@en	
+<http://www.wikidata.org/entity/Q330955>	<http://wikiba.se/ontology#sitelinks>	13	
+<http://www.wikidata.org/entity/Q356702>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q356702>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cantor's first uncountability proof"@en	
+<http://www.wikidata.org/entity/Q356702>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q1801903>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q1801903>	<http://www.w3.org/2000/01/rdf-schema#label>	"On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection"@en	
+<http://www.wikidata.org/entity/Q1801903>	<http://wikiba.se/ontology#sitelinks>	9	
+<http://www.wikidata.org/entity/Q1542532>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q1542532>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Magical Number Seven, Plus or Minus Two"@en	
+<http://www.wikidata.org/entity/Q1542532>	<http://wikiba.se/ontology#sitelinks>	19	
+<http://www.wikidata.org/entity/Q1545808>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q1545808>	<http://www.w3.org/2000/01/rdf-schema#label>	"Sand drawing"@en	
+<http://www.wikidata.org/entity/Q1545808>	<http://wikiba.se/ontology#sitelinks>	8	
+<http://www.wikidata.org/entity/Q1668341>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q1668341>	<http://www.w3.org/2000/01/rdf-schema#label>	"climate finance"@en	
+<http://www.wikidata.org/entity/Q1668341>	<http://wikiba.se/ontology#sitelinks>	11	
+<http://www.wikidata.org/entity/Q3560872>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q3560872>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Use of Knowledge in Society"@en	
+<http://www.wikidata.org/entity/Q3560872>	<http://wikiba.se/ontology#sitelinks>	11	
+<http://www.wikidata.org/entity/Q3554851>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q3554851>	<http://www.w3.org/2000/01/rdf-schema#label>	"How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension"@en	
+<http://www.wikidata.org/entity/Q3554851>	<http://wikiba.se/ontology#sitelinks>	7	
+<http://www.wikidata.org/entity/Q3547352>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q3547352>	<http://www.w3.org/2000/01/rdf-schema#label>	"Soil Erosion and Sediment Yield Modelling in the Pra River Basin of Ghana using the Revised Universal Soil Loss Equation (RUSLE)"@en	
+<http://www.wikidata.org/entity/Q3547352>	<http://wikiba.se/ontology#sitelinks>	7	
+<http://www.wikidata.org/entity/Q2711178>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q2711178>	<http://www.w3.org/2000/01/rdf-schema#label>	"Smilisca puma"@en	
+<http://www.wikidata.org/entity/Q2711178>	<http://wikiba.se/ontology#sitelinks>	13	
+<http://www.wikidata.org/entity/Q3020388>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q3020388>	<http://www.w3.org/2000/01/rdf-schema#label>	"On the Electrodynamics of Moving Bodies"@en	
+<http://www.wikidata.org/entity/Q3020388>	<http://wikiba.se/ontology#sitelinks>	7	
+<http://www.wikidata.org/entity/Q3049558>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q3049558>	<http://www.w3.org/2000/01/rdf-schema#label>	"Liber Divinorum Operum (Book of Divine Works): Hildegard von Bingen"@en	
+<http://www.wikidata.org/entity/Q3049558>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q3247086>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q3247086>	<http://www.w3.org/2000/01/rdf-schema#label>	"1968 Atlantic hurricane season"@en	
+<http://www.wikidata.org/entity/Q3247086>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q1895685>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q1895685>	<http://www.w3.org/2000/01/rdf-schema#label>	"Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid"@en	
+<http://www.wikidata.org/entity/Q1895685>	<http://wikiba.se/ontology#sitelinks>	12	
+<http://www.wikidata.org/entity/Q2412467>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q2412467>	<http://www.w3.org/2000/01/rdf-schema#label>	"On the Equilibrium of Heterogeneous Substances"@en	
+<http://www.wikidata.org/entity/Q2412467>	<http://wikiba.se/ontology#sitelinks>	11	
+<http://www.wikidata.org/entity/Q1964440>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q1964440>	<http://www.w3.org/2000/01/rdf-schema#label>	"Retracted article on dopaminergic neurotoxicity of MDMA"@en	
+<http://www.wikidata.org/entity/Q1964440>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q2410432>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q2410432>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Complexity of Songs"@en	
+<http://www.wikidata.org/entity/Q2410432>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q5834547>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5834547>	<http://www.w3.org/2000/01/rdf-schema#label>	"Enumeratio Plantarum, quas in China Boreali"@en	
+<http://www.wikidata.org/entity/Q5834547>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q5188679>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5188679>	<http://www.w3.org/2000/01/rdf-schema#label>	"Crossing the Quality Chasm"@en	
+<http://www.wikidata.org/entity/Q5188679>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q4749994>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q4749994>	<http://www.w3.org/2000/01/rdf-schema#label>	"An Experimental Enquiry Concerning the Source of the Heat which is Excited by Friction"@en	
+<http://www.wikidata.org/entity/Q4749994>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q3819147>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q3819147>	<http://www.w3.org/2000/01/rdf-schema#label>	"Making Sex: Body and Gender from the Greeks to Freud"@en	
+<http://www.wikidata.org/entity/Q3819147>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q5159299>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5159299>	<http://www.w3.org/2000/01/rdf-schema#label>	"Conditions on Transformations"@en	
+<http://www.wikidata.org/entity/Q5159299>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q5418627>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5418627>	<http://www.w3.org/2000/01/rdf-schema#label>	"EVOLUTION IN MENDELIAN POPULATIONS"@en	
+<http://www.wikidata.org/entity/Q5418627>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q5158473>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5158473>	<http://www.w3.org/2000/01/rdf-schema#label>	"Concerning Specific Forms of Masturbation"@en	
+<http://www.wikidata.org/entity/Q5158473>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q5801420>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5801420>	<http://www.w3.org/2000/01/rdf-schema#label>	"Definitions of rare or hitherto undescribed Australian plants"@en	
+<http://www.wikidata.org/entity/Q5801420>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q5711347>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5711347>	<http://www.w3.org/2000/01/rdf-schema#label>	"Auctarium ad Synopsim Methodicam Stirpium Horti Reg. Taurinensis"@en	
+<http://www.wikidata.org/entity/Q5711347>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q5121672>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5121672>	<http://www.w3.org/2000/01/rdf-schema#label>	"Circular permutation in proteins"@en	
+<http://www.wikidata.org/entity/Q5121672>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q5832503>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5832503>	<http://www.w3.org/2000/01/rdf-schema#label>	"Encyclopédie Méthodique, Botanique"@en	
+<http://www.wikidata.org/entity/Q5832503>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q5384234>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5384234>	<http://www.w3.org/2000/01/rdf-schema#label>	"Equation of State Calculations by Fast Computing Machines"@en	
+<http://www.wikidata.org/entity/Q5384234>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q4781761>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q4781761>	<http://www.w3.org/2000/01/rdf-schema#label>	"Approximate Bayesian computation"@en	
+<http://www.wikidata.org/entity/Q4781761>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q4283795>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q4283795>	<http://www.w3.org/2000/01/rdf-schema#label>	"1971 Atlantic hurricane season"@en	
+<http://www.wikidata.org/entity/Q4283795>	<http://wikiba.se/ontology#sitelinks>	6	
+<http://www.wikidata.org/entity/Q5862715>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5862715>	<http://www.w3.org/2000/01/rdf-schema#label>	"Flora Atlantica"@en	
+<http://www.wikidata.org/entity/Q5862715>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q6021857>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q6021857>	<http://www.w3.org/2000/01/rdf-schema#label>	"Monographia Salicum"@en	
+<http://www.wikidata.org/entity/Q6021857>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q7259605>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7259605>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Representation of Cantonese with Chinese Characters"@en	
+<http://www.wikidata.org/entity/Q7259605>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q6043354>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q6043354>	<http://www.w3.org/2000/01/rdf-schema#label>	"Nitrosococcus"@en	
+<http://www.wikidata.org/entity/Q6043354>	<http://wikiba.se/ontology#sitelinks>	6	
+<http://www.wikidata.org/entity/Q7090984>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7090984>	<http://www.w3.org/2000/01/rdf-schema#label>	"On Formally Undecidable Propositions of Principia Mathematica and Related Systems"@en	
+<http://www.wikidata.org/entity/Q7090984>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q5862829>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5862829>	<http://www.w3.org/2000/01/rdf-schema#label>	"Flora Taurico-Caucasica"@en	
+<http://www.wikidata.org/entity/Q5862829>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q6522576>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q6522576>	<http://www.w3.org/2000/01/rdf-schema#label>	"Lenin and Philosophy (Lecture, 1968)"@en	
+<http://www.wikidata.org/entity/Q6522576>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q6082823>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q6082823>	<http://www.w3.org/2000/01/rdf-schema#label>	"Why Obama Will Win in 2008 & 2012"@en	
+<http://www.wikidata.org/entity/Q6082823>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q5937175>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q5937175>	<http://www.w3.org/2000/01/rdf-schema#label>	"Human Genetic Diversity: Lewontin's Fallacy"@en	
+<http://www.wikidata.org/entity/Q5937175>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q7048737>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7048737>	<http://www.w3.org/2000/01/rdf-schema#label>	"Non-Darwinian evolution"@en	
+<http://www.wikidata.org/entity/Q7048737>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q7247677>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7247677>	<http://www.w3.org/2000/01/rdf-schema#label>	"Prodromus Florae Novae Hollandiae et Insulae Van Diemen"@en	
+<http://www.wikidata.org/entity/Q7247677>	<http://wikiba.se/ontology#sitelinks>	7	
+<http://www.wikidata.org/entity/Q11913294>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q11913294>	<http://www.w3.org/2000/01/rdf-schema#label>	"Dearborn catalog of faint red stars"@en	
+<http://www.wikidata.org/entity/Q11913294>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q7736095>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7736095>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Genetical Evolution of Social Behaviour / William D. Hamilton. - (1964)"@en	
+<http://www.wikidata.org/entity/Q7736095>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q7727667>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7727667>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Correlation between Relatives on the Supposition of Mendelian Inheritance"@en	
+<http://www.wikidata.org/entity/Q7727667>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q7767118>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7767118>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Study of Administration"@en	
+<http://www.wikidata.org/entity/Q7767118>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q8001607>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q8001607>	<http://www.w3.org/2000/01/rdf-schema#label>	"Modular Elliptic Curves and Fermat's Last Theorem"@en	
+<http://www.wikidata.org/entity/Q8001607>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q7663875>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7663875>	<http://www.w3.org/2000/01/rdf-schema#label>	"Systems of Logic Based on Ordinals"@en	
+<http://www.wikidata.org/entity/Q7663875>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q7747319>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7747319>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Lighthouse in Economics"@en	
+<http://www.wikidata.org/entity/Q7747319>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q10922388>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q10922388>	<http://www.w3.org/2000/01/rdf-schema#label>	"Goldbach's conjecture"@en	
+<http://www.wikidata.org/entity/Q10922388>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q13416674>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13416674>	<http://www.w3.org/2000/01/rdf-schema#label>	"A phylogeny and revised classification of Squamata, including 4161 species of lizards and snakes"@en	
+<http://www.wikidata.org/entity/Q13416674>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q7762504>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7762504>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Schizophrenia of Modern Ethical Theories"@en	
+<http://www.wikidata.org/entity/Q7762504>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q13415739>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13415739>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Ten Archontes of 579/8 at Athens"@en	
+<http://www.wikidata.org/entity/Q13415739>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q12376813>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q12376813>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Refutation of Idealism"@en	
+<http://www.wikidata.org/entity/Q12376813>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q13416617>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13416617>	<http://www.w3.org/2000/01/rdf-schema#label>	"Tectonic map and overall architecture of the Alpine orogen"@en	
+<http://www.wikidata.org/entity/Q13416617>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q8079434>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q8079434>	<http://www.w3.org/2000/01/rdf-schema#label>	"Über quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen"@en	
+<http://www.wikidata.org/entity/Q8079434>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q7559482>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7559482>	<http://www.w3.org/2000/01/rdf-schema#label>	"Some Remarks on Logical Form"@en	
+<http://www.wikidata.org/entity/Q7559482>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q7768658>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7768658>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Theory of Interstellar Trade"@en	
+<http://www.wikidata.org/entity/Q7768658>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q12738323>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q12738323>	<http://www.w3.org/2000/01/rdf-schema#label>	"Polyarchy: Participation and Opposition"@en	
+<http://www.wikidata.org/entity/Q12738323>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q13414893>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13414893>	<http://www.w3.org/2000/01/rdf-schema#label>	"On \"Chenqiao Coup\""@en	
+<http://www.wikidata.org/entity/Q13414893>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q7507635>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q7507635>	<http://www.w3.org/2000/01/rdf-schema#label>	"Sickle cell anemia, a molecular disease"@en	
+<http://www.wikidata.org/entity/Q7507635>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q8079432>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q8079432>	<http://www.w3.org/2000/01/rdf-schema#label>	"Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen"@en	
+<http://www.wikidata.org/entity/Q8079432>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q14755225>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14755225>	<http://www.w3.org/2000/01/rdf-schema#label>	"Studies of Mexican and Central American Plants – No. 5"@en	
+<http://www.wikidata.org/entity/Q14755225>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14624477>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14624477>	<http://www.w3.org/2000/01/rdf-schema#label>	"The Genus Cereus and its Allies in North America"@en	
+<http://www.wikidata.org/entity/Q14624477>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14643975>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14643975>	<http://www.w3.org/2000/01/rdf-schema#label>	"Notes on the Cereus giganteus of South Eastern California and some other Californian Cactaceae"@en	
+<http://www.wikidata.org/entity/Q14643975>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14624812>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14624812>	<http://www.w3.org/2000/01/rdf-schema#label>	"Seed-morphology as an aid to classifying the genus Echinopsis Zucc."@en	
+<http://www.wikidata.org/entity/Q14624812>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14558831>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14558831>	<http://www.w3.org/2000/01/rdf-schema#label>	"A catalogue of multiplicity among bright stellar systems"@en	
+<http://www.wikidata.org/entity/Q14558831>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14565069>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14565069>	<http://www.w3.org/2000/01/rdf-schema#label>	"An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG II"@en	
+<http://www.wikidata.org/entity/Q14565069>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14624611>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14624611>	<http://www.w3.org/2000/01/rdf-schema#label>	"A New Species of Rhipsalis (Cactaceae) from Brazil"@en	
+<http://www.wikidata.org/entity/Q14624611>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14757722>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14757722>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cactaceae Lindley"@en	
+<http://www.wikidata.org/entity/Q14757722>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14624209>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14624209>	<http://www.w3.org/2000/01/rdf-schema#label>	"Two new genera of Cactaceae"@en	
+<http://www.wikidata.org/entity/Q14624209>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14757728>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14757728>	<http://www.w3.org/2000/01/rdf-schema#label>	"Description d’une nouvelle espèce de Cereus du Mexique"@en	
+<http://www.wikidata.org/entity/Q14757728>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q13639329>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13639329>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mai De Li Ba La and Tuo Guo Si Tie Mu Er"@en	
+<http://www.wikidata.org/entity/Q13639329>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q13669559>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13669559>	<http://www.w3.org/2000/01/rdf-schema#label>	"Alunite supergroup: recommended nomenclature"@en	
+<http://www.wikidata.org/entity/Q13669559>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14394804>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14394804>	<http://www.w3.org/2000/01/rdf-schema#label>	"A subfamilial classification for the expanded asparagalean families Amaryllidaceae, Asparagaceae and Xanthorrhoeaceae"@en	
+<http://www.wikidata.org/entity/Q14394804>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14405740>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14405740>	<http://www.w3.org/2000/01/rdf-schema#label>	"Annotated checklist of the recent and extinct pythons (Serpentes, Pythonidae), with notes on nomenclature, taxonomy, and distribution"@en	
+<http://www.wikidata.org/entity/Q14405740>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q13626292>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13626292>	<http://www.w3.org/2000/01/rdf-schema#label>	"A phylogenetic classification of the land plants to accompany APG III"@en	
+<http://www.wikidata.org/entity/Q13626292>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q14530181>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14530181>	<http://www.w3.org/2000/01/rdf-schema#label>	"The nearest visual binaries"@en	
+<http://www.wikidata.org/entity/Q14530181>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q13521346>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13521346>	<http://www.w3.org/2000/01/rdf-schema#label>	"A farewell to dated ideas and concepts: molecular phylogenetics and a revised suprageneric classification of the family Cactaceae"@en	
+<http://www.wikidata.org/entity/Q13521346>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q13683362>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13683362>	<http://www.w3.org/2000/01/rdf-schema#label>	"An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III"@en	
+<http://www.wikidata.org/entity/Q13683362>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q13847780>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13847780>	<http://www.w3.org/2000/01/rdf-schema#label>	"Phylogenetic Analysis Of Some Basal Early Cambrian Trilobites, The Biogeographic Origins Of The Eutrilobita, And The Timing Of The Cambrian Radiation"@en	
+<http://www.wikidata.org/entity/Q13847780>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14396088>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14396088>	<http://www.w3.org/2000/01/rdf-schema#label>	"An ordinal classification for the families of flowering plants"@en	
+<http://www.wikidata.org/entity/Q14396088>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14405376>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14405376>	<http://www.w3.org/2000/01/rdf-schema#label>	"Nomenclatorial transfers"@en	
+<http://www.wikidata.org/entity/Q14405376>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q13430504>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13430504>	<http://www.w3.org/2000/01/rdf-schema#label>	"Rue89:  un modèle horizontal de la production d’information?"@en	
+<http://www.wikidata.org/entity/Q13430504>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14508416>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14508416>	<http://www.w3.org/2000/01/rdf-schema#label>	"Apertium: a free/open-source platform for rule-based machine translation"@en	
+<http://www.wikidata.org/entity/Q14508416>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q14503029>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q14503029>	<http://www.w3.org/2000/01/rdf-schema#label>	"The genus Epiphyllum and its allies"@en	
+<http://www.wikidata.org/entity/Q14503029>	<http://wikiba.se/ontology#sitelinks>	0	
+<http://www.wikidata.org/entity/Q13422885>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q13442814>	
+<http://www.wikidata.org/entity/Q13422885>	<http://www.w3.org/2000/01/rdf-schema#label>	"Atomic weights of the elements 2009 (IUPAC Technical Report)"@en	
+<http://www.wikidata.org/entity/Q13422885>	<http://wikiba.se/ontology#sitelinks>	0	

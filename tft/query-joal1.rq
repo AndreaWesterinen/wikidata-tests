@@ -3,8 +3,8 @@ SELECT ?q
     ?q wdt:P31/wdt:P279* wd:Q16521 .
     {
         { VALUES ?prop { wdt:P225 wdt:P1420 } . 
-          ?q ?prop 'Tradescantia aff. pallida Bradely 24980' }
+          ?q ?prop 'Capsicum annuum var. acuminatum' }
         UNION 
-        { ?q skos:altLabel 'Tradescantia aff. pallida Bradely 24980'@en }
+        { ?q skos:altLabel 'Capsicum annuum var. acuminatum'@en }
     } 
 }

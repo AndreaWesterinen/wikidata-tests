@@ -1,0 +1,147 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P495>	<http://www.wikidata.org/entity/Q230>	
+<http://www.wikidata.org/entity/P495>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P495>	
+<http://www.wikidata.org/entity/P495>	<http://www.w3.org/2000/01/rdf-schema#label>	"country of origin"@en	
+<http://www.wikidata.org/entity/Q230>	<http://www.w3.org/2000/01/rdf-schema#label>	"Georgia"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P840>	<http://www.wikidata.org/entity/Q994>	
+<http://www.wikidata.org/entity/P840>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P840>	
+<http://www.wikidata.org/entity/P840>	<http://www.w3.org/2000/01/rdf-schema#label>	"narrative location"@en	
+<http://www.wikidata.org/entity/Q994>	<http://www.w3.org/2000/01/rdf-schema#label>	"Tbilisi"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P364>	<http://www.wikidata.org/entity/Q8108>	
+<http://www.wikidata.org/entity/P364>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P364>	
+<http://www.wikidata.org/entity/P364>	<http://www.w3.org/2000/01/rdf-schema#label>	"original language of film or TV show"@en	
+<http://www.wikidata.org/entity/Q8108>	<http://www.w3.org/2000/01/rdf-schema#label>	"Georgian"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P2408>	<http://www.wikidata.org/entity/Q34653>	
+<http://www.wikidata.org/entity/P2408>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P2408>	
+<http://www.wikidata.org/entity/P2408>	<http://www.w3.org/2000/01/rdf-schema#label>	"set in period"@en	
+<http://www.wikidata.org/entity/Q34653>	<http://www.w3.org/2000/01/rdf-schema#label>	"1990s"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q11424>	
+<http://www.wikidata.org/entity/P31>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P31>	
+<http://www.wikidata.org/entity/P31>	<http://www.w3.org/2000/01/rdf-schema#label>	"instance of"@en	
+<http://www.wikidata.org/entity/Q11424>	<http://www.w3.org/2000/01/rdf-schema#label>	"film"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P840>	<http://www.wikidata.org/entity/Q44302>	
+<http://www.wikidata.org/entity/Q44302>	<http://www.w3.org/2000/01/rdf-schema#label>	"Nagorno-Karabakh"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q188473>	
+<http://www.wikidata.org/entity/P136>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P136>	
+<http://www.wikidata.org/entity/P136>	<http://www.w3.org/2000/01/rdf-schema#label>	"genre"@en	
+<http://www.wikidata.org/entity/Q188473>	<http://www.w3.org/2000/01/rdf-schema#label>	"action film"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P58>	<http://www.wikidata.org/entity/Q321372>	
+<http://www.wikidata.org/entity/P58>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P58>	
+<http://www.wikidata.org/entity/P58>	<http://www.w3.org/2000/01/rdf-schema#label>	"screenwriter"@en	
+<http://www.wikidata.org/entity/Q321372>	<http://www.w3.org/2000/01/rdf-schema#label>	"Aka Morchiladze"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P921>	<http://www.wikidata.org/entity/Q350604>	
+<http://www.wikidata.org/entity/P921>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P921>	
+<http://www.wikidata.org/entity/P921>	<http://www.w3.org/2000/01/rdf-schema#label>	"main subject"@en	
+<http://www.wikidata.org/entity/Q350604>	<http://www.w3.org/2000/01/rdf-schema#label>	"armed conflict"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P136>	<http://www.wikidata.org/entity/Q369747>	
+<http://www.wikidata.org/entity/Q369747>	<http://www.w3.org/2000/01/rdf-schema#label>	"war film"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P921>	<http://www.wikidata.org/entity/Q381375>	
+<http://www.wikidata.org/entity/Q381375>	<http://www.w3.org/2000/01/rdf-schema#label>	"First Nagorno-Karabakh War"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P2408>	<http://www.wikidata.org/entity/Q381375>	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P921>	<http://www.wikidata.org/entity/Q898449>	
+<http://www.wikidata.org/entity/Q898449>	<http://www.w3.org/2000/01/rdf-schema#label>	"escapism"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P2408>	<http://www.wikidata.org/entity/Q1070890>	
+<http://www.wikidata.org/entity/Q1070890>	<http://www.w3.org/2000/01/rdf-schema#label>	"Georgian Civil War"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P57>	<http://www.wikidata.org/entity/Q4466608>	
+<http://www.wikidata.org/entity/P57>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P57>	
+<http://www.wikidata.org/entity/P57>	<http://www.w3.org/2000/01/rdf-schema#label>	"director"@en	
+<http://www.wikidata.org/entity/Q4466608>	<http://www.w3.org/2000/01/rdf-schema#label>	"Levan Tutberidze"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P462>	<http://www.wikidata.org/entity/Q22006653>	
+<http://www.wikidata.org/entity/P462>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P462>	
+<http://www.wikidata.org/entity/P462>	<http://www.w3.org/2000/01/rdf-schema#label>	"color"@en	
+<http://www.wikidata.org/entity/Q22006653>	<http://www.w3.org/2000/01/rdf-schema#label>	"color"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P161>	<http://www.wikidata.org/entity/Q3879958>	
+<http://www.wikidata.org/entity/P161>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P161>	
+<http://www.wikidata.org/entity/P161>	<http://www.w3.org/2000/01/rdf-schema#label>	"cast member"@en	
+<http://www.wikidata.org/entity/Q3879958>	<http://www.w3.org/2000/01/rdf-schema#label>	"Nutsa Kukhianidze"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P161>	<http://www.wikidata.org/entity/Q2011844>	
+<http://www.wikidata.org/entity/Q2011844>	<http://www.w3.org/2000/01/rdf-schema#label>	"Robert Sturua"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P921>	<http://www.wikidata.org/entity/Q1259975>	
+<http://www.wikidata.org/entity/Q1259975>	<http://www.w3.org/2000/01/rdf-schema#label>	"drug-related crime"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P921>	<http://www.wikidata.org/entity/Q3184856>	
+<http://www.wikidata.org/entity/Q3184856>	<http://www.w3.org/2000/01/rdf-schema#label>	"substance abuse"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P1344>	<http://www.wikidata.org/entity/Q1277905>	
+<http://www.wikidata.org/entity/P1344>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P1344>	
+<http://www.wikidata.org/entity/P1344>	<http://www.w3.org/2000/01/rdf-schema#label>	"participant in"@en	
+<http://www.wikidata.org/entity/Q1277905>	<http://www.w3.org/2000/01/rdf-schema#label>	"18th European Film Awards"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P161>	<http://www.wikidata.org/entity/Q107871872>	
+<http://www.wikidata.org/entity/Q107871872>	<http://www.w3.org/2000/01/rdf-schema#label>	"Misha Meskhi"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P344>	<http://www.wikidata.org/entity/Q107870229>	
+<http://www.wikidata.org/entity/P344>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P344>	
+<http://www.wikidata.org/entity/P344>	<http://www.w3.org/2000/01/rdf-schema#label>	"director of photography"@en	
+<http://www.wikidata.org/entity/Q107870229>	<http://www.w3.org/2000/01/rdf-schema#label>	"Goran Pavicevic"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P58>	<http://www.wikidata.org/entity/Q107866683>	
+<http://www.wikidata.org/entity/Q107866683>	<http://www.w3.org/2000/01/rdf-schema#label>	"Irakli Solomonashvili"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P2515>	<http://www.wikidata.org/entity/Q107870526>	
+<http://www.wikidata.org/entity/P2515>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P2515>	
+<http://www.wikidata.org/entity/P2515>	<http://www.w3.org/2000/01/rdf-schema#label>	"costume designer"@en	
+<http://www.wikidata.org/entity/Q107870526>	<http://www.w3.org/2000/01/rdf-schema#label>	"Giorgi Tatishvili"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P161>	<http://www.wikidata.org/entity/Q106880596>	
+<http://www.wikidata.org/entity/Q106880596>	<http://www.w3.org/2000/01/rdf-schema#label>	"Levan Doborjginidze"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P1040>	<http://www.wikidata.org/entity/Q23803165>	
+<http://www.wikidata.org/entity/P1040>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P1040>	
+<http://www.wikidata.org/entity/P1040>	<http://www.w3.org/2000/01/rdf-schema#label>	"film editor"@en	
+<http://www.wikidata.org/entity/Q23803165>	<http://www.w3.org/2000/01/rdf-schema#label>	"Boris Machytka"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P2554>	<http://www.wikidata.org/entity/Q95225839>	
+<http://www.wikidata.org/entity/P2554>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P2554>	
+<http://www.wikidata.org/entity/P2554>	<http://www.w3.org/2000/01/rdf-schema#label>	"production designer"@en	
+<http://www.wikidata.org/entity/Q95225839>	<http://www.w3.org/2000/01/rdf-schema#label>	"Kote Japaridze"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P86>	<http://www.wikidata.org/entity/Q107870572>	
+<http://www.wikidata.org/entity/P86>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P86>	
+<http://www.wikidata.org/entity/P86>	<http://www.w3.org/2000/01/rdf-schema#label>	"composer"@en	
+<http://www.wikidata.org/entity/Q107870572>	<http://www.w3.org/2000/01/rdf-schema#label>	"Nukri Abashidze"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P161>	<http://www.wikidata.org/entity/Q81956032>	
+<http://www.wikidata.org/entity/Q81956032>	<http://www.w3.org/2000/01/rdf-schema#label>	"Giorgi Gurgulia"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P5021>	<http://www.wikidata.org/entity/Q105913295>	
+<http://www.wikidata.org/entity/P5021>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P5021>	
+<http://www.wikidata.org/entity/P5021>	<http://www.w3.org/2000/01/rdf-schema#label>	"assessment"@en	
+<http://www.wikidata.org/entity/Q105913295>	<http://www.w3.org/2000/01/rdf-schema#label>	"reverse Mako Mori test"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P272>	<http://www.wikidata.org/entity/Q107872457>	
+<http://www.wikidata.org/entity/P272>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P272>	
+<http://www.wikidata.org/entity/P272>	<http://www.w3.org/2000/01/rdf-schema#label>	"production company"@en	
+<http://www.wikidata.org/entity/Q107872457>	<http://www.w3.org/2000/01/rdf-schema#label>	"Film Studio Remka"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P2603>	"197720"	
+<http://www.wikidata.org/entity/P2603>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P2603>	
+<http://www.wikidata.org/entity/P2603>	<http://www.w3.org/2000/01/rdf-schema#label>	"Kinopoisk film ID"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P3138>	"94733"	
+<http://www.wikidata.org/entity/P3138>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P3138>	
+<http://www.wikidata.org/entity/P3138>	<http://www.w3.org/2000/01/rdf-schema#label>	"OFDb film ID"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P646>	"/m/09g9hbn"	
+<http://www.wikidata.org/entity/P646>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P646>	
+<http://www.wikidata.org/entity/P646>	<http://www.w3.org/2000/01/rdf-schema#label>	"Freebase ID"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P1476>	"გასეირნება ყარაბაღში"@ka	
+<http://www.wikidata.org/entity/P1476>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P1476>	
+<http://www.wikidata.org/entity/P1476>	<http://www.w3.org/2000/01/rdf-schema#label>	"title"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P8800>	"6006"	
+<http://www.wikidata.org/entity/P8800>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P8800>	
+<http://www.wikidata.org/entity/P8800>	<http://www.w3.org/2000/01/rdf-schema#label>	"European Film Awards ID"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P2047>	105	
+<http://www.wikidata.org/entity/P2047>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P2047>	
+<http://www.wikidata.org/entity/P2047>	<http://www.w3.org/2000/01/rdf-schema#label>	"duration"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P6420>	"855"	
+<http://www.wikidata.org/entity/P6420>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P6420>	
+<http://www.wikidata.org/entity/P6420>	<http://www.w3.org/2000/01/rdf-schema#label>	"Georgian National Filmography ID"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P345>	"tt0480702"	
+<http://www.wikidata.org/entity/P345>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P345>	
+<http://www.wikidata.org/entity/P345>	<http://www.w3.org/2000/01/rdf-schema#label>	"IMDb ID"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P1562>	"v340040"	
+<http://www.wikidata.org/entity/P1562>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P1562>	
+<http://www.wikidata.org/entity/P1562>	<http://www.w3.org/2000/01/rdf-schema#label>	"AllMovie title ID"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P3143>	"473932"	
+<http://www.wikidata.org/entity/P3143>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P3143>	
+<http://www.wikidata.org/entity/P3143>	<http://www.w3.org/2000/01/rdf-schema#label>	"elFilm film ID"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P577>	"2005-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/P577>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P577>	
+<http://www.wikidata.org/entity/P577>	<http://www.w3.org/2000/01/rdf-schema#label>	"publication date"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P6127>	"a-trip-to-karabakh"	
+<http://www.wikidata.org/entity/P6127>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P6127>	
+<http://www.wikidata.org/entity/P6127>	<http://www.w3.org/2000/01/rdf-schema#label>	"Letterboxd film ID"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P2529>	"232953"	
+<http://www.wikidata.org/entity/P2529>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P2529>	
+<http://www.wikidata.org/entity/P2529>	<http://www.w3.org/2000/01/rdf-schema#label>	"ČSFD film ID"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P1970>	"46362"	
+<http://www.wikidata.org/entity/P1970>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P1970>	
+<http://www.wikidata.org/entity/P1970>	<http://www.w3.org/2000/01/rdf-schema#label>	"MovieMeter film ID"@en	
+<http://www.wikidata.org/entity/Q4379890>	<http://www.wikidata.org/prop/direct/P4947>	"405531"	
+<http://www.wikidata.org/entity/P4947>	<http://wikiba.se/ontology#directClaim>	<http://www.wikidata.org/prop/direct/P4947>	
+<http://www.wikidata.org/entity/P4947>	<http://www.w3.org/2000/01/rdf-schema#label>	"TMDb movie ID"@en	

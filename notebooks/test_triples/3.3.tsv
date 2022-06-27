@@ -1,0 +1,6 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/L3873>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/lemon/ontolex#LexicalEntry>	
+<http://www.wikidata.org/entity/L3873>	<http://purl.org/dc/terms/language>	<http://www.wikidata.org/entity/Q1860>	
+<http://www.wikidata.org/entity/L3873>	<http://wikiba.se/ontology#lemma>	"buy"@en	
+<http://www.wikidata.org/entity/L3873>	<http://www.w3.org/ns/lemon/ontolex#lexicalForm>	<http://www.wikidata.org/entity/L3873-F3>	
+<http://www.wikidata.org/entity/L3873-F3>	<http://www.w3.org/ns/lemon/ontolex#representation>	"bought"@en	

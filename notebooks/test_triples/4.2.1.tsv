@@ -1,0 +1,400 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q60397>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60397>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60397-4C68F2AB-D25D-4653-BA93-4CB364B9CBE6>	
+<http://www.wikidata.org/entity/statement/Q60397-4C68F2AB-D25D-4653-BA93-4CB364B9CBE6>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/729930e99bd08e0d314b6d5cc1165302d3a1b5fc>	
+<http://www.wikidata.org/reference/729930e99bd08e0d314b6d5cc1165302d3a1b5fc>	<http://www.wikidata.org/prop/reference/P958>	"Hesse, Otto 1811-1874"	
+<http://www.wikidata.org/entity/Q61801>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61801>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61801-9CB085DC-FB1F-4411-B2EE-C091D012AEF3>	
+<http://www.wikidata.org/entity/statement/Q61801-9CB085DC-FB1F-4411-B2EE-C091D012AEF3>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/d5fbde74583ba81f5e38e9b887a52e3dd3505263>	
+<http://www.wikidata.org/reference/d5fbde74583ba81f5e38e9b887a52e3dd3505263>	<http://www.wikidata.org/prop/reference/P958>	"Gordan, Paul 1837-1912"	
+<http://www.wikidata.org/entity/Q26648>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q26648>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q26648-EB48E899-6301-43A6-B430-996E1523B34B>	
+<http://www.wikidata.org/entity/statement/Q26648-EB48E899-6301-43A6-B430-996E1523B34B>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/2c63e6fbd56ea87d1da67e97337abdd925d3726c>	
+<http://www.wikidata.org/reference/2c63e6fbd56ea87d1da67e97337abdd925d3726c>	<http://www.wikidata.org/prop/reference/P958>	"Argyropoulos, Iohannes 1416-1486"	
+<http://www.wikidata.org/entity/Q26825>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q26825>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q26825-3FDDD4C3-0AA9-4ECF-AF51-0306EDF64EB6>	
+<http://www.wikidata.org/entity/statement/Q26825-3FDDD4C3-0AA9-4ECF-AF51-0306EDF64EB6>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/10eccbf4d2bbc9ddefca13029f934aec8b955e12>	
+<http://www.wikidata.org/reference/10eccbf4d2bbc9ddefca13029f934aec8b955e12>	<http://www.wikidata.org/prop/reference/P958>	"Herodotus -484--425"	
+<http://www.wikidata.org/entity/Q501>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q501>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q501-F122DB96-2776-4F62-9936-8A613D3E79CE>	
+<http://www.wikidata.org/entity/statement/Q501-F122DB96-2776-4F62-9936-8A613D3E79CE>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/253bba37e4d5eda52862e6bce2bb0c6391abfc1c>	
+<http://www.wikidata.org/reference/253bba37e4d5eda52862e6bce2bb0c6391abfc1c>	<http://www.wikidata.org/prop/reference/P958>	"Baudelaire, Charles 1821-1867"	
+<http://www.wikidata.org/entity/Q61631>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61631>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61631-965EE639-3FE6-4CD4-8752-8770DE0CC6ED>	
+<http://www.wikidata.org/entity/statement/Q61631-965EE639-3FE6-4CD4-8752-8770DE0CC6ED>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/e1675d3c5219714109edf60f549156d7df7c2feb>	
+<http://www.wikidata.org/reference/e1675d3c5219714109edf60f549156d7df7c2feb>	<http://www.wikidata.org/prop/reference/P958>	"Wolf, Hieronymus 1516-1580"	
+<http://www.wikidata.org/entity/Q60070>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60070>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60070-44276858-F5C5-46AD-AB0C-D13D77FC537E>	
+<http://www.wikidata.org/entity/statement/Q60070-44276858-F5C5-46AD-AB0C-D13D77FC537E>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/bc28fda76e4a8ea69a7a9dc4eeee52e7bb8df66b>	
+<http://www.wikidata.org/reference/bc28fda76e4a8ea69a7a9dc4eeee52e7bb8df66b>	<http://www.wikidata.org/prop/reference/P958>	"Schelling, Friedrich Wilhem Joseph von 1775-1854"	
+<http://www.wikidata.org/entity/Q47434>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q47434>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q47434-E78A34AD-AE4D-455C-8010-981AD7F7DFA5>	
+<http://www.wikidata.org/entity/statement/Q47434-E78A34AD-AE4D-455C-8010-981AD7F7DFA5>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/6c6f51a5cae090d5c8a12c8c519a9c7adb8f8d74>	
+<http://www.wikidata.org/reference/6c6f51a5cae090d5c8a12c8c519a9c7adb8f8d74>	<http://www.wikidata.org/prop/reference/P958>	"Halley, Edmond 1656-1742"	
+<http://www.wikidata.org/entity/Q7186>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q7186>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q7186-176CDBB3-1967-463F-B9B6-E15FC35AE613>	
+<http://www.wikidata.org/entity/statement/Q7186-176CDBB3-1967-463F-B9B6-E15FC35AE613>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/c69873dbe84b0c2646bdcd7102a4f206dce96f40>	
+<http://www.wikidata.org/reference/c69873dbe84b0c2646bdcd7102a4f206dce96f40>	<http://www.wikidata.org/prop/reference/P958>	"Curie, Marie 1867-1934"	
+<http://www.wikidata.org/entity/Q301>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q301>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q301-4FEA1249-2D77-4AAA-9FE8-C164063B9BB1>	
+<http://www.wikidata.org/entity/statement/Q301-4FEA1249-2D77-4AAA-9FE8-C164063B9BB1>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/a983900a98022ee812dcc1057729c4e3b01a3221>	
+<http://www.wikidata.org/reference/a983900a98022ee812dcc1057729c4e3b01a3221>	<http://www.wikidata.org/prop/reference/P958>	"El Greco 1541-1614"	
+<http://www.wikidata.org/entity/Q44344>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q44344>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q44344-57795270-B106-4C5C-A94A-326B3D6FDEBB>	
+<http://www.wikidata.org/entity/statement/Q44344-57795270-B106-4C5C-A94A-326B3D6FDEBB>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/a1357756d01f7c8d25d871c4a534fb1740fb4035>	
+<http://www.wikidata.org/reference/a1357756d01f7c8d25d871c4a534fb1740fb4035>	<http://www.wikidata.org/prop/reference/P958>	"Hilarius Pictaviensis (santo) 315-367"	
+<http://www.wikidata.org/entity/Q28975>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q28975>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q28975-24F5923F-FCFE-4CFF-81AF-67BA3C6634F2>	
+<http://www.wikidata.org/entity/statement/Q28975-24F5923F-FCFE-4CFF-81AF-67BA3C6634F2>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/909f6715ca00de627d8f37c8c2eeb70e9cf58ec5>	
+<http://www.wikidata.org/reference/909f6715ca00de627d8f37c8c2eeb70e9cf58ec5>	<http://www.wikidata.org/prop/reference/P958>	"Marlowe, Christopher 1564-1593"	
+<http://www.wikidata.org/entity/Q62358>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q62358>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q62358-A4086DBC-F7E7-437D-B418-D54FAD3166C1>	
+<http://www.wikidata.org/entity/statement/Q62358-A4086DBC-F7E7-437D-B418-D54FAD3166C1>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/1b6f5cd2dbfc1112867175d07997b8fecbbfce37>	
+<http://www.wikidata.org/reference/1b6f5cd2dbfc1112867175d07997b8fecbbfce37>	<http://www.wikidata.org/prop/reference/P958>	"Kaufmann, Jonas 1969-"	
+<http://www.wikidata.org/entity/Q448>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q448>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q448-A89EED4C-CF22-4BD4-BE14-B487A94B63B4>	
+<http://www.wikidata.org/entity/statement/Q448-A89EED4C-CF22-4BD4-BE14-B487A94B63B4>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/7e6b237e55dcf4a2bf370112384ece33db9b3d2a>	
+<http://www.wikidata.org/reference/7e6b237e55dcf4a2bf370112384ece33db9b3d2a>	<http://www.wikidata.org/prop/reference/P958>	"Diderot, Denis 1713-1784"	
+<http://www.wikidata.org/entity/Q28054>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q28054>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q28054-17CDE962-D678-411A-A792-1780E4511C76>	
+<http://www.wikidata.org/entity/statement/Q28054-17CDE962-D678-411A-A792-1780E4511C76>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/56d7a0ea6294f42ca3a45894a02c40342cabfb3f>	
+<http://www.wikidata.org/reference/56d7a0ea6294f42ca3a45894a02c40342cabfb3f>	<http://www.wikidata.org/prop/reference/P958>	"Dench, Judi 1934-"	
+<http://www.wikidata.org/entity/Q47595>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q47595>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q47595-87C83627-F9DF-42F9-A9CB-9C0DE8CFDAF2>	
+<http://www.wikidata.org/entity/statement/Q47595-87C83627-F9DF-42F9-A9CB-9C0DE8CFDAF2>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/42db8fc96f15617b937143208058a01a5f191bab>	
+<http://www.wikidata.org/reference/42db8fc96f15617b937143208058a01a5f191bab>	<http://www.wikidata.org/prop/reference/P958>	"Alfonso (10. ; re di Castiglia e di Leon) 1221-1284"	
+<http://www.wikidata.org/entity/Q60263>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60263>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60263-7608D2C0-7905-4050-832D-910B525DEB46>	
+<http://www.wikidata.org/entity/statement/Q60263-7608D2C0-7905-4050-832D-910B525DEB46>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/e8c0d74ff38322e8a8701a2b4bfb9201c7e24cc1>	
+<http://www.wikidata.org/reference/e8c0d74ff38322e8a8701a2b4bfb9201c7e24cc1>	<http://www.wikidata.org/prop/reference/P958>	"Harrell, Mack 1909-1960"	
+<http://www.wikidata.org/entity/Q7294>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q7294>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q7294-B0418C83-B3F2-4F60-97E4-FAF52A3F2C04>	
+<http://www.wikidata.org/entity/statement/Q7294-B0418C83-B3F2-4F60-97E4-FAF52A3F2C04>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/8836fbfc8e8de83c45ac098d4781c590ab4c25e4>	
+<http://www.wikidata.org/reference/8836fbfc8e8de83c45ac098d4781c590ab4c25e4>	<http://www.wikidata.org/prop/reference/P958>	"Brahms, Johannes 1833-1897"	
+<http://www.wikidata.org/entity/Q62286>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q62286>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q62286-77990BE2-B5F2-45C0-A230-44DE06EE82E3>	
+<http://www.wikidata.org/entity/statement/Q62286-77990BE2-B5F2-45C0-A230-44DE06EE82E3>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/af41643180ef3106babc56dc0781dece0a3ed6eb>	
+<http://www.wikidata.org/reference/af41643180ef3106babc56dc0781dece0a3ed6eb>	<http://www.wikidata.org/prop/reference/P958>	"Kollo, René 1937-"	
+<http://www.wikidata.org/entity/Q29300>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q29300>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q29300-3A5E3F28-82A1-4190-A8A4-A7F234EAB8F9>	
+<http://www.wikidata.org/entity/statement/Q29300-3A5E3F28-82A1-4190-A8A4-A7F234EAB8F9>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/4de2d6fe81fd2df25a3d1f3faf233b34a6fd16cc>	
+<http://www.wikidata.org/reference/4de2d6fe81fd2df25a3d1f3faf233b34a6fd16cc>	<http://www.wikidata.org/prop/reference/P958>	"Parabosco, Girolamo 1524-1557"	
+<http://www.wikidata.org/entity/Q44265>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q44265>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q44265-D83E5FA4-8CA9-4799-A6AF-1C250076C554>	
+<http://www.wikidata.org/entity/statement/Q44265-D83E5FA4-8CA9-4799-A6AF-1C250076C554>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/d101f4472d4dc2034d12e5ba6779570569d3c9cc>	
+<http://www.wikidata.org/reference/d101f4472d4dc2034d12e5ba6779570569d3c9cc>	<http://www.wikidata.org/prop/reference/P958>	"Benedictus (santo) 480-547"	
+<http://www.wikidata.org/entity/Q5553>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q5553>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q5553-F277CBA5-A7BE-47B5-B3B0-6F1F2BB337E2>	
+<http://www.wikidata.org/entity/statement/Q5553-F277CBA5-A7BE-47B5-B3B0-6F1F2BB337E2>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/3aa482562a776460024ad785c4f58ffbe5e2b427>	
+<http://www.wikidata.org/reference/3aa482562a776460024ad785c4f58ffbe5e2b427>	<http://www.wikidata.org/prop/reference/P958>	"Bailo, Luigi 1835-1932"	
+<http://www.wikidata.org/entity/Q7235>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q7235>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q7235-2E1C5C75-6372-4ECF-9243-F9B3C790737C>	
+<http://www.wikidata.org/entity/statement/Q7235-2E1C5C75-6372-4ECF-9243-F9B3C790737C>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/4c7c7097ff3bb64a705a7443d21f6ca85c453e54>	
+<http://www.wikidata.org/reference/4c7c7097ff3bb64a705a7443d21f6ca85c453e54>	<http://www.wikidata.org/prop/reference/P958>	"Sophocles -497--406"	
+<http://www.wikidata.org/entity/Q47162>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q47162>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q47162-3A56EED5-4A5B-440B-83E8-2E890922EF44>	
+<http://www.wikidata.org/entity/statement/Q47162-3A56EED5-4A5B-440B-83E8-2E890922EF44>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/14ccd536f9c985321b2838d1dc8283205b6f3b35>	
+<http://www.wikidata.org/reference/14ccd536f9c985321b2838d1dc8283205b6f3b35>	<http://www.wikidata.org/prop/reference/P958>	"Rolland, Romain 1866-1944"	
+<http://www.wikidata.org/entity/Q307>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q307>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q307-BCE4268E-1C54-43D2-AEC6-F4A04DBF0FEE>	
+<http://www.wikidata.org/entity/statement/Q307-BCE4268E-1C54-43D2-AEC6-F4A04DBF0FEE>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/87d19a42d98fe1c088228ae04e1fc16d1547d913>	
+<http://www.wikidata.org/reference/87d19a42d98fe1c088228ae04e1fc16d1547d913>	<http://www.wikidata.org/prop/reference/P958>	"Galilei, Galileo 1564-1642"	
+<http://www.wikidata.org/entity/Q7298>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q7298>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q7298-A867788A-7FE1-4222-A3F9-83C6DC195AA4>	
+<http://www.wikidata.org/entity/statement/Q7298-A867788A-7FE1-4222-A3F9-83C6DC195AA4>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/53f216047cfd6810056192d1d15e61118f40bee4>	
+<http://www.wikidata.org/reference/53f216047cfd6810056192d1d15e61118f40bee4>	<http://www.wikidata.org/prop/reference/P958>	"Dvořák, Antonin 1841-1904"	
+<http://www.wikidata.org/entity/Q493>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q493>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q493-BBC3928B-9BB5-454E-A216-DF06C265DD0B>	
+<http://www.wikidata.org/entity/statement/Q493-BBC3928B-9BB5-454E-A216-DF06C265DD0B>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/2fe42e2fb748ece9c0efe16d4195b9933ea4f27f>	
+<http://www.wikidata.org/reference/2fe42e2fb748ece9c0efe16d4195b9933ea4f27f>	<http://www.wikidata.org/prop/reference/P958>	"Rimbaud, Arthur 1854-1891"	
+<http://www.wikidata.org/entity/Q60215>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60215>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60215-4F324D98-5EF3-47B6-A59B-F9604EB1F264>	
+<http://www.wikidata.org/entity/statement/Q60215-4F324D98-5EF3-47B6-A59B-F9604EB1F264>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/d7a1f51d41a83a9f2685d0b26cd98b3d1a829f3a>	
+<http://www.wikidata.org/reference/d7a1f51d41a83a9f2685d0b26cd98b3d1a829f3a>	<http://www.wikidata.org/prop/reference/P958>	"Varen, Bernhard 1622-1650"	
+<http://www.wikidata.org/entity/Q61319>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61319>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61319-4D78E72E-0DE5-4CC9-AEAB-B05CF41B404F>	
+<http://www.wikidata.org/entity/statement/Q61319-4D78E72E-0DE5-4CC9-AEAB-B05CF41B404F>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/6204f1787995b3efa5d9a88eb0977adb44e841ea>	
+<http://www.wikidata.org/reference/6204f1787995b3efa5d9a88eb0977adb44e841ea>	<http://www.wikidata.org/prop/reference/P958>	"Schönbein, Christian Friedrich 1799-1868"	
+<http://www.wikidata.org/entity/Q48246>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q48246>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q48246-2756868E-558B-42A0-A7AC-AD6965BD84DC>	
+<http://www.wikidata.org/entity/statement/Q48246-2756868E-558B-42A0-A7AC-AD6965BD84DC>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/2cf5b4b2762a2c88b430b798d07695a454302cf7>	
+<http://www.wikidata.org/reference/2cf5b4b2762a2c88b430b798d07695a454302cf7>	<http://www.wikidata.org/prop/reference/P958>	"Haeckel, Ernst Heinrich 1834-1919"	
+<http://www.wikidata.org/entity/Q61863>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61863>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61863-5E613BAE-82FF-4BB1-975C-18F9C35A6072>	
+<http://www.wikidata.org/entity/statement/Q61863-5E613BAE-82FF-4BB1-975C-18F9C35A6072>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/8b1d71efe5078e45b13f90b299a146f79964765d>	
+<http://www.wikidata.org/reference/8b1d71efe5078e45b13f90b299a146f79964765d>	<http://www.wikidata.org/prop/reference/P958>	"Wilamowitz-Moellendorff, Ulrich von 1848-1931"	
+<http://www.wikidata.org/entity/Q61462>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61462>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61462-A3EC35C4-1711-49F9-9F41-04F23E871C7E>	
+<http://www.wikidata.org/entity/statement/Q61462-A3EC35C4-1711-49F9-9F41-04F23E871C7E>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/84f00ec55de57aaebfe8ace44ec44f8d393e9e4d>	
+<http://www.wikidata.org/reference/84f00ec55de57aaebfe8ace44ec44f8d393e9e4d>	<http://www.wikidata.org/prop/reference/P958>	"Albinus, Bernhard Siegfried 1697-1770"	
+<http://www.wikidata.org/entity/Q30693>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q30693>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q30693-64B939AB-25B4-4627-8022-C9093CB5DE8B>	
+<http://www.wikidata.org/entity/statement/Q30693-64B939AB-25B4-4627-8022-C9093CB5DE8B>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/dec0db0910b826eef7720eda58e01613ce9bd770>	
+<http://www.wikidata.org/reference/dec0db0910b826eef7720eda58e01613ce9bd770>	<http://www.wikidata.org/prop/reference/P958>	"Clausius, Rudolf 1822-1888"	
+<http://www.wikidata.org/entity/Q44233>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q44233>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q44233-5CA958B7-FAED-434C-A6FD-EF1927D48E6A>	
+<http://www.wikidata.org/entity/statement/Q44233-5CA958B7-FAED-434C-A6FD-EF1927D48E6A>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/778df28c8068ff4c1c090e79615eb326122ff30c>	
+<http://www.wikidata.org/reference/778df28c8068ff4c1c090e79615eb326122ff30c>	<http://www.wikidata.org/prop/reference/P958>	"Hesiodus -700"	
+<http://www.wikidata.org/entity/Q26681>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q26681>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q26681-1A75AD00-C16E-4009-9926-041184F06B9A>	
+<http://www.wikidata.org/entity/statement/Q26681-1A75AD00-C16E-4009-9926-041184F06B9A>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/24fa7e06b3b0a9c7eba180073ad30eed3e558cd3>	
+<http://www.wikidata.org/reference/24fa7e06b3b0a9c7eba180073ad30eed3e558cd3>	<http://www.wikidata.org/prop/reference/P958>	"La Condamine, Charles Marie de 1701-1774"	
+<http://www.wikidata.org/entity/Q60584>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60584>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60584-245BDA68-F3EE-4187-B2DA-B044594D4463>	
+<http://www.wikidata.org/entity/statement/Q60584-245BDA68-F3EE-4187-B2DA-B044594D4463>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/243879f83b30c119dd3677496ead5546ea7e966d>	
+<http://www.wikidata.org/reference/243879f83b30c119dd3677496ead5546ea7e966d>	<http://www.wikidata.org/prop/reference/P958>	"Gellert, Christian Fürchtegott 1715-1769"	
+<http://www.wikidata.org/entity/Q61413>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61413>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61413-C65A922E-70FF-424B-A801-6CC216AE86DE>	
+<http://www.wikidata.org/entity/statement/Q61413-C65A922E-70FF-424B-A801-6CC216AE86DE>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/1ddaf580c0b6c4f104fea9b42891c477747afab4>	
+<http://www.wikidata.org/reference/1ddaf580c0b6c4f104fea9b42891c477747afab4>	<http://www.wikidata.org/prop/reference/P958>	"Meier, Waltraud 1956-"	
+<http://www.wikidata.org/entity/Q61369>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61369>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61369-A8C166AF-C0A3-4F42-A790-9703A9795E81>	
+<http://www.wikidata.org/entity/statement/Q61369-A8C166AF-C0A3-4F42-A790-9703A9795E81>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/7cd3fd7bed6d7f5ae6dc171010141f25732cdd38>	
+<http://www.wikidata.org/reference/7cd3fd7bed6d7f5ae6dc171010141f25732cdd38>	<http://www.wikidata.org/prop/reference/P958>	"Biel, Gabriel -1495"	
+<http://www.wikidata.org/entity/Q61758>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61758>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61758-35440F38-DB4F-4C8A-82B5-9F87B7420393>	
+<http://www.wikidata.org/entity/statement/Q61758-35440F38-DB4F-4C8A-82B5-9F87B7420393>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/476deae71f62827b6903d5340762dbd8733251d5>	
+<http://www.wikidata.org/reference/476deae71f62827b6903d5340762dbd8733251d5>	<http://www.wikidata.org/prop/reference/P958>	"Fuchs, Lazarus 1833-1902"	
+<http://www.wikidata.org/entity/Q5571>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q5571>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q5571-174628FC-7334-4F39-944A-30F540A2A647>	
+<http://www.wikidata.org/entity/statement/Q5571-174628FC-7334-4F39-944A-30F540A2A647>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/0157a57f67836f07c966fe20720f1630d541b8a2>	
+<http://www.wikidata.org/reference/0157a57f67836f07c966fe20720f1630d541b8a2>	<http://www.wikidata.org/prop/reference/P958>	"Andrea del Sarto 1486-1530"	
+<http://www.wikidata.org/entity/Q61774>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61774>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61774-6775D870-EDE5-422C-8354-0CF68BBF6BE6>	
+<http://www.wikidata.org/entity/statement/Q61774-6775D870-EDE5-422C-8354-0CF68BBF6BE6>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/65f789f350d2fbc525af81dd027307b5b6d345af>	
+<http://www.wikidata.org/reference/65f789f350d2fbc525af81dd027307b5b6d345af>	<http://www.wikidata.org/prop/reference/P958>	"Neumann, Franz Ernst 1798-1895"	
+<http://www.wikidata.org/entity/Q60116>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60116>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60116-95B80083-D6DA-48D2-A9CF-C6276617C666>	
+<http://www.wikidata.org/entity/statement/Q60116-95B80083-D6DA-48D2-A9CF-C6276617C666>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/f470cc466f933318911a407f11e77bdba627399a>	
+<http://www.wikidata.org/reference/f470cc466f933318911a407f11e77bdba627399a>	<http://www.wikidata.org/prop/reference/P958>	"Gesner, Konrad 1516-1565"	
+<http://www.wikidata.org/entity/Q61425>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61425>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61425-08886445-655A-45F0-B061-76A24436E034>	
+<http://www.wikidata.org/entity/statement/Q61425-08886445-655A-45F0-B061-76A24436E034>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/5057f063a54f935a707b900523e2476191ef3bec>	
+<http://www.wikidata.org/reference/5057f063a54f935a707b900523e2476191ef3bec>	<http://www.wikidata.org/prop/reference/P958>	"Gregorovius, Ferdinand 1821-1891"	
+<http://www.wikidata.org/entity/Q60808>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60808>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60808-2B1F20D2-93B5-4A03-88F2-BED683B1B46A>	
+<http://www.wikidata.org/entity/statement/Q60808-2B1F20D2-93B5-4A03-88F2-BED683B1B46A>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/d2483dda1bfcf9f8c6843f033ab689fc9d591db5>	
+<http://www.wikidata.org/reference/d2483dda1bfcf9f8c6843f033ab689fc9d591db5>	<http://www.wikidata.org/prop/reference/P958>	"Becher, Johann Joachim 1635-1682"	
+<http://www.wikidata.org/entity/Q61737>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61737>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61737-BACD9B2C-A66B-47F4-96CD-D96DB9FB583D>	
+<http://www.wikidata.org/entity/statement/Q61737-BACD9B2C-A66B-47F4-96CD-D96DB9FB583D>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/ca43623ab16865a7d57c6507095f2aa33c9627aa>	
+<http://www.wikidata.org/reference/ca43623ab16865a7d57c6507095f2aa33c9627aa>	<http://www.wikidata.org/prop/reference/P958>	"Clebsch, Alfred 1833-1872"	
+<http://www.wikidata.org/entity/Q44258>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q44258>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q44258-23A91CF5-A8DB-4C64-9027-0115223FF322>	
+<http://www.wikidata.org/entity/statement/Q44258-23A91CF5-A8DB-4C64-9027-0115223FF322>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/220d4971c0d16e45d2f0d3bfab353b823a2721a1>	
+<http://www.wikidata.org/reference/220d4971c0d16e45d2f0d3bfab353b823a2721a1>	<http://www.wikidata.org/prop/reference/P958>	"Basilius Magnus (santo) 329-379"	
+<http://www.wikidata.org/entity/Q60178>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60178>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60178-189CB27A-9285-4CCE-BAED-1A066C663F44>	
+<http://www.wikidata.org/entity/statement/Q60178-189CB27A-9285-4CCE-BAED-1A066C663F44>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/b48836a3f746521c3d045e8005143902ad220c17>	
+<http://www.wikidata.org/reference/b48836a3f746521c3d045e8005143902ad220c17>	<http://www.wikidata.org/prop/reference/P958>	"Trithemius, Iohannes 1462-1516"	
+<http://www.wikidata.org/entity/Q62300>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q62300>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q62300-F1B0D2BF-06E4-4703-BC3D-0944C0FC4AD5>	
+<http://www.wikidata.org/entity/statement/Q62300-F1B0D2BF-06E4-4703-BC3D-0944C0FC4AD5>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/f5d60fc5da883963f8e39fe05b8f6dc4ec108e71>	
+<http://www.wikidata.org/reference/f5d60fc5da883963f8e39fe05b8f6dc4ec108e71>	<http://www.wikidata.org/prop/reference/P958>	"Esper, Eugen Johann Christoph 1742-1810"	
+<http://www.wikidata.org/entity/Q60095>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60095>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60095-EF0A1C7A-85B0-44C4-84E0-6C5BE1135F81>	
+<http://www.wikidata.org/entity/statement/Q60095-EF0A1C7A-85B0-44C4-84E0-6C5BE1135F81>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/306c3cc9ce0a52b9c93939a6e19b6fa5e4f54280>	
+<http://www.wikidata.org/reference/306c3cc9ce0a52b9c93939a6e19b6fa5e4f54280>	<http://www.wikidata.org/prop/reference/P958>	"Otto von Guericke"	
+<http://www.wikidata.org/entity/Q7302>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q7302>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q7302-50FB19A7-97ED-4AE4-B915-881C8C2F974D>	
+<http://www.wikidata.org/entity/statement/Q7302-50FB19A7-97ED-4AE4-B915-881C8C2F974D>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/eaddeb673d928a44e7bf1b8690058fbf60b394d2>	
+<http://www.wikidata.org/reference/eaddeb673d928a44e7bf1b8690058fbf60b394d2>	<http://www.wikidata.org/prop/reference/P958>	"Händel, Georg Friedrich 1685-1759"	
+<http://www.wikidata.org/entity/Q44011>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q44011>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q44011-DEFE2D01-3187-4F66-9E68-EA6C57B50ED1>	
+<http://www.wikidata.org/entity/statement/Q44011-DEFE2D01-3187-4F66-9E68-EA6C57B50ED1>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/6cee20d75a161a5bb90406502f89f4921194a0db>	
+<http://www.wikidata.org/reference/6cee20d75a161a5bb90406502f89f4921194a0db>	<http://www.wikidata.org/prop/reference/P958>	"Gregorius Nazianzenus (santo) 330-390"	
+<http://www.wikidata.org/entity/Q29193>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q29193>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q29193-6CEFD8F3-9D58-4534-AEC9-A4A485E2B26F>	
+<http://www.wikidata.org/entity/statement/Q29193-6CEFD8F3-9D58-4534-AEC9-A4A485E2B26F>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/5cccbff699ceb32d71017688435a936b41820585>	
+<http://www.wikidata.org/reference/5cccbff699ceb32d71017688435a936b41820585>	<http://www.wikidata.org/prop/reference/P958>	"Lejeune-Dirichlet, Peter Gustav 1805-1859"	
+<http://www.wikidata.org/entity/Q25820>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q25820>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q25820-84F3AAA4-9CEC-4951-96C8-A6AF49EE9BDC>	
+<http://www.wikidata.org/entity/statement/Q25820-84F3AAA4-9CEC-4951-96C8-A6AF49EE9BDC>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/60ef2e4a232cf335634e4147c866740a3aaeb356>	
+<http://www.wikidata.org/reference/60ef2e4a232cf335634e4147c866740a3aaeb356>	<http://www.wikidata.org/prop/reference/P958>	"Young, Thomas 1773-1829"	
+<http://www.wikidata.org/entity/Q47152>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q47152>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q47152-EF2AC443-51F7-4E58-B296-B032F73BEC12>	
+<http://www.wikidata.org/entity/statement/Q47152-EF2AC443-51F7-4E58-B296-B032F73BEC12>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/0d5759d97e5d0f4b9ee8423b6de459cd00269d88>	
+<http://www.wikidata.org/reference/0d5759d97e5d0f4b9ee8423b6de459cd00269d88>	<http://www.wikidata.org/prop/reference/P958>	"Shelley, Mary 1797-1851"	
+<http://www.wikidata.org/entity/Q7170>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q7170>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q7170-E4C754F0-F9B0-4F7B-94C5-596D69BFD90D>	
+<http://www.wikidata.org/entity/statement/Q7170-E4C754F0-F9B0-4F7B-94C5-596D69BFD90D>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/62d1c11469339cbcf5288854229ccb9aeaa2d989>	
+<http://www.wikidata.org/reference/62d1c11469339cbcf5288854229ccb9aeaa2d989>	<http://www.wikidata.org/prop/reference/P958>	"Sallustius Crispus, Gaius -86--34"	
+<http://www.wikidata.org/entity/Q47674>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q47674>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q47674-8331CF62-534A-4FBA-9F95-CAD7DB8DCFCF>	
+<http://www.wikidata.org/entity/statement/Q47674-8331CF62-534A-4FBA-9F95-CAD7DB8DCFCF>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/c14079097b109f9a6f7e9f1ebdffc045cb36a5f9>	
+<http://www.wikidata.org/reference/c14079097b109f9a6f7e9f1ebdffc045cb36a5f9>	<http://www.wikidata.org/prop/reference/P958>	"Vespucci, Amerigo 1454-1512"	
+<http://www.wikidata.org/entity/Q48173>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q48173>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q48173-61EF9DE4-B18B-4341-BEF9-6F4CA26C671B>	
+<http://www.wikidata.org/entity/statement/Q48173-61EF9DE4-B18B-4341-BEF9-6F4CA26C671B>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/7d1ab23385d7de4b31e6d454e9bbb5af32e20058>	
+<http://www.wikidata.org/reference/7d1ab23385d7de4b31e6d454e9bbb5af32e20058>	<http://www.wikidata.org/prop/reference/P958>	"Smetana, Bedřich 1824-1884"	
+<http://www.wikidata.org/entity/Q27684>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q27684>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q27684-0D28AA88-9DB7-4481-B528-849C9942CD93>	
+<http://www.wikidata.org/entity/statement/Q27684-0D28AA88-9DB7-4481-B528-849C9942CD93>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/a67d417b63a4bd170d20bc7b4c43347dfd362b42>	
+<http://www.wikidata.org/reference/a67d417b63a4bd170d20bc7b4c43347dfd362b42>	<http://www.wikidata.org/prop/reference/P958>	"Forsskal, Pehr 1732-1763"	
+<http://www.wikidata.org/entity/Q61439>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61439>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61439-2B48C71F-DFCD-411D-9C11-D0D1483EA1D0>	
+<http://www.wikidata.org/entity/statement/Q61439-2B48C71F-DFCD-411D-9C11-D0D1483EA1D0>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/dee9ee3105f0cc7c909c651ed2a972e84f2a7793>	
+<http://www.wikidata.org/reference/dee9ee3105f0cc7c909c651ed2a972e84f2a7793>	<http://www.wikidata.org/prop/reference/P958>	"Rumpf, George Eberhard 1627-1702"	
+<http://www.wikidata.org/entity/Q61410>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61410>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61410-7F36F930-0408-4218-8D7F-19B2277736F9>	
+<http://www.wikidata.org/entity/statement/Q61410-7F36F930-0408-4218-8D7F-19B2277736F9>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/a7334f3d9b63f77f91b319ab4beecdb21131ad96>	
+<http://www.wikidata.org/reference/a7334f3d9b63f77f91b319ab4beecdb21131ad96>	<http://www.wikidata.org/prop/reference/P958>	"Moll, Kurt 1938-"	
+<http://www.wikidata.org/entity/Q60095>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60095-17C038F0-DA5B-4BF3-BB54-64BBA88AD9F9>	
+<http://www.wikidata.org/entity/statement/Q60095-17C038F0-DA5B-4BF3-BB54-64BBA88AD9F9>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/37a0b021b0e589c2ccfeda87705f457e79bbbd96>	
+<http://www.wikidata.org/reference/37a0b021b0e589c2ccfeda87705f457e79bbbd96>	<http://www.wikidata.org/prop/reference/P958>	"Guericke, Otto von 1602-1686"	
+<http://www.wikidata.org/entity/Q7199>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q7199>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q7199-9FBA16A4-E2DD-4FEB-91B5-B104C22EBB86>	
+<http://www.wikidata.org/entity/statement/Q7199-9FBA16A4-E2DD-4FEB-91B5-B104C22EBB86>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/5c037a6e9e9fc797e3c9588bade366096f9fa326>	
+<http://www.wikidata.org/reference/5c037a6e9e9fc797e3c9588bade366096f9fa326>	<http://www.wikidata.org/prop/reference/P958>	"Proust, Marcel 1871-1922"	
+<http://www.wikidata.org/entity/Q44248>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q44248>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q44248-DD26093A-3DB8-45D0-9DED-8D1594714925>	
+<http://www.wikidata.org/entity/statement/Q44248-DD26093A-3DB8-45D0-9DED-8D1594714925>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/9a4f8f9c11bb62c2c9f86ffea9aa087cdac919ab>	
+<http://www.wikidata.org/reference/9a4f8f9c11bb62c2c9f86ffea9aa087cdac919ab>	<http://www.wikidata.org/prop/reference/P958>	"Hieronymus (santo) 345-420"	
+<http://www.wikidata.org/entity/Q44481>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q44481>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q44481-1759328F-E5C3-47D3-A45E-DC2C40ED59B0>	
+<http://www.wikidata.org/entity/statement/Q44481-1759328F-E5C3-47D3-A45E-DC2C40ED59B0>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/b3d08149b1f8567d5fbac952137306746ac08364>	
+<http://www.wikidata.org/reference/b3d08149b1f8567d5fbac952137306746ac08364>	<http://www.wikidata.org/prop/reference/P958>	"Laplace, Pierre Simon de 1749-1827"	
+<http://www.wikidata.org/entity/Q60469>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60469>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60469-BDC99B9C-8C8E-489F-ABFB-CE83D79742A8>	
+<http://www.wikidata.org/entity/statement/Q60469-BDC99B9C-8C8E-489F-ABFB-CE83D79742A8>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/185dc126312a2e6dd02ccf13ac0e1deef560f44b>	
+<http://www.wikidata.org/reference/185dc126312a2e6dd02ccf13ac0e1deef560f44b>	<http://www.wikidata.org/prop/reference/P958>	"Silesius, Angelus 1624-1677"	
+<http://www.wikidata.org/entity/Q44412>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q44412>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q44412-9AAA24DC-728F-4A6B-9F40-D73041725849>	
+<http://www.wikidata.org/entity/statement/Q44412-9AAA24DC-728F-4A6B-9F40-D73041725849>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/dc6c6281a79bb027a0b9b492a067447baa8dddf0>	
+<http://www.wikidata.org/reference/dc6c6281a79bb027a0b9b492a067447baa8dddf0>	<http://www.wikidata.org/prop/reference/P958>	"Ørsted, Hans Christian 1777-1851"	
+<http://www.wikidata.org/entity/Q61987>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61987>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61987-D9AC5A30-D229-481D-9AC3-44E91E8FD1CD>	
+<http://www.wikidata.org/entity/statement/Q61987-D9AC5A30-D229-481D-9AC3-44E91E8FD1CD>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/a30708a40791887fb9ba44c6fd5a63256250a83c>	
+<http://www.wikidata.org/reference/a30708a40791887fb9ba44c6fd5a63256250a83c>	<http://www.wikidata.org/prop/reference/P958>	"Carus, Carl Gustav 1789-1869"	
+<http://www.wikidata.org/entity/Q48184>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q48184>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q48184-D678AFD4-E106-4A8E-8F60-65F72619F623>	
+<http://www.wikidata.org/entity/statement/Q48184-D678AFD4-E106-4A8E-8F60-65F72619F623>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/2f794e3ea3b054117b27171df2f4585c8c992d18>	
+<http://www.wikidata.org/reference/2f794e3ea3b054117b27171df2f4585c8c992d18>	<http://www.wikidata.org/prop/reference/P958>	"Kurtág, György 1926-"	
+<http://www.wikidata.org/entity/Q44079>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q44079>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q44079-3D1C0BC6-BE36-4AA9-BAE3-FF0B61B1557A>	
+<http://www.wikidata.org/entity/statement/Q44079-3D1C0BC6-BE36-4AA9-BAE3-FF0B61B1557A>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/0dc68cdea3c838f91041c68f867eaf7185a7bc01>	
+<http://www.wikidata.org/reference/0dc68cdea3c838f91041c68f867eaf7185a7bc01>	<http://www.wikidata.org/prop/reference/P958>	"Cyrillus Alexandrinus (santo) 370-444"	
+<http://www.wikidata.org/entity/Q7103>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q7103>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q7103-F6C5F1B5-C45B-424D-ABC6-740BA3C57BEC>	
+<http://www.wikidata.org/entity/statement/Q7103-F6C5F1B5-C45B-424D-ABC6-740BA3C57BEC>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/9e9dc0c1c3029b715dd835d99826b456a7be93a0>	
+<http://www.wikidata.org/reference/9e9dc0c1c3029b715dd835d99826b456a7be93a0>	<http://www.wikidata.org/prop/reference/P958>	"Germain, Sophie 1776-1831"	
+<http://www.wikidata.org/entity/Q60351>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60351>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60351-6790EE57-58D8-4E9C-9434-D24CDFFFAABD>	
+<http://www.wikidata.org/entity/statement/Q60351-6790EE57-58D8-4E9C-9434-D24CDFFFAABD>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/b32fcbfdd67d8dc826501a384b6f7360c4edf742>	
+<http://www.wikidata.org/reference/b32fcbfdd67d8dc826501a384b6f7360c4edf742>	<http://www.wikidata.org/prop/reference/P958>	"Brant, Sebastian 1457-1521"	
+<http://www.wikidata.org/entity/Q296>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q296>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q296-F1489F0D-18B5-4D3C-A008-B93993C14F81>	
+<http://www.wikidata.org/entity/statement/Q296-F1489F0D-18B5-4D3C-A008-B93993C14F81>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/0fa7e14e73dba244e76532fd82681b4d50cf86b3>	
+<http://www.wikidata.org/reference/0fa7e14e73dba244e76532fd82681b4d50cf86b3>	<http://www.wikidata.org/prop/reference/P958>	"Monet, Claude 1840-1926"	
+<http://www.wikidata.org/entity/Q29473>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q29473>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q29473-BF500AE8-00C1-4FBB-9672-F2323BACE56C>	
+<http://www.wikidata.org/entity/statement/Q29473-BF500AE8-00C1-4FBB-9672-F2323BACE56C>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/0cd7c8d77e82814483dd6d88c656b0c0a9f1d95f>	
+<http://www.wikidata.org/reference/0cd7c8d77e82814483dd6d88c656b0c0a9f1d95f>	<http://www.wikidata.org/prop/reference/P958>	"Metastasio, Pietro 1698-1782"	
+<http://www.wikidata.org/entity/Q7085>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q7085>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q7085-3264A2B0-BB0E-4E16-BDC1-E8ADC7460DF0>	
+<http://www.wikidata.org/entity/statement/Q7085-3264A2B0-BB0E-4E16-BDC1-E8ADC7460DF0>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/9d0b9c9a2259a67aa078ef9ab8c7dfda1d0d00cd>	
+<http://www.wikidata.org/reference/9d0b9c9a2259a67aa078ef9ab8c7dfda1d0d00cd>	<http://www.wikidata.org/prop/reference/P958>	"Bohr, Niels 1885-1962"	
+<http://www.wikidata.org/entity/Q47163>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q47163>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q47163-9CC2354B-BBBB-480E-A78B-68DDF5AC1CF0>	
+<http://www.wikidata.org/entity/statement/Q47163-9CC2354B-BBBB-480E-A78B-68DDF5AC1CF0>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/458b384f9af6ea9dedf5380ffacd6f2de0016328>	
+<http://www.wikidata.org/reference/458b384f9af6ea9dedf5380ffacd6f2de0016328>	<http://www.wikidata.org/prop/reference/P958>	"Vitruvius Pollio -99-0"	
+<http://www.wikidata.org/entity/Q27032>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q27032>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q27032-3AF86243-B049-417C-96FD-983ACF2F1D1F>	
+<http://www.wikidata.org/entity/statement/Q27032-3AF86243-B049-417C-96FD-983ACF2F1D1F>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/2b1b58ab146e8d60c4839f2e7b72be12ae8f5e4c>	
+<http://www.wikidata.org/reference/2b1b58ab146e8d60c4839f2e7b72be12ae8f5e4c>	<http://www.wikidata.org/prop/reference/P958>	"Dulac, Edmund 1882-1953"	
+<http://www.wikidata.org/entity/Q62108>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q62108>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q62108-96565C09-8246-43EB-92EE-3468F43D1BA7>	
+<http://www.wikidata.org/entity/statement/Q62108-96565C09-8246-43EB-92EE-3468F43D1BA7>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/2c35f0d2b2fcdd663ddc3319f4c3e0e32945143c>	
+<http://www.wikidata.org/reference/2c35f0d2b2fcdd663ddc3319f4c3e0e32945143c>	<http://www.wikidata.org/prop/reference/P958>	"Wiedemann, Gustav Heinrich 1826-1899"	
+<http://www.wikidata.org/entity/Q61894>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61894>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61894-E07A9EA5-F16A-4608-8970-5F9DE42A3933>	
+<http://www.wikidata.org/entity/statement/Q61894-E07A9EA5-F16A-4608-8970-5F9DE42A3933>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/854fd36ba9037d4398b2e18b8e3e1ba9b85615ba>	
+<http://www.wikidata.org/reference/854fd36ba9037d4398b2e18b8e3e1ba9b85615ba>	<http://www.wikidata.org/prop/reference/P958>	"Fabricius, Johann Albert 1668-1736"	
+<http://www.wikidata.org/entity/Q24766>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q24766>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q24766-880DD5F5-4E80-46F0-B3BF-5C76E9892961>	
+<http://www.wikidata.org/entity/statement/Q24766-880DD5F5-4E80-46F0-B3BF-5C76E9892961>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/97de6dfd6cab6e69b6100867703688fde2e8cf5f>	
+<http://www.wikidata.org/reference/97de6dfd6cab6e69b6100867703688fde2e8cf5f>	<http://www.wikidata.org/prop/reference/P958>	"Mandeville, John (sir) -1372"	
+<http://www.wikidata.org/entity/Q60662>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60662>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60662-3F79C0AC-7508-4B27-93FD-0AE8E6B35762>	
+<http://www.wikidata.org/entity/statement/Q60662-3F79C0AC-7508-4B27-93FD-0AE8E6B35762>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/067e8c01a70efcdfe983437293d9bcb0c35f925d>	
+<http://www.wikidata.org/reference/067e8c01a70efcdfe983437293d9bcb0c35f925d>	<http://www.wikidata.org/prop/reference/P958>	"Zach, Franz Xaver von 1754-1832"	
+<http://www.wikidata.org/entity/Q28937>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q28937>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q28937-61507A63-945C-4C6A-AD8C-8481284529E5>	
+<http://www.wikidata.org/entity/statement/Q28937-61507A63-945C-4C6A-AD8C-8481284529E5>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/e84a321ae84762228f1e50f96cd2cdf8d1d54f9d>	
+<http://www.wikidata.org/reference/e84a321ae84762228f1e50f96cd2cdf8d1d54f9d>	<http://www.wikidata.org/prop/reference/P958>	"Clairaut, Alexis Claude 1713-1765"	
+<http://www.wikidata.org/entity/Q47285>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q47285>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q47285-7817E096-A39B-4430-B242-34838F7F989D>	
+<http://www.wikidata.org/entity/statement/Q47285-7817E096-A39B-4430-B242-34838F7F989D>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/5bb9929c86c6a7bd526dac313f8f1626381b45d8>	
+<http://www.wikidata.org/reference/5bb9929c86c6a7bd526dac313f8f1626381b45d8>	<http://www.wikidata.org/prop/reference/P958>	"Thomson, Joseph John 1856-1940"	
+<http://www.wikidata.org/entity/Q254>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q254>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q254-7DBAE19C-F058-4799-B81A-D2BB3299FAAA>	
+<http://www.wikidata.org/entity/statement/Q254-7DBAE19C-F058-4799-B81A-D2BB3299FAAA>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/456db34178a67c770546f81a5cff2258e8b83622>	
+<http://www.wikidata.org/reference/456db34178a67c770546f81a5cff2258e8b83622>	<http://www.wikidata.org/prop/reference/P958>	"Mozart, Wolfgang Amadeus 1756-1791"	
+<http://www.wikidata.org/entity/Q255>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q255>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q255-C2220A9E-BBCB-4AFC-84A1-81241190585F>	
+<http://www.wikidata.org/entity/statement/Q255-C2220A9E-BBCB-4AFC-84A1-81241190585F>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/6f5e2501c31b1c76d17527f97cbbafaca4ac7909>	
+<http://www.wikidata.org/reference/6f5e2501c31b1c76d17527f97cbbafaca4ac7909>	<http://www.wikidata.org/prop/reference/P958>	"Beethoven, Ludwig van 1770-1827"	
+<http://www.wikidata.org/entity/Q7129>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q7129>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q7129-BC4699EB-9038-4583-A5F0-789579702805>	
+<http://www.wikidata.org/entity/statement/Q7129-BC4699EB-9038-4583-A5F0-789579702805>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/3479799c70d1c068f851219ef29aee03e98dc160>	
+<http://www.wikidata.org/reference/3479799c70d1c068f851219ef29aee03e98dc160>	<http://www.wikidata.org/prop/reference/P958>	"Tura, Cosmè 1433-1495"	
+<http://www.wikidata.org/entity/Q47154>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q47154>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q47154-8DBFD961-CE19-49BE-AB28-6A76B086BF42>	
+<http://www.wikidata.org/entity/statement/Q47154-8DBFD961-CE19-49BE-AB28-6A76B086BF42>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/0390ed58394e9ca99553fdba7ec1b1652c72d400>	
+<http://www.wikidata.org/reference/0390ed58394e9ca99553fdba7ec1b1652c72d400>	<http://www.wikidata.org/prop/reference/P958>	"Lucretius Carus, Titus -95--55"	
+<http://www.wikidata.org/entity/Q61297>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61297>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61297-37F88447-95E7-43D0-A2EC-1109BCBA6EE7>	
+<http://www.wikidata.org/entity/statement/Q61297-37F88447-95E7-43D0-A2EC-1109BCBA6EE7>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/801088c4fc7c2a29f3545ef11c3302d91a1a3be8>	
+<http://www.wikidata.org/reference/801088c4fc7c2a29f3545ef11c3302d91a1a3be8>	<http://www.wikidata.org/prop/reference/P958>	"Camerarius, Rudolf Jakob 1665-1721"	
+<http://www.wikidata.org/entity/Q5594>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q5594>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q5594-2DA0D336-EAF4-441B-849B-51D1C3088928>	
+<http://www.wikidata.org/entity/statement/Q5594-2DA0D336-EAF4-441B-849B-51D1C3088928>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/8d261fc41309c95399e307c09dad91e07d5321c8>	
+<http://www.wikidata.org/reference/8d261fc41309c95399e307c09dad91e07d5321c8>	<http://www.wikidata.org/prop/reference/P958>	"Antonello da Messina 1430-1479"	
+<http://www.wikidata.org/entity/Q61813>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q61813>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q61813-609ED4AA-9923-47CA-8909-27019C2A6020>	
+<http://www.wikidata.org/entity/statement/Q61813-609ED4AA-9923-47CA-8909-27019C2A6020>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/a1361c09844a80fd22049c73d3897883e7921685>	
+<http://www.wikidata.org/reference/a1361c09844a80fd22049c73d3897883e7921685>	<http://www.wikidata.org/prop/reference/P958>	"Kästner, Abraham Gotthelf 1719-1800"	
+<http://www.wikidata.org/entity/Q44086>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q44086>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q44086-BEA5C75E-6A08-4220-B46B-81F44AB41F1D>	
+<http://www.wikidata.org/entity/statement/Q44086-BEA5C75E-6A08-4220-B46B-81F44AB41F1D>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/c4559a5663ed77dd07029a1d396c862f5375d138>	
+<http://www.wikidata.org/reference/c4559a5663ed77dd07029a1d396c862f5375d138>	<http://www.wikidata.org/prop/reference/P958>	"Orff, Carl 1895-1982"	
+<http://www.wikidata.org/entity/Q44403>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q44403>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q44403-7E7677BF-353A-44A2-89BD-CC727B3B347A>	
+<http://www.wikidata.org/entity/statement/Q44403-7E7677BF-353A-44A2-89BD-CC727B3B347A>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/7fec0752b16ac45ddf5c4b793366b0cf6d96322b>	
+<http://www.wikidata.org/reference/7fec0752b16ac45ddf5c4b793366b0cf6d96322b>	<http://www.wikidata.org/prop/reference/P958>	"Heine, Heinrich 1797-1856"	
+<http://www.wikidata.org/entity/Q7198>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q7198>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q7198-7DC19F70-BDA0-4703-B862-09AF3043F78E>	
+<http://www.wikidata.org/entity/statement/Q7198-7DC19F70-BDA0-4703-B862-09AF3043F78E>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/dced471ac1b1b380e3041fe4084002b36484ee56>	
+<http://www.wikidata.org/reference/dced471ac1b1b380e3041fe4084002b36484ee56>	<http://www.wikidata.org/prop/reference/P958>	"Ovidius Naso, Publius -43-17"	
+<http://www.wikidata.org/entity/Q60756>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60756>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60756-E26CF8F8-3022-4354-B6AF-E37B909F4AF4>	
+<http://www.wikidata.org/entity/statement/Q60756-E26CF8F8-3022-4354-B6AF-E37B909F4AF4>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/eff7afcb48adb6f7d7c1a17093d44d277ea3e381>	
+<http://www.wikidata.org/reference/eff7afcb48adb6f7d7c1a17093d44d277ea3e381>	<http://www.wikidata.org/prop/reference/P958>	"Fuchs, Leonhart 1501-1566"	
+<http://www.wikidata.org/entity/Q25320>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q25320>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q25320-FF7F5848-30FC-4C2A-81C2-A71483DAA04A>	
+<http://www.wikidata.org/entity/statement/Q25320-FF7F5848-30FC-4C2A-81C2-A71483DAA04A>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/716739342855c77a2cbda6f1fb932d7e76ee591b>	
+<http://www.wikidata.org/reference/716739342855c77a2cbda6f1fb932d7e76ee591b>	<http://www.wikidata.org/prop/reference/P958>	"Langevin, Paul 1872-1946"	
+<http://www.wikidata.org/entity/Q62124>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q62124>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q62124-2A949F2C-9113-4615-82B0-F37C55948B2E>	
+<http://www.wikidata.org/entity/statement/Q62124-2A949F2C-9113-4615-82B0-F37C55948B2E>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/d9236dc8ee6333d8521599709f1390ba8142a231>	
+<http://www.wikidata.org/reference/d9236dc8ee6333d8521599709f1390ba8142a231>	<http://www.wikidata.org/prop/reference/P958>	"Schneider, Johann Gottlob 1750-1822"	
+<http://www.wikidata.org/entity/Q47551>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q47551>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q47551-BC868354-62E5-43ED-8B01-D05709AAFB05>	
+<http://www.wikidata.org/entity/statement/Q47551-BC868354-62E5-43ED-8B01-D05709AAFB05>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/12de77f4dcd2302016e3fb6596dcd32d65d5fb8f>	
+<http://www.wikidata.org/reference/12de77f4dcd2302016e3fb6596dcd32d65d5fb8f>	<http://www.wikidata.org/prop/reference/P958>	"Vecellio, Tiziano 1488-1576"	
+<http://www.wikidata.org/entity/Q24166>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q24166>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q24166-CB1168C2-619A-4E8A-95ED-6EBB01164830>	
+<http://www.wikidata.org/entity/statement/Q24166-CB1168C2-619A-4E8A-95ED-6EBB01164830>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/90329cb9b33bf5d362a72e920d8f691d70cec27a>	
+<http://www.wikidata.org/reference/90329cb9b33bf5d362a72e920d8f691d70cec27a>	<http://www.wikidata.org/prop/reference/P958>	"Borodina, Olga 1963-"	
+<http://www.wikidata.org/entity/Q60059>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q60059>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q60059-E3528547-FC5D-444A-B462-7832C190EC40>	
+<http://www.wikidata.org/entity/statement/Q60059-E3528547-FC5D-444A-B462-7832C190EC40>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/6934f9ddc2fe2210242ab922c110207a4703e2d9>	
+<http://www.wikidata.org/reference/6934f9ddc2fe2210242ab922c110207a4703e2d9>	<http://www.wikidata.org/prop/reference/P958>	"Albertus Magnus (santo) 1206-1280"	
+<http://www.wikidata.org/entity/Q297>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q297>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q297-06C18ECA-439D-4569-8F02-DC0CAE139970>	
+<http://www.wikidata.org/entity/statement/Q297-06C18ECA-439D-4569-8F02-DC0CAE139970>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/eb9c4078a6c68dda4c341f1b4ec105c0b206d587>	
+<http://www.wikidata.org/reference/eb9c4078a6c68dda4c341f1b4ec105c0b206d587>	<http://www.wikidata.org/prop/reference/P958>	"Velázquez, Diego Rodríguez de Silva y 1599-1660"	
+<http://www.wikidata.org/entity/Q47484>	<http://www.wikidata.org/prop/direct/P1343>	<http://www.wikidata.org/entity/Q51955019>	
+<http://www.wikidata.org/entity/Q47484>	<http://www.wikidata.org/prop/P1343>	<http://www.wikidata.org/entity/statement/Q47484-53A96BD7-BA04-4965-8724-1120DAE74636>	
+<http://www.wikidata.org/entity/statement/Q47484-53A96BD7-BA04-4965-8724-1120DAE74636>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://www.wikidata.org/reference/7d50cb429a784db89b66e0d04cd43e9333514933>	
+<http://www.wikidata.org/reference/7d50cb429a784db89b66e0d04cd43e9333514933>	<http://www.wikidata.org/prop/reference/P958>	"Gide, André 1869-1951"	

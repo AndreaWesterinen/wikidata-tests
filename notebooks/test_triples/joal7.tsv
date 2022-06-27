@@ -1,0 +1,22 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q3294127>	<http://www.wikidata.org/prop/direct/P27>	<http://www.wikidata.org/entity/Q750>	
+<http://www.wikidata.org/entity/Q3294127>	<http://www.w3.org/2000/01/rdf-schema#label>	"José Miguel García Lanza"@en	
+<http://www.wikidata.org/entity/Q3294127>	<http://schema.org/description>	"Bolivian independence Hero"@en	
+<http://www.wikidata.org/entity/Q3294127>	<http://www.wikidata.org/prop/direct/P734>	<http://www.wikidata.org/entity/Q41586808>	
+<http://www.wikidata.org/entity/Q41586808>	<http://www.w3.org/2000/01/rdf-schema#label>	"Lanza"@en	
+<http://www.wikidata.org/entity/Q3294127>	<http://www.wikidata.org/prop/direct/P735>	<http://www.wikidata.org/entity/Q29043257>	
+<http://www.wikidata.org/entity/Q29043257>	<http://www.w3.org/2000/01/rdf-schema#label>	"José"@en	
+<http://www.wikidata.org/entity/Q750>	<http://www.w3.org/2000/01/rdf-schema#label>	"Bolivia"@en	
+<https://pt.wikipedia.org/wiki/Jos%C3%A9_Miguel_Lanza>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q3294127>	
+<https://pt.wikipedia.org/wiki/Jos%C3%A9_Miguel_Lanza>	<http://schema.org/inLanguage>	"pt"	
+<https://pt.wikipedia.org/wiki/Jos%C3%A9_Miguel_Lanza>	<http://schema.org/isPartOf>	<https://pt.wikipedia.org/>	
+<http://www.wikidata.org/entity/Q3294127>	<http://www.wikidata.org/prop/direct/P27>	<http://www.wikidata.org/entity/Q414>	
+<http://www.wikidata.org/entity/Q414>	<http://www.w3.org/2000/01/rdf-schema#label>	"Argentina"@en	
+<http://www.wikidata.org/entity/Q1898893>	<http://www.wikidata.org/prop/direct/P27>	<http://www.wikidata.org/entity/Q414>	
+<http://www.wikidata.org/entity/Q1898893>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mario Luis Bautista Maulión"@en	
+<http://www.wikidata.org/entity/Q1898893>	<http://schema.org/description>	"Argentinian priest (1934-2020)"@en	
+<http://www.wikidata.org/entity/Q1898893>	<http://www.wikidata.org/prop/direct/P735>	<http://www.wikidata.org/entity/Q3362622>	
+<http://www.wikidata.org/entity/Q3362622>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mario"@en	
+<https://pt.wikipedia.org/wiki/Mario_Luis_Bautista_Mauli%C3%B3n>	<http://schema.org/about>	<http://www.wikidata.org/entity/Q1898893>	
+<https://pt.wikipedia.org/wiki/Mario_Luis_Bautista_Mauli%C3%B3n>	<http://schema.org/inLanguage>	"pt"	
+<https://pt.wikipedia.org/wiki/Mario_Luis_Bautista_Mauli%C3%B3n>	<http://schema.org/isPartOf>	<https://pt.wikipedia.org/>	

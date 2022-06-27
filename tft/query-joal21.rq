@@ -1,4 +1,4 @@
 SELECT ?wt
 WHERE {
-    wd:Q1348015 wdt:P2949 ?wt
+    wd:Q297 wdt:P2949 ?wt
 }

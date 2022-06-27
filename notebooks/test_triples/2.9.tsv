@@ -1,0 +1,502 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q1606898>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1606898>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1606898>	<http://wikiba.se/ontology#sitelinks>	31	
+<http://www.wikidata.org/entity/Q11299>	<http://www.wikidata.org/prop/direct/P131>	<http://www.wikidata.org/entity/Q60>	
+<http://www.wikidata.org/entity/Q1606898>	<http://www.w3.org/2000/01/rdf-schema#label>	"Todd Graff"@en	
+<http://www.wikidata.org/entity/Q1606898>	<http://schema.org/description>	"American actor, writer and director"@en	
+<http://www.wikidata.org/entity/Q10953>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q10953>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q10953>	<http://wikiba.se/ontology#sitelinks>	15	
+<http://www.wikidata.org/entity/Q10953>	<http://www.w3.org/2000/01/rdf-schema#label>	"Henriette Avram"@en	
+<http://www.wikidata.org/entity/Q10953>	<http://schema.org/description>	"American computer programmer and system analyst (1919-2006)"@en	
+<http://www.wikidata.org/entity/Q316997>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q316997>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q316997>	<http://wikiba.se/ontology#sitelinks>	37	
+<http://www.wikidata.org/entity/Q316997>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anderson Cooper"@en	
+<http://www.wikidata.org/entity/Q316997>	<http://schema.org/description>	"American journalist, television presenter and author"@en	
+<http://www.wikidata.org/entity/Q3101544>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3101544>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3101544>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q3101544>	<http://www.w3.org/2000/01/rdf-schema#label>	"George E. Diskant"@en	
+<http://www.wikidata.org/entity/Q3101544>	<http://schema.org/description>	"American cinematographer"@en	
+<http://www.wikidata.org/entity/Q625655>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q625655>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q625655>	<http://wikiba.se/ontology#sitelinks>	7	
+<http://www.wikidata.org/entity/Q625655>	<http://www.w3.org/2000/01/rdf-schema#label>	"Aram Avakian"@en	
+<http://www.wikidata.org/entity/Q625655>	<http://schema.org/description>	"American film director, screenwriter and film editor"@en	
+<http://www.wikidata.org/entity/Q2846370>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2846370>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2846370>	<http://wikiba.se/ontology#sitelinks>	9	
+<http://www.wikidata.org/entity/Q2846370>	<http://www.w3.org/2000/01/rdf-schema#label>	"Andrea Marcovicci"@en	
+<http://www.wikidata.org/entity/Q2846370>	<http://schema.org/description>	"American actress and singer"@en	
+<http://www.wikidata.org/entity/Q1387412>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1387412>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1387412>	<http://wikiba.se/ontology#sitelinks>	12	
+<http://www.wikidata.org/entity/Q1387412>	<http://www.w3.org/2000/01/rdf-schema#label>	"James Toback"@en	
+<http://www.wikidata.org/entity/Q1387412>	<http://schema.org/description>	"American screenwriter and film director"@en	
+<http://www.wikidata.org/entity/Q323445>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q323445>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q323445>	<http://wikiba.se/ontology#sitelinks>	8	
+<http://www.wikidata.org/entity/Q323445>	<http://www.w3.org/2000/01/rdf-schema#label>	"Harold Hecht"@en	
+<http://www.wikidata.org/entity/Q323445>	<http://schema.org/description>	"American producer, choreographer and talent agent"@en	
+<http://www.wikidata.org/entity/Q1443080>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1443080>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1443080>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q1443080>	<http://www.w3.org/2000/01/rdf-schema#label>	"Frank Cioffi"@en	
+<http://www.wikidata.org/entity/Q1443080>	<http://schema.org/description>	"American-British philosopher"@en	
+<http://www.wikidata.org/entity/Q311976>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q311976>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q311976>	<http://wikiba.se/ontology#sitelinks>	48	
+<http://www.wikidata.org/entity/Q311976>	<http://www.w3.org/2000/01/rdf-schema#label>	"Wayne Knight"@en	
+<http://www.wikidata.org/entity/Q311976>	<http://schema.org/description>	"American actor"@en	
+<http://www.wikidata.org/entity/Q652066>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q652066>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q652066>	<http://wikiba.se/ontology#sitelinks>	29	
+<http://www.wikidata.org/entity/Q652066>	<http://www.w3.org/2000/01/rdf-schema#label>	"Sheldon Whitehouse"@en	
+<http://www.wikidata.org/entity/Q652066>	<http://schema.org/description>	"United States Senator from Rhode Island"@en	
+<http://www.wikidata.org/entity/Q2965618>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2965618>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2965618>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q2965618>	<http://www.w3.org/2000/01/rdf-schema#label>	"Christian Santiago"@en	
+<http://www.wikidata.org/entity/Q2965618>	<http://schema.org/description>	"American cinematographer, film editor and film producer"@en	
+<http://www.wikidata.org/entity/Q3395481>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3395481>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3395481>	<http://wikiba.se/ontology#sitelinks>	7	
+<http://www.wikidata.org/entity/Q3395481>	<http://www.w3.org/2000/01/rdf-schema#label>	"Karen Briggs"@en	
+<http://www.wikidata.org/entity/Q3395481>	<http://schema.org/description>	"American violinist"@en	
+<http://www.wikidata.org/entity/Q3185149>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3185149>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3185149>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q3185149>	<http://www.w3.org/2000/01/rdf-schema#label>	"Joe Judge"@en	
+<http://www.wikidata.org/entity/Q3185149>	<http://schema.org/description>	"American baseball player and coach"@en	
+<http://www.wikidata.org/entity/Q594751>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q594751>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q594751>	<http://wikiba.se/ontology#sitelinks>	11	
+<http://www.wikidata.org/entity/Q594751>	<http://www.w3.org/2000/01/rdf-schema#label>	"Maynard Solomon"@en	
+<http://www.wikidata.org/entity/Q594751>	<http://schema.org/description>	"co-founder of Vanguard Records, music producer, and writer on music (1930-2020)"@en	
+<http://www.wikidata.org/entity/Q3097958>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3097958>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3097958>	<http://wikiba.se/ontology#sitelinks>	8	
+<http://www.wikidata.org/entity/Q3097958>	<http://www.w3.org/2000/01/rdf-schema#label>	"Janet Lee Bouvier"@en	
+<http://www.wikidata.org/entity/Q3097958>	<http://schema.org/description>	"American socialite (1907-1989)"@en	
+<http://www.wikidata.org/entity/Q3434674>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3434674>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3434674>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q3434674>	<http://www.w3.org/2000/01/rdf-schema#label>	"Robert Buettner"@en	
+<http://www.wikidata.org/entity/Q3434674>	<http://schema.org/description>	"American writer"@en	
+<http://www.wikidata.org/entity/Q2852834>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2852834>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2852834>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q2852834>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anthony Clark"@en	
+<http://www.wikidata.org/entity/Q2852834>	<http://schema.org/description>	"American graffiti artist (1964-2001)"@en	
+<http://www.wikidata.org/entity/Q555182>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q555182>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q555182>	<http://wikiba.se/ontology#sitelinks>	23	
+<http://www.wikidata.org/entity/Q555182>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jack Gilford"@en	
+<http://www.wikidata.org/entity/Q555182>	<http://schema.org/description>	"American actor, comedian"@en	
+<http://www.wikidata.org/entity/Q598320>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q598320>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q598320>	<http://wikiba.se/ontology#sitelinks>	7	
+<http://www.wikidata.org/entity/Q598320>	<http://www.w3.org/2000/01/rdf-schema#label>	"Alan Hewitt"@en	
+<http://www.wikidata.org/entity/Q598320>	<http://schema.org/description>	"American film, television and stage actor (1915-1986)"@en	
+<http://www.wikidata.org/entity/Q562093>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q562093>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q562093>	<http://wikiba.se/ontology#sitelinks>	22	
+<http://www.wikidata.org/entity/Q562093>	<http://www.w3.org/2000/01/rdf-schema#label>	"Guy Williams"@en	
+<http://www.wikidata.org/entity/Q562093>	<http://schema.org/description>	"American actor (1924-1989)"@en	
+<http://www.wikidata.org/entity/Q612861>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q612861>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q612861>	<http://wikiba.se/ontology#sitelinks>	14	
+<http://www.wikidata.org/entity/Q612861>	<http://www.w3.org/2000/01/rdf-schema#label>	"Lawrence Feuerbach"@en	
+<http://www.wikidata.org/entity/Q612861>	<http://schema.org/description>	"American shot putter (1879-1911)"@en	
+<http://www.wikidata.org/entity/Q3018584>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3018584>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3018584>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q3018584>	<http://www.w3.org/2000/01/rdf-schema#label>	"Chris Orbach"@en	
+<http://www.wikidata.org/entity/Q3018584>	<http://schema.org/description>	"American actor"@en	
+<http://www.wikidata.org/entity/Q573507>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q573507>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q573507>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q573507>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anthony L. Turkevich"@en	
+<http://www.wikidata.org/entity/Q573507>	<http://schema.org/description>	"American chemist"@en	
+<http://www.wikidata.org/entity/Q1339971>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1339971>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1339971>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q1339971>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fay Marbe"@en	
+<http://www.wikidata.org/entity/Q1339971>	<http://schema.org/description>	"American actress (1899-1986)"@en	
+<http://www.wikidata.org/entity/Q3086965>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3086965>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3086965>	<http://wikiba.se/ontology#sitelinks>	7	
+<http://www.wikidata.org/entity/Q3086965>	<http://www.w3.org/2000/01/rdf-schema#label>	"Frederick A. Turner"@en	
+<http://www.wikidata.org/entity/Q3086965>	<http://schema.org/description>	"American actor (1858-1923)"@en	
+<http://www.wikidata.org/entity/Q724918>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q724918>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q724918>	<http://wikiba.se/ontology#sitelinks>	12	
+<http://www.wikidata.org/entity/Q724918>	<http://www.w3.org/2000/01/rdf-schema#label>	"Robin Riker"@en	
+<http://www.wikidata.org/entity/Q724918>	<http://schema.org/description>	"American actress"@en	
+<http://www.wikidata.org/entity/Q2842639>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2842639>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2842639>	<http://wikiba.se/ontology#sitelinks>	7	
+<http://www.wikidata.org/entity/Q2842639>	<http://www.w3.org/2000/01/rdf-schema#label>	"Amel Larrieux"@en	
+<http://www.wikidata.org/entity/Q2842639>	<http://schema.org/description>	"American singer-songwriter and keyboardist"@en	
+<http://www.wikidata.org/entity/Q3048511>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3048511>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3048511>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q3048511>	<http://www.w3.org/2000/01/rdf-schema#label>	"Edward Francis Hutton"@en	
+<http://www.wikidata.org/entity/Q3048511>	<http://schema.org/description>	"American financier (1875-1962)"@en	
+<http://www.wikidata.org/entity/Q2903159>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2903159>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2903159>	<http://wikiba.se/ontology#sitelinks>	6	
+<http://www.wikidata.org/entity/Q2903159>	<http://www.w3.org/2000/01/rdf-schema#label>	"Bill Chadwick"@en	
+<http://www.wikidata.org/entity/Q2903159>	<http://schema.org/description>	"American ice hockey official"@en	
+<http://www.wikidata.org/entity/Q3096070>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3096070>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3096070>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q3096070>	<http://www.w3.org/2000/01/rdf-schema#label>	"Johnny Messner"@en	
+<http://www.wikidata.org/entity/Q3096070>	<http://schema.org/description>	"American musician"@en	
+<http://www.wikidata.org/entity/Q310953>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q310953>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q310953>	<http://wikiba.se/ontology#sitelinks>	34	
+<http://www.wikidata.org/entity/Q310953>	<http://www.w3.org/2000/01/rdf-schema#label>	"Bill O'Reilly"@en	
+<http://www.wikidata.org/entity/Q310953>	<http://schema.org/description>	"American political commentator, journalist, author, and former television host (born 1949)"@en	
+<http://www.wikidata.org/entity/Q725395>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q725395>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q725395>	<http://wikiba.se/ontology#sitelinks>	30	
+<http://www.wikidata.org/entity/Q725395>	<http://www.w3.org/2000/01/rdf-schema#label>	"Tab Hunter"@en	
+<http://www.wikidata.org/entity/Q725395>	<http://schema.org/description>	"American actor and singer (1931-2018)"@en	
+<http://www.wikidata.org/entity/Q28755>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q28755>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q28755>	<http://wikiba.se/ontology#sitelinks>	62	
+<http://www.wikidata.org/entity/Q28755>	<http://www.w3.org/2000/01/rdf-schema#label>	"Matthew Broderick"@en	
+<http://www.wikidata.org/entity/Q28755>	<http://schema.org/description>	"American actor and singer (born 1962)"@en	
+<http://www.wikidata.org/entity/Q1337161>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1337161>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1337161>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q1337161>	<http://www.w3.org/2000/01/rdf-schema#label>	"Emile Capouya"@en	
+<http://www.wikidata.org/entity/Q1337161>	<http://schema.org/description>	"American essayist, writer, critic"@en	
+<http://www.wikidata.org/entity/Q586781>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q586781>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q586781>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q586781>	<http://www.w3.org/2000/01/rdf-schema#label>	"Larry Aldrich"@en	
+<http://www.wikidata.org/entity/Q586781>	<http://schema.org/description>	"American fashion design, art collector, and founder of the Aldrich Contemporary Art Museum (1906-2001)"@en	
+<http://www.wikidata.org/entity/Q680192>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q680192>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q680192>	<http://wikiba.se/ontology#sitelinks>	17	
+<http://www.wikidata.org/entity/Q680192>	<http://www.w3.org/2000/01/rdf-schema#label>	"Lawrence Weiner"@en	
+<http://www.wikidata.org/entity/Q680192>	<http://schema.org/description>	"American artist (1942–2021)"@en	
+<http://www.wikidata.org/entity/Q3026152>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3026152>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3026152>	<http://wikiba.se/ontology#sitelinks>	2	
+<http://www.wikidata.org/entity/Q3026152>	<http://www.w3.org/2000/01/rdf-schema#label>	"Diana Quinby"@en	
+<http://www.wikidata.org/entity/Q3026152>	<http://schema.org/description>	"American art historian and lithographer"@en	
+<http://www.wikidata.org/entity/Q1690>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1690>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1690>	<http://wikiba.se/ontology#sitelinks>	35	
+<http://www.wikidata.org/entity/Q1690>	<http://www.w3.org/2000/01/rdf-schema#label>	"Félix Sánchez"@en	
+<http://www.wikidata.org/entity/Q1690>	<http://schema.org/description>	"Dominican track and field athlete"@en	
+<http://www.wikidata.org/entity/Q2918841>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2918841>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2918841>	<http://wikiba.se/ontology#sitelinks>	10	
+<http://www.wikidata.org/entity/Q2918841>	<http://www.w3.org/2000/01/rdf-schema#label>	"Eileen Ford"@en	
+<http://www.wikidata.org/entity/Q2918841>	<http://schema.org/description>	"model agency executive (1922-2014)"@en	
+<http://www.wikidata.org/entity/Q313270>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q313270>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q313270>	<http://wikiba.se/ontology#sitelinks>	41	
+<http://www.wikidata.org/entity/Q313270>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jerome Kern"@en	
+<http://www.wikidata.org/entity/Q313270>	<http://schema.org/description>	"American composer of musical theater and popular music (1885-1945)"@en	
+<http://www.wikidata.org/entity/Q620795>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q620795>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q620795>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q620795>	<http://www.w3.org/2000/01/rdf-schema#label>	"Matt Hunter Correa"@en	
+<http://www.wikidata.org/entity/Q620795>	<http://schema.org/description>	"American teen pop singer and voice actor"@en	
+<http://www.wikidata.org/entity/Q2940972>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2940972>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2940972>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q2940972>	<http://www.w3.org/2000/01/rdf-schema#label>	"Casey Chaos"@en	
+<http://www.wikidata.org/entity/Q2940972>	<http://schema.org/description>	"American singer"@en	
+<http://www.wikidata.org/entity/Q4985>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q4985>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q4985>	<http://wikiba.se/ontology#sitelinks>	121	
+<http://www.wikidata.org/entity/Q4985>	<http://www.w3.org/2000/01/rdf-schema#label>	"Herman Melville"@en	
+<http://www.wikidata.org/entity/Q4985>	<http://schema.org/description>	"American novelist, short story writer, essayist, and poet"@en	
+<http://www.wikidata.org/entity/Q573273>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q573273>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q573273>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q573273>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anthony Gaggi"@en	
+<http://www.wikidata.org/entity/Q573273>	<http://schema.org/description>	"American mobster"@en	
+<http://www.wikidata.org/entity/Q3379087>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3379087>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3379087>	<http://wikiba.se/ontology#sitelinks>	6	
+<http://www.wikidata.org/entity/Q3379087>	<http://www.w3.org/2000/01/rdf-schema#label>	"Philip Tannura"@en	
+<http://www.wikidata.org/entity/Q3379087>	<http://schema.org/description>	"American cinematographer (1897-1973)"@en	
+<http://www.wikidata.org/entity/Q1601828>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1601828>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1601828>	<http://wikiba.se/ontology#sitelinks>	7	
+<http://www.wikidata.org/entity/Q1601828>	<http://www.w3.org/2000/01/rdf-schema#label>	"Helen Deutsch"@en	
+<http://www.wikidata.org/entity/Q1601828>	<http://schema.org/description>	"American screenwriter, journalist, and songwriter (1906-1992)"@en	
+<http://www.wikidata.org/entity/Q687311>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q687311>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q687311>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q687311>	<http://www.w3.org/2000/01/rdf-schema#label>	"Frank Medrano"@en	
+<http://www.wikidata.org/entity/Q687311>	<http://schema.org/description>	"American actor"@en	
+<http://www.wikidata.org/entity/Q632812>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q632812>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q632812>	<http://wikiba.se/ontology#sitelinks>	7	
+<http://www.wikidata.org/entity/Q632812>	<http://www.w3.org/2000/01/rdf-schema#label>	"Vincent Astor"@en	
+<http://www.wikidata.org/entity/Q632812>	<http://schema.org/description>	"American businessman (1891-1959)"@en	
+<http://www.wikidata.org/entity/Q3082670>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3082670>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3082670>	<http://wikiba.se/ontology#sitelinks>	6	
+<http://www.wikidata.org/entity/Q3082670>	<http://www.w3.org/2000/01/rdf-schema#label>	"Frank Jay Gould"@en	
+<http://www.wikidata.org/entity/Q3082670>	<http://schema.org/description>	"American businessman (1877-1956)"@en	
+<http://www.wikidata.org/entity/Q680002>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q680002>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q680002>	<http://wikiba.se/ontology#sitelinks>	10	
+<http://www.wikidata.org/entity/Q680002>	<http://www.w3.org/2000/01/rdf-schema#label>	"Candace Pert"@en	
+<http://www.wikidata.org/entity/Q680002>	<http://schema.org/description>	"American neuroscientist (1946-2013)"@en	
+<http://www.wikidata.org/entity/Q1344150>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1344150>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1344150>	<http://wikiba.se/ontology#sitelinks>	13	
+<http://www.wikidata.org/entity/Q1344150>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mathieu Schneider"@en	
+<http://www.wikidata.org/entity/Q1344150>	<http://schema.org/description>	"American ice hockey player"@en	
+<http://www.wikidata.org/entity/Q318463>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q318463>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q318463>	<http://wikiba.se/ontology#sitelinks>	16	
+<http://www.wikidata.org/entity/Q318463>	<http://www.w3.org/2000/01/rdf-schema#label>	"Abel Kiviat"@en	
+<http://www.wikidata.org/entity/Q318463>	<http://schema.org/description>	"American athletics competitor"@en	
+<http://www.wikidata.org/entity/Q723672>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q723672>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q723672>	<http://wikiba.se/ontology#sitelinks>	14	
+<http://www.wikidata.org/entity/Q723672>	<http://www.w3.org/2000/01/rdf-schema#label>	"Brian O'Halloran"@en	
+<http://www.wikidata.org/entity/Q723672>	<http://schema.org/description>	"actor"@en	
+<http://www.wikidata.org/entity/Q3420496>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3420496>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3420496>	<http://wikiba.se/ontology#sitelinks>	4	
+<http://www.wikidata.org/entity/Q3420496>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ray Colcord"@en	
+<http://www.wikidata.org/entity/Q3420496>	<http://schema.org/description>	"American composer (1949-2016)"@en	
+<http://www.wikidata.org/entity/Q2857861>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2857861>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2857861>	<http://wikiba.se/ontology#sitelinks>	8	
+<http://www.wikidata.org/entity/Q2857861>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anya Seton"@en	
+<http://www.wikidata.org/entity/Q2857861>	<http://schema.org/description>	"American author of historical fiction (1904-1990)"@en	
+<http://www.wikidata.org/entity/Q7439>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q7439>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q7439>	<http://wikiba.se/ontology#sitelinks>	137	
+<http://www.wikidata.org/entity/Q7439>	<http://www.w3.org/2000/01/rdf-schema#label>	"Richard Stallman"@en	
+<http://www.wikidata.org/entity/Q7439>	<http://schema.org/description>	"American software freedom activist, short story writer and computer programmer, founder of the GNU project"@en	
+<http://www.wikidata.org/entity/Q3185911>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3185911>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3185911>	<http://wikiba.se/ontology#sitelinks>	9	
+<http://www.wikidata.org/entity/Q3185911>	<http://www.w3.org/2000/01/rdf-schema#label>	"Josephine Hopper"@en	
+<http://www.wikidata.org/entity/Q3185911>	<http://schema.org/description>	"American painter and model (1883-1967)"@en	
+<http://www.wikidata.org/entity/Q3423039>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3423039>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3423039>	<http://wikiba.se/ontology#sitelinks>	19	
+<http://www.wikidata.org/entity/Q3423039>	<http://www.w3.org/2000/01/rdf-schema#label>	"Reeve Carney"@en	
+<http://www.wikidata.org/entity/Q3423039>	<http://schema.org/description>	"American singer-songwriter and actor"@en	
+<http://www.wikidata.org/entity/Q696052>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q696052>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q696052>	<http://wikiba.se/ontology#sitelinks>	18	
+<http://www.wikidata.org/entity/Q696052>	<http://www.w3.org/2000/01/rdf-schema#label>	"Arnold Rothstein"@en	
+<http://www.wikidata.org/entity/Q696052>	<http://schema.org/description>	"Jewish American mobster"@en	
+<http://www.wikidata.org/entity/Q1606735>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1606735>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1606735>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q1606735>	<http://www.w3.org/2000/01/rdf-schema#label>	"Henry Fiol"@en	
+<http://www.wikidata.org/entity/Q1606735>	<http://schema.org/description>	"American musician"@en	
+<http://www.wikidata.org/entity/Q1452820>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1452820>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1452820>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q1452820>	<http://www.w3.org/2000/01/rdf-schema#label>	"Frederick Charles Stahr"@en	
+<http://www.wikidata.org/entity/Q1452820>	<http://schema.org/description>	"American painter (1876-1946)"@en	
+<http://www.wikidata.org/entity/Q3356992>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3356992>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3356992>	<http://wikiba.se/ontology#sitelinks>	6	
+<http://www.wikidata.org/entity/Q3356992>	<http://www.w3.org/2000/01/rdf-schema#label>	"Oscar Hernández"@en	
+<http://www.wikidata.org/entity/Q3356992>	<http://schema.org/description>	"American pianist, composer, arranger, and producer of Puerto Rican descent."@en	
+<http://www.wikidata.org/entity/Q670136>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q670136>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q670136>	<http://wikiba.se/ontology#sitelinks>	9	
+<http://www.wikidata.org/entity/Q670136>	<http://www.w3.org/2000/01/rdf-schema#label>	"George B. Post"@en	
+<http://www.wikidata.org/entity/Q670136>	<http://schema.org/description>	"American architect"@en	
+<http://www.wikidata.org/entity/Q3193121>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3193121>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3193121>	<http://wikiba.se/ontology#sitelinks>	6	
+<http://www.wikidata.org/entity/Q3193121>	<http://www.w3.org/2000/01/rdf-schema#label>	"Karen Olivo"@en	
+<http://www.wikidata.org/entity/Q3193121>	<http://schema.org/description>	"American actress"@en	
+<http://www.wikidata.org/entity/Q311779>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q311779>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q311779>	<http://wikiba.se/ontology#sitelinks>	34	
+<http://www.wikidata.org/entity/Q311779>	<http://www.w3.org/2000/01/rdf-schema#label>	"Josh Peck"@en	
+<http://www.wikidata.org/entity/Q311779>	<http://schema.org/description>	"American actor, voice actor, comedian, and YouTube personality"@en	
+<http://www.wikidata.org/entity/Q3436165>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3436165>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3436165>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q3436165>	<http://www.w3.org/2000/01/rdf-schema#label>	"Robert Riger"@en	
+<http://www.wikidata.org/entity/Q3436165>	<http://schema.org/description>	"American journalist"@en	
+<http://www.wikidata.org/entity/Q1386372>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1386372>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1386372>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q1386372>	<http://www.w3.org/2000/01/rdf-schema#label>	"Frederick Trubee Davison"@en	
+<http://www.wikidata.org/entity/Q1386372>	<http://schema.org/description>	"American politician and aviator (1896-1974)"@en	
+<http://www.wikidata.org/entity/Q3009497>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3009497>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3009497>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q3009497>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cyrus Vance, Jr."@en	
+<http://www.wikidata.org/entity/Q3009497>	<http://schema.org/description>	"American trial lawyer"@en	
+<http://www.wikidata.org/entity/Q2905010>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2905010>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2905010>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q2905010>	<http://www.w3.org/2000/01/rdf-schema#label>	"Jeff Greer"@en	
+<http://www.wikidata.org/entity/Q2905010>	<http://schema.org/description>	"Dominican basketball player"@en	
+<http://www.wikidata.org/entity/Q1334483>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1334483>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1334483>	<http://wikiba.se/ontology#sitelinks>	9	
+<http://www.wikidata.org/entity/Q1334483>	<http://www.w3.org/2000/01/rdf-schema#label>	"James Aloysius O'Gorman"@en	
+<http://www.wikidata.org/entity/Q1334483>	<http://schema.org/description>	"American politician (1860–1943)"@en	
+<http://www.wikidata.org/entity/Q562874>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q562874>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q562874>	<http://wikiba.se/ontology#sitelinks>	17	
+<http://www.wikidata.org/entity/Q562874>	<http://www.w3.org/2000/01/rdf-schema#label>	"Budd Schulberg"@en	
+<http://www.wikidata.org/entity/Q562874>	<http://schema.org/description>	"American novelist and screenwriter (1914-2009)"@en	
+<http://www.wikidata.org/entity/Q1341343>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1341343>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1341343>	<http://wikiba.se/ontology#sitelinks>	19	
+<http://www.wikidata.org/entity/Q1341343>	<http://www.w3.org/2000/01/rdf-schema#label>	"Neal Adams"@en	
+<http://www.wikidata.org/entity/Q1341343>	<http://schema.org/description>	"American comic book and commercial artist"@en	
+<http://www.wikidata.org/entity/Q1339910>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1339910>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1339910>	<http://wikiba.se/ontology#sitelinks>	13	
+<http://www.wikidata.org/entity/Q1339910>	<http://www.w3.org/2000/01/rdf-schema#label>	"Joseph Pearman"@en	
+<http://www.wikidata.org/entity/Q1339910>	<http://schema.org/description>	"American racewalker (1892-1961)"@en	
+<http://www.wikidata.org/entity/Q2850412>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2850412>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2850412>	<http://wikiba.se/ontology#sitelinks>	10	
+<http://www.wikidata.org/entity/Q2850412>	<http://www.w3.org/2000/01/rdf-schema#label>	"Ann Nocenti"@en	
+<http://www.wikidata.org/entity/Q2850412>	<http://schema.org/description>	"American journalist, comic book writer and editor"@en	
+<http://www.wikidata.org/entity/Q561809>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q561809>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q561809>	<http://wikiba.se/ontology#sitelinks>	18	
+<http://www.wikidata.org/entity/Q561809>	<http://www.w3.org/2000/01/rdf-schema#label>	"Richard Hunt"@en	
+<http://www.wikidata.org/entity/Q561809>	<http://schema.org/description>	"American puppeteer (1951-1992)"@en	
+<http://www.wikidata.org/entity/Q2907941>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2907941>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2907941>	<http://wikiba.se/ontology#sitelinks>	10	
+<http://www.wikidata.org/entity/Q2907941>	<http://www.w3.org/2000/01/rdf-schema#label>	"Bobby Caldwell"@en	
+<http://www.wikidata.org/entity/Q2907941>	<http://schema.org/description>	"singer, songwriter and multi-instrumentalist"@en	
+<http://www.wikidata.org/entity/Q11239>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q11239>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q11239>	<http://wikiba.se/ontology#sitelinks>	55	
+<http://www.wikidata.org/entity/Q11239>	<http://www.w3.org/2000/01/rdf-schema#label>	"David Rockefeller"@en	
+<http://www.wikidata.org/entity/Q11239>	<http://schema.org/description>	"American banker and philanthropist"@en	
+<http://www.wikidata.org/entity/Q2856134>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q2856134>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q2856134>	<http://wikiba.se/ontology#sitelinks>	11	
+<http://www.wikidata.org/entity/Q2856134>	<http://www.w3.org/2000/01/rdf-schema#label>	"John Gatins"@en	
+<http://www.wikidata.org/entity/Q2856134>	<http://schema.org/description>	"American screenwriter, director, and actor"@en	
+<http://www.wikidata.org/entity/Q579475>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q579475>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q579475>	<http://wikiba.se/ontology#sitelinks>	24	
+<http://www.wikidata.org/entity/Q579475>	<http://www.w3.org/2000/01/rdf-schema#label>	"Oscar Hijuelos"@en	
+<http://www.wikidata.org/entity/Q579475>	<http://schema.org/description>	"Cuban-American writer"@en	
+<http://www.wikidata.org/entity/Q1396743>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1396743>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1396743>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q1396743>	<http://www.w3.org/2000/01/rdf-schema#label>	"Farish Jenkins"@en	
+<http://www.wikidata.org/entity/Q1396743>	<http://schema.org/description>	"paleontologist (1940-2012)"@en	
+<http://www.wikidata.org/entity/Q3018986>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3018986>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3018986>	<http://wikiba.se/ontology#sitelinks>	5	
+<http://www.wikidata.org/entity/Q3018986>	<http://www.w3.org/2000/01/rdf-schema#label>	"Lee J. Ames"@en	
+<http://www.wikidata.org/entity/Q3018986>	<http://schema.org/description>	"American illustrator (1921-2011)"@en	
+<http://www.wikidata.org/entity/Q3086955>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3086955>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3086955>	<http://wikiba.se/ontology#sitelinks>	9	
+<http://www.wikidata.org/entity/Q3086955>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fred Seibert"@en	
+<http://www.wikidata.org/entity/Q3086955>	<http://schema.org/description>	"American media entrepreneur"@en	
+<http://www.wikidata.org/entity/Q1353450>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1353450>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1353450>	<http://wikiba.se/ontology#sitelinks>	24	
+<http://www.wikidata.org/entity/Q1353450>	<http://www.w3.org/2000/01/rdf-schema#label>	"William Magear Tweed"@en	
+<http://www.wikidata.org/entity/Q1353450>	<http://schema.org/description>	"American politician (1823-1878)"@en	
+<http://www.wikidata.org/entity/Q310975>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q310975>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q310975>	<http://wikiba.se/ontology#sitelinks>	31	
+<http://www.wikidata.org/entity/Q310975>	<http://www.w3.org/2000/01/rdf-schema#label>	"Tico Torres"@en	
+<http://www.wikidata.org/entity/Q310975>	<http://schema.org/description>	"Drummer, painter"@en	
+<http://www.wikidata.org/entity/Q704433>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q704433>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q704433>	<http://wikiba.se/ontology#sitelinks>	34	
+<http://www.wikidata.org/entity/Q704433>	<http://www.w3.org/2000/01/rdf-schema#label>	"Tony Kushner"@en	
+<http://www.wikidata.org/entity/Q704433>	<http://schema.org/description>	"American playwright and screenwriter"@en	
+<http://www.wikidata.org/entity/Q645362>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q645362>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q645362>	<http://wikiba.se/ontology#sitelinks>	10	
+<http://www.wikidata.org/entity/Q645362>	<http://www.w3.org/2000/01/rdf-schema#label>	"Andrew Solomon"@en	
+<http://www.wikidata.org/entity/Q645362>	<http://schema.org/description>	"American journalist"@en	
+<http://www.wikidata.org/entity/Q313198>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q313198>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q313198>	<http://wikiba.se/ontology#sitelinks>	40	
+<http://www.wikidata.org/entity/Q313198>	<http://www.w3.org/2000/01/rdf-schema#label>	"Red Buttons"@en	
+<http://www.wikidata.org/entity/Q313198>	<http://schema.org/description>	"American comedian and actor (1919-2006)"@en	
+<http://www.wikidata.org/entity/Q1348801>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1348801>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1348801>	<http://wikiba.se/ontology#sitelinks>	10	
+<http://www.wikidata.org/entity/Q1348801>	<http://www.w3.org/2000/01/rdf-schema#label>	"James Conlon"@en	
+<http://www.wikidata.org/entity/Q1348801>	<http://schema.org/description>	"American conductor"@en	
+<http://www.wikidata.org/entity/Q1332885>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1332885>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1332885>	<http://wikiba.se/ontology#sitelinks>	24	
+<http://www.wikidata.org/entity/Q1332885>	<http://www.w3.org/2000/01/rdf-schema#label>	"Julian Beck"@en	
+<http://www.wikidata.org/entity/Q1332885>	<http://schema.org/description>	"American actor, director and writer (1925-1985)"@en	
+<http://www.wikidata.org/entity/Q3185183>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3185183>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3185183>	<http://wikiba.se/ontology#sitelinks>	1	
+<http://www.wikidata.org/entity/Q3185183>	<http://www.w3.org/2000/01/rdf-schema#label>	"Joseph L. McEveety"@en	
+<http://www.wikidata.org/entity/Q3185183>	<http://schema.org/description>	"American screenwriter"@en	
+<http://www.wikidata.org/entity/Q3018970>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3018970>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3018970>	<http://wikiba.se/ontology#sitelinks>	3	
+<http://www.wikidata.org/entity/Q3018970>	<http://www.w3.org/2000/01/rdf-schema#label>	"David Weil"@en	
+<http://www.wikidata.org/entity/Q3018970>	<http://schema.org/description>	"American economist"@en	
+<http://www.wikidata.org/entity/Q3403682>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3403682>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3403682>	<http://wikiba.se/ontology#sitelinks>	12	
+<http://www.wikidata.org/entity/Q3403682>	<http://www.w3.org/2000/01/rdf-schema#label>	"Bennett Cerf"@en	
+<http://www.wikidata.org/entity/Q3403682>	<http://schema.org/description>	"American publisher and author (1898-1971)"@en	
+<http://www.wikidata.org/entity/Q1338103>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1338103>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1338103>	<http://wikiba.se/ontology#sitelinks>	12	
+<http://www.wikidata.org/entity/Q1338103>	<http://www.w3.org/2000/01/rdf-schema#label>	"Emma Stebbins"@en	
+<http://www.wikidata.org/entity/Q1338103>	<http://schema.org/description>	"American artist"@en	
+<http://www.wikidata.org/entity/Q585081>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q585081>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q585081>	<http://wikiba.se/ontology#sitelinks>	14	
+<http://www.wikidata.org/entity/Q585081>	<http://www.w3.org/2000/01/rdf-schema#label>	"Daniel E. Koshland, Jr."@en	
+<http://www.wikidata.org/entity/Q585081>	<http://schema.org/description>	"American biochemist (1920-2007)"@en	
+<http://www.wikidata.org/entity/Q1421035>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q1421035>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q1421035>	<http://wikiba.se/ontology#sitelinks>	8	
+<http://www.wikidata.org/entity/Q1421035>	<http://www.w3.org/2000/01/rdf-schema#label>	"Yale Summers"@en	
+<http://www.wikidata.org/entity/Q1421035>	<http://schema.org/description>	"actor from the United States (1933-2012)"@en	
+<http://www.wikidata.org/entity/Q587102>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q587102>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q587102>	<http://wikiba.se/ontology#sitelinks>	29	
+<http://www.wikidata.org/entity/Q587102>	<http://www.w3.org/2000/01/rdf-schema#label>	"Robert Downey Sr."@en	
+<http://www.wikidata.org/entity/Q587102>	<http://schema.org/description>	"American actor and director (1936–2021)"@en	
+<http://www.wikidata.org/entity/Q3189161>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3189161>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3189161>	<http://wikiba.se/ontology#sitelinks>	16	
+<http://www.wikidata.org/entity/Q3189161>	<http://www.w3.org/2000/01/rdf-schema#label>	"Julie Bennett"@en	
+<http://www.wikidata.org/entity/Q3189161>	<http://schema.org/description>	"American actress (1932-2020)"@en	
+<http://www.wikidata.org/entity/Q3408673>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q3408673>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q3408673>	<http://wikiba.se/ontology#sitelinks>	6	
+<http://www.wikidata.org/entity/Q3408673>	<http://www.w3.org/2000/01/rdf-schema#label>	"Stephen Coronel"@en	
+<http://www.wikidata.org/entity/Q3408673>	<http://schema.org/description>	"American guitarist"@en	
+<http://www.wikidata.org/entity/Q703057>	<http://www.wikidata.org/prop/direct/P31>	<http://www.wikidata.org/entity/Q5>	
+<http://www.wikidata.org/entity/Q703057>	<http://www.wikidata.org/prop/direct/P19>	<http://www.wikidata.org/entity/Q11299>	
+<http://www.wikidata.org/entity/Q703057>	<http://wikiba.se/ontology#sitelinks>	16	
+<http://www.wikidata.org/entity/Q703057>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mickey Marcus"@en	
+<http://www.wikidata.org/entity/Q703057>	<http://schema.org/description>	"Israeli general"@en	

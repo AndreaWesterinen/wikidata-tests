@@ -1,0 +1,12 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/P7181>	<http://wikiba.se/ontology#propertyType>	<http://wikiba.se/ontology#ExternalId>	
+<http://www.wikidata.org/entity/P7181>	<http://www.wikidata.org/prop/direct/P1630>	"https://publiclands.org/pages/site?=$1"	
+<http://www.wikidata.org/entity/P7181>	<http://www.w3.org/2000/01/rdf-schema#label>	"PLIA ID"@en	
+<http://www.wikidata.org/entity/P7181>	<http://schema.org/description>	"identifier for a place on the Public Lands Interpretive Association website"@en	
+<http://www.wikidata.org/entity/P7182>	<http://wikiba.se/ontology#propertyType>	<http://wikiba.se/ontology#ExternalId>	
+<http://www.wikidata.org/entity/P7182>	<http://www.w3.org/2000/01/rdf-schema#label>	"IBP 4-letter bird species alpha code"@en	
+<http://www.wikidata.org/entity/P7182>	<http://schema.org/description>	"Standardized four-letter alphabetic code for bird species by the Institute for Bird Populations"@en	
+<http://www.wikidata.org/entity/P7180>	<http://wikiba.se/ontology#propertyType>	<http://wikiba.se/ontology#ExternalId>	
+<http://www.wikidata.org/entity/P7180>	<http://www.wikidata.org/prop/direct/P1630>	"https://www.planespotters.net/airframe/wd//wd/$1"	
+<http://www.wikidata.org/entity/P7180>	<http://www.w3.org/2000/01/rdf-schema#label>	"Planespotters.net aircraft ID"@en	
+<http://www.wikidata.org/entity/P7180>	<http://schema.org/description>	"identifier for an aircraft on the Planespotters.net website"@en	

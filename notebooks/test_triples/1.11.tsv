@@ -1,0 +1,54 @@
+?subject	?predicate	?object	?context
+<http://www.wikidata.org/entity/Q27954833>	<http://www.wikidata.org/prop/direct/P18>	<http://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Harrisson%201995%20B.jpg>	
+<http://www.wikidata.org/entity/Q27954833>	<http://www.wikidata.org/prop/direct/P106>	<http://www.wikidata.org/entity/Q3621491>	
+<http://www.wikidata.org/entity/Q3621491>	<http://www.w3.org/2000/01/rdf-schema#label>	"archaeologist"@en	
+<http://www.wikidata.org/entity/Q27954833>	<http://www.wikidata.org/prop/direct/P569>	"1922-09-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q27954833>	<http://www.wikidata.org/prop/direct/P570>	"2015-12-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q27954833>	<http://www.w3.org/2000/01/rdf-schema#label>	"Barbara Harrisson"@en	
+<http://www.wikidata.org/entity/Q27954833>	<http://schema.org/description>	"German archeologist and museum director"@en	
+<http://www.wikidata.org/entity/Q27954833>	<http://www.wikidata.org/prop/direct/P106>	<http://www.wikidata.org/entity/Q4773904>	
+<http://www.wikidata.org/entity/Q4773904>	<http://www.w3.org/2000/01/rdf-schema#label>	"anthropologist"@en	
+<http://www.wikidata.org/entity/Q4858963>	<http://www.wikidata.org/prop/direct/P27>	<http://www.wikidata.org/entity/Q30>	
+<http://www.wikidata.org/entity/Q30>	<http://www.w3.org/2000/01/rdf-schema#label>	"United States of America"@en	
+<http://www.wikidata.org/entity/Q4858963>	<http://www.wikidata.org/prop/direct/P106>	<http://www.wikidata.org/entity/Q177220>	
+<http://www.wikidata.org/entity/Q177220>	<http://www.w3.org/2000/01/rdf-schema#label>	"singer"@en	
+<http://www.wikidata.org/entity/Q4858963>	<http://www.wikidata.org/prop/direct/P569>	"1945-08-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4858963>	<http://www.w3.org/2000/01/rdf-schema#label>	"Barbara Harris"@en	
+<http://www.wikidata.org/entity/Q4858963>	<http://schema.org/description>	"American singer born 1945"@en	
+<http://www.wikidata.org/entity/Q4859015>	<http://www.wikidata.org/prop/direct/P27>	<http://www.wikidata.org/entity/Q145>	
+<http://www.wikidata.org/entity/Q145>	<http://www.w3.org/2000/01/rdf-schema#label>	"United Kingdom"@en	
+<http://www.wikidata.org/entity/Q4859015>	<http://www.wikidata.org/prop/direct/P106>	<http://www.wikidata.org/entity/Q101539>	
+<http://www.wikidata.org/entity/Q101539>	<http://www.w3.org/2000/01/rdf-schema#label>	"flight attendant"@en	
+<http://www.wikidata.org/entity/Q4859015>	<http://www.wikidata.org/prop/direct/P569>	"1945-05-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4859015>	<http://www.wikidata.org/prop/direct/P570>	"1968-04-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4859015>	<http://www.w3.org/2000/01/rdf-schema#label>	"Barbara Jane Harrison"@en	
+<http://www.wikidata.org/entity/Q4859015>	<http://schema.org/description>	"British flight attendant; recipient of the George Cross"@en	
+<http://www.wikidata.org/entity/Q27954833>	<http://www.wikidata.org/prop/direct/P569>	"1922-05-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q24576851>	<http://www.wikidata.org/prop/direct/P106>	<http://www.wikidata.org/entity/Q2405480>	
+<http://www.wikidata.org/entity/Q2405480>	<http://www.w3.org/2000/01/rdf-schema#label>	"voice actor"@en	
+<http://www.wikidata.org/entity/Q24576851>	<http://www.w3.org/2000/01/rdf-schema#label>	"Barbara Harris"@en	
+<http://www.wikidata.org/entity/Q24576851>	<http://schema.org/description>	"voice actress"@en	
+<http://www.wikidata.org/entity/Q269809>	<http://www.wikidata.org/prop/direct/P27>	<http://www.wikidata.org/entity/Q30>	
+<http://www.wikidata.org/entity/Q269809>	<http://www.wikidata.org/prop/direct/P106>	<http://www.wikidata.org/entity/Q2259451>	
+<http://www.wikidata.org/entity/Q2259451>	<http://www.w3.org/2000/01/rdf-schema#label>	"stage actor"@en	
+<http://www.wikidata.org/entity/Q269809>	<http://www.wikidata.org/prop/direct/P569>	"1935-07-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q269809>	<http://www.wikidata.org/prop/direct/P570>	"2018-08-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q269809>	<http://www.w3.org/2000/01/rdf-schema#label>	"Barbara Harris"@en	
+<http://www.wikidata.org/entity/Q269809>	<http://schema.org/description>	"American actress (1935-2018)"@en	
+<http://www.wikidata.org/entity/Q274590>	<http://www.wikidata.org/prop/direct/P18>	<http://commons.wikimedia.org/wiki/Special:FilePath/Rt%20rev%20barbara%20harris102x135.jpg>	
+<http://www.wikidata.org/entity/Q274590>	<http://www.wikidata.org/prop/direct/P27>	<http://www.wikidata.org/entity/Q30>	
+<http://www.wikidata.org/entity/Q274590>	<http://www.wikidata.org/prop/direct/P106>	<http://www.wikidata.org/entity/Q42603>	
+<http://www.wikidata.org/entity/Q42603>	<http://www.w3.org/2000/01/rdf-schema#label>	"priest"@en	
+<http://www.wikidata.org/entity/Q274590>	<http://www.wikidata.org/prop/direct/P569>	"1930-06-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q274590>	<http://www.wikidata.org/prop/direct/P570>	"2020-03-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q274590>	<http://www.w3.org/2000/01/rdf-schema#label>	"Barbara Harris"@en	
+<http://www.wikidata.org/entity/Q274590>	<http://schema.org/description>	"American bishop (1930-2020)"@en	
+<http://www.wikidata.org/entity/Q269809>	<http://www.wikidata.org/prop/direct/P106>	<http://www.wikidata.org/entity/Q10798782>	
+<http://www.wikidata.org/entity/Q10798782>	<http://www.w3.org/2000/01/rdf-schema#label>	"television actor"@en	
+<http://www.wikidata.org/entity/Q269809>	<http://www.wikidata.org/prop/direct/P106>	<http://www.wikidata.org/entity/Q177220>	
+<http://www.wikidata.org/entity/Q807461>	<http://www.w3.org/2000/01/rdf-schema#label>	"Barbara Harris"@en	
+<http://www.wikidata.org/entity/Q807461>	<http://schema.org/description>	"Wikimedia disambiguation page"@en	
+<http://www.wikidata.org/entity/Q269809>	<http://www.wikidata.org/prop/direct/P106>	<http://www.wikidata.org/entity/Q10800557>	
+<http://www.wikidata.org/entity/Q10800557>	<http://www.w3.org/2000/01/rdf-schema#label>	"film actor"@en	
+<http://www.wikidata.org/entity/Q269809>	<http://www.wikidata.org/prop/direct/P106>	<http://www.wikidata.org/entity/Q33999>	
+<http://www.wikidata.org/entity/Q33999>	<http://www.w3.org/2000/01/rdf-schema#label>	"actor"@en	
